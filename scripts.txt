@@ -1,0 +1,5 @@
+## Im forgetful hence:
+.\env\Scripts\Activate.ps1
+
+packages:
+pip install elasticsearch markdown
