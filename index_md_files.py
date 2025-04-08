@@ -2,10 +2,13 @@ import os
 import glob
 import markdown  # Optional: for converting markdown to HTML
 from elasticsearch import Elasticsearch
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Connect to Elasticsearch (assumes running on localhost:9200)
 es = Elasticsearch("http://localhost:9200",
-                   basic_auth=("elastic", "kaioken"))  # Replace with your credentials
+                   basic_auth=(os.getenv('username'),os.getenv('password')))  # Replace with your credentials
 
 def create_index(index_name):
     # Check if the index already exists

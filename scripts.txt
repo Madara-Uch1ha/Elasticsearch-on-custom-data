@@ -5,3 +5,7 @@ packages:
 pip install elasticsearch markdown
 
 elastic: http://localhost:9200
+
+elastic and kibana versions:
+elasticsearch-8.17.4-windows-x86_64/
+kibana-8.17.4-windows-x86_64/kibana-8.17.4
