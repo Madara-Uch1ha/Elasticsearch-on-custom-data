@@ -1,0 +1,194 @@
+Food Category No. 12.1.2 Salt Substitutes
+| Additive                                                                                  | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes   |
+|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|---------|
+| MAGNESIUM SULFATE                                                                         | 518                                                                                                                                     |           2015 | GMP         |         |
+| MALIC ACID, DL-                                                                           | 296                                                                                                                                     |           2013 | GMP         |         |
+| MANNITOL                                                                                  | 421                                                                                                                                     |           2014 | GMP         |         |
+| METHYL CELLULOSE                                                                          | 461                                                                                                                                     |           2014 | GMP         |         |
+| METHYL ETHYL CELLULOSE                                                                    | 465                                                                                                                                     |           2014 | GMP         |         |
+| MICROCRYSTALLINE CELLULOSE (CELLULOSE GEL)                                                | 460(i)                                                                                                                                  |           2014 | GMP         |         |
+| MONO- AND DI-GLYCERIDES OF FATTY ACIDS                                                    | 471                                                                                                                                     |           2014 | GMP         |         |
+| MONOAMMONIUM L-GLUTAMATE                                                                  | 624                                                                                                                                     |           2015 | GMP         |         |
+| MONOPOTASSIUM L-GLUTAMATE                                                                 | 622                                                                                                                                     |           2015 | GMP         |         |
+| MONOSODIUM L-GLUTAMATE                                                                    | 621                                                                                                                                     |           2015 | GMP         |         |
+| OXIDIZED STARCH                                                                           | 1404                                                                                                                                    |           2014 | GMP         |         |
+| PECTINS                                                                                   | 440                                                                                                                                     |           2014 | GMP         |         |
+| PHOSPHATES                                                                                | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2012 | 4400mg/kg   | 33      |
+| POTASSIUM 5'-INOSINATE                                                                    | 632                                                                                                                                     |           2015 | GMP         |         |
+| POTASSIUM CHLORIDE                                                                        | 508                                                                                                                                     |           2014 | GMP         |         |
+| POTASSIUM DIHYDROGEN CITRATE                                                              | 332(i)                                                                                                                                  |           2013 | GMP         |         |
+| POWDERED CELLULOSE                                                                        | 460(ii)                                                                                                                                 |           2014 | GMP         |         |
+| SALTS OF MYRISTIC, PALMITIC AND STEARIC ACIDS WITH AMMONIA, CALCIUM, POTASSIUM AND SODIUM | 470(i)                                                                                                                                  |           2014 | GMP         |         |
+| SALTS OF OLEIC ACID WITH CALCIUM, POTASSIUM AND SODIUM                                    | 470(ii)                                                                                                                                 |           2014 | GMP         |         |
+| SILICON DIOXIDE, AMORPHOUS                                                                | 551                                                                                                                                     |           2015 | GMP         |         |
+| SODIUM ACETATE                                                                            | 262(i)                                                                                                                                  |           2013 | GMP         |         |
+| SODIUM ASCORBATE                                                                          | 301                                                                                                                                     |           2015 | GMP         | 314     |
+| SODIUM CARBONATE                                                                          | 500(i)                                                                                                                                  |           2013 | GMP         |         |
+| SODIUM CARBOXYMETHYL CELLULOSE (CELLULOSE GUM)                                            | 466                                                                                                                                     |           2014 | GMP         |         |
+| SODIUM DIHYDROGEN CITRATE                                                                 | 331(i)                                                                                                                                  |           2013 | GMP         |         |
+| SODIUM FUMARATES                                                                          | 365                                                                                                                                     |           2013 | GMP         |         |
+| SODIUM GLUCONATE                                                                          | 576                                                                                                                                     |           2014 | GMP         |         |
+| TALC                                                                                      | 553(iii)                                                                                                                                |           2015 | GMP         |         |
+| THAUMATIN                                                                                 | 957                                                                                                                                     |           2023 | GMP         | 491     |
+| TRAGACANTH GUM                                                                            | 413                                                                                                                                     |           2014 | GMP         |         |
+| TRIPOTASSIUM CITRATE                                                                      | 332(ii)                                                                                                                                 |           2013 | GMP         |         |
+| TRISODIUM CITRATE                                                                         | 331(iii)                                                                                                                                |           2013 | GMP         |         |
+Food Category No.
+12.1.2 Salt Substitutes
+| Additive    |   INS |   Year Adopted | Max Level   | Notes   |
+|-------------|-------|----------------|-------------|---------|
+| XANTHAN GUM |   415 |           2014 | GMP         |         |
+Food Category No. 12.2
+Herbs, spices, seasonings and condiments (e.g. seasoning for instant noodles)
+| Additive                        | INS           |   Year Adopted | Max Level   | Notes                        |
+|---------------------------------|---------------|----------------|-------------|------------------------------|
+| ASCORBYL ESTERS                 | 304, 305      |           2021 | 500mg/kg    | 10, XS326, XS327, XS328      |
+| BUTYLATED HYDROXYANISOLE        | 320           |           2021 | 200mg/kg    | 15, 130, XS326, XS327, XS328 |
+| BUTYLATED HYDROXYTOLUENE        | 321           |           2021 | 200mg/kg    | 15, 130, XS326, XS327, XS328 |
+| ETHYLENE DIAMINE TETRA ACETATES | 385, 386      |           2021 | 70mg/kg     | 21, XS326, XS327, XS328      |
+| PROPYL GALLATE                  | 310           |           2021 | 200mg/kg    | 15, 130, XS326, XS327, XS328 |
+| SORBATES                        | 200, 202, 203 |           2021 | 1000mg/kg   | 42, XS326, XS327, XS328      |
+| TERTIARY BUTYLHYDROQUINONE      | 319           |           2021 | 200mg/kg    | 15, 130, XS326, XS327, XS328 |
+| TOCOPHEROLS                     | 307a, b, c    |           2018 | 2000mg/kg   | 421, XS326, XS327, XS328     |
+Food Category No.
+12.2.1
+Herbs and spices
+| Additive                                                                                  | INS      |   Year Adopted | Max Level   | Notes               |
+|-------------------------------------------------------------------------------------------|----------|----------------|-------------|---------------------|
+| CALCIUM CARBONATE                                                                         | 170(i)   |           2021 | GMP         | 534                 |
+| CALCIUM SILICATE                                                                          | 552      |           2021 | GMP         | 534                 |
+| HYDROXYPROPYL DISTARCH PHOSPHATE                                                          | 1442     |           2021 | GMP         | 534                 |
+| MAGNESIUM CARBONATE                                                                       | 504(i)   |           2021 | GMP         | 534                 |
+| MAGNESIUM HYDROXIDE CARBONATE                                                             | 504(ii)  |           2021 | GMP         | 534                 |
+| MAGNESIUM OXIDE                                                                           | 530      |           2021 | GMP         | 534                 |
+| MAGNESIUM SILICATE, SYNTHETIC                                                             | 553(i)   |           2021 | GMP         | 534                 |
+| MAGNESIUM STEARATE                                                                        | 470(iii) |           2021 | GMP         | 534                 |
+| MANNITOL                                                                                  | 421      |           2021 | GMP         | 534                 |
+| MICROCRYSTALLINE CELLULOSE (CELLULOSE GEL)                                                | 460(i)   |           2021 | GMP         | 534                 |
+| POLYSORBATES                                                                              | 432-436  |           2021 | 2000mg/kg   | XS326, XS327, XS328 |
+| POWDERED CELLULOSE                                                                        | 460(ii)  |           2021 | GMP         | 534                 |
+| SALTS OF MYRISTIC, PALMITIC AND STEARIC ACIDS WITH AMMONIA, CALCIUM, POTASSIUM AND SODIUM | 470(i)   |           2021 | GMP         | 534                 |
+| SALTS OF OLEIC ACID WITH CALCIUM, POTASSIUM AND SODIUM                                    | 470(ii)  |           2021 | GMP         | 534                 |
+| SILICON DIOXIDE, AMORPHOUS                                                                | 551      |           2021 | GMP         | 51 & 534            |
+Food Category No.
+12.2.1 Herbs and spices
+| Additive                  | INS            |   Year Adopted | Max Level   | Notes                     |
+|---------------------------|----------------|----------------|-------------|---------------------------|
+| SODIUM CARBONATE          | 500(i)         |           2021 | GMP         | 534                       |
+| SODIUM HYDROGEN CARBONATE | 500(ii)        |           2021 | GMP         | 534                       |
+| SODIUM SESQUICARBONATE    | 500(iii)       |           2021 | GMP         | 534                       |
+| SUCROSE ESTERS            | 473, 473a, 474 |           2021 | 2000mg/kg   | 422, XS326, XS327 & XS328 |
+| SULFITES                  | 220-225, 539   |           2006 | 150mg/kg    | 44, 532, XS327, XS328     |
+| TALC                      | 553(iii)       |           2021 | GMP         | 534                       |
+Food Category No. 12.2.2
+Seasonings and condiments
+| Additive                                          | INS                  |   Year Adopted | Max Level   | Notes    |
+|---------------------------------------------------|----------------------|----------------|-------------|----------|
+| ACESULFAME POTASSIUM                              | 950                  |           2023 | 2000mg/kg   | 188, 478 |
+| ADVANTAME                                         | 969                  |           2023 | 20mg/kg     | 478      |
+| ALLURA RED AC                                     | 129                  |           2009 | 300mg/kg    |          |
+| ANNATTO EXTRACTS, BIXIN-BASED                     | 160b(i)              |           2024 | 600mg/kg    | 8        |
+| ANNATTO EXTRACTS, NORBIXIN- BASED                 | 160b(ii)             |           2024 | 30mg/kg     | 185      |
+| ASPARTAME                                         | 951                  |           2023 | 2000mg/kg   | 191, 478 |
+| ASPARTAME-ACESULFAME SALT                         | 962                  |           2023 | 2000mg/kg   | 119, 477 |
+| AZORUBINE (CARMOISINE)                            | 122                  |           2024 | 500mg/kg    |          |
+| BENZOATES                                         | 210-213              |           2003 | 1000mg/kg   | 13       |
+| BRILLIANT BLUE FCF                                | 133                  |           2009 | 100mg/kg    |          |
+| CANTHAXANTHIN                                     | 161g                 |           2011 | 20mg/kg     |          |
+| CARAMEL II - SULFITE CARAMEL                      | 150b                 |           2024 | 50000mg/kg  |          |
+| CARAMEL III - AMMONIA CARAMEL                     | 150c                 |           2010 | 50000mg/kg  |          |
+| CARAMEL IV - SULFITE AMMONIA CARAMEL              | 150d                 |           2024 | 50000mg/kg  |          |
+| CARMINES                                          | 120                  |           2005 | 500mg/kg    | 178      |
+| CAROTENAL, BETA-APO-8'- (160e)                    | 160e                 |           2023 | 50mg/kg     |          |
+| CAROTENES, BETA-                                  | 160a(i),a(iii),a(iv) |           2023 | 100mg/kg    | 341, 344 |
+| CAROTENES, BETA-, VEGETABLE                       | 160a(ii)             |           2023 | 100mg/kg    | 341, 344 |
+| CHLOROPHYLLS AND CHLOROPHYLLINS, COPPER COMPLEXES | 141(i),(ii)          |           2009 | 500mg/kg    |          |
+| CURCUMIN                                          | 100(i)               |           2024 | 500mg/kg    | 467      |
+| ERYTHRITOL                                        | 968                  |           2023 | GMP         | 478      |
+| FAST GREEN FCF                                    | 143                  |           2009 | 100mg/kg    |          |
+| FERROCYANIDES                                     | 535, 536, 538        |           1999 | 20mg/kg     | 24       |
+| INDIGOTINE (INDIGO CARMINE)                       | 132                  |           2009 | 300mg/kg    |          |
+| IRON OXIDES                                       | 172(i)-(iii)         |           2005 | 1000mg/kg   |          |
+| ISOMALT (HYDROGENATED ISOMALTULOSE)               | 953                  |           2023 | GMP         | 478      |
+| LACTITOL                                          | 966                  |           2023 | GMP         | 477      |
+Food Category No. 12.2.2
+Seasonings and condiments
+| Additive                            | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes     |
+|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|-----------|
+| LAURIC ARGINATE ETHYL ESTER         | 243                                                                                                                                     |           2011 | 200mg/kg    |           |
+| MALTITOL                            | 965(i)                                                                                                                                  |           2023 | GMP         | 477       |
+| MALTITOL SYRUP                      | 965(ii)                                                                                                                                 |           2023 | GMP         | 477       |
+| NEOTAME                             | 961                                                                                                                                     |           2023 | 32mg/kg     | 478       |
+| PAPRIKA EXTRACT                     | 160c(ii)                                                                                                                                |           2024 | 350mg/kg    | 39        |
+| PHOSPHATES                          | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2012 | 2200mg/kg   | 33 & 226  |
+| POLYSORBATES                        | 432-436                                                                                                                                 |           2007 | 5000mg/kg   |           |
+| PONCEAU 4R (COCHINEAL RED A)        | 124                                                                                                                                     |           2008 | 500mg/kg    |           |
+| SACCHARINS                          | 954(i)-(iv)                                                                                                                             |           2024 | 150mg/kg    | 477 & 500 |
+| SODIUM ALUMINIUM SILICATE           | 554                                                                                                                                     |           2013 | 1000mg/kg   | 6 & 255   |
+| SORBITOL                            | 420(i)                                                                                                                                  |           2023 | GMP         | 477       |
+| SORBITOL SYRUP                      | 420(ii)                                                                                                                                 |           2023 | GMP         | 477       |
+| STEVIOL GLYCOSIDES                  | 960a, 960b, 960c, 960d                                                                                                                  |           2011 | 30mg/kg     | 26 & 477  |
+| SUCRALOSE (TRICHLOROGALACTOSUCROSE) | 955                                                                                                                                     |           2023 | 700mg/kg    | 478       |
+| SUCROSE ESTERS                      | 473, 473a, 474                                                                                                                          |           2021 | 20000mg/kg  | 423 & 424 |
+| SULFITES                            | 220-225, 539                                                                                                                            |           2006 | 200mg/kg    | 44        |
+| SUNSET YELLOW FCF                   | 110                                                                                                                                     |           2008 | 300mg/kg    |           |
+| TARTRATES                           | 334, 335(ii), 337                                                                                                                       |           2018 | 7500mg/kg   | 45        |
+| TARTRAZINE                          | 102                                                                                                                                     |           2024 | 425mg/kg    |           |
+| XYLITOL                             | 967                                                                                                                                     |           2023 | GMP         | 477       |
+Food Category No. 12.3
+Vinegars
+| Additive                             | INS         |   Year Adopted | Max Level   | Notes          |
+|--------------------------------------|-------------|----------------|-------------|----------------|
+| ACESULFAME POTASSIUM                 | 950         |           2021 | 2000mg/kg   | 188, 478 & 277 |
+| ADVANTAME                            | 969         |           2023 | 30mg/kg     | 277, 478       |
+| ASPARTAME                            | 951         |           2021 | 3000mg/kg   | 191, 478 & 277 |
+| ASPARTAME-ACESULFAME SALT            | 962         |           2023 | 2000mg/kg   | 113, 277, 477  |
+| BENZOATES                            | 210-213     |           2003 | 1000mg/kg   | 13             |
+| CARAMEL II - SULFITE CARAMEL         | 150b        |           2024 | 5000mg/kg   |                |
+| CARAMEL III - AMMONIA CARAMEL        | 150c        |           2010 | 1000mg/kg   | 78             |
+| CARAMEL IV - SULFITE AMMONIA CARAMEL | 150d        |           2011 | 50000mg/kg  |                |
+| HYDROXYBENZOATES, PARA-              | 214, 218    |           2012 | 100mg/kg    | 27             |
+| NEOTAME                              | 961         |           2021 | 12mg/kg     | 478 & 277      |
+| POLYVINYLPYRROLIDONE                 | 1201        |           1999 | 40mg/kg     |                |
+| SACCHARINS                           | 954(i)-(iv) |           2008 | 300mg/kg    | 500, 277 & 477 |
+Food Category No. 12.3
+Vinegars
+| Additive                            | INS          |   Year Adopted | Max Level   | Notes     |
+|-------------------------------------|--------------|----------------|-------------|-----------|
+| SUCRALOSE (TRICHLOROGALACTOSUCROSE) | 955          |           2021 | 400mg/kg    | 478 & 277 |
+| SULFITES                            | 220-225, 539 |           2006 | 100mg/kg    | 44        |
+Food Category No.
+12.4 Mustards
+| Additive                                           | INS                  |   Year Adopted | Max Level   | Notes     |
+|----------------------------------------------------|----------------------|----------------|-------------|-----------|
+| ACESULFAME POTASSIUM                               | 950                  |           2007 | 350mg/kg    | 188 & 478 |
+| ADVANTAME                                          | 969                  |           2023 | 3.5 mg/kg   | 478       |
+| ALLURA RED AC                                      | 129                  |           2009 | 300mg/kg    |           |
+| ANNATTO EXTRACTS, BIXIN-BASED                      | 160b(i)              |           2024 | 100mg/kg    | 8         |
+| ANNATTO EXTRACTS, NORBIXIN- BASED                  | 160b(ii)             |           2024 | 30mg/kg     | 185       |
+| ASCORBYL ESTERS                                    | 304, 305             |           2003 | 500mg/kg    | 10        |
+| ASPARTAME                                          | 951                  |           2007 | 350mg/kg    | 191 & 478 |
+| ASPARTAME-ACESULFAME SALT                          | 962                  |           2023 | 350mg/kg    | 119 & 478 |
+| AZORUBINE (CARMOISINE)                             | 122                  |           2024 | 300mg/kg    |           |
+| BENZOATES                                          | 210-213              |           2003 | 1000mg/kg   | 13        |
+| BRILLIANT BLACK (BLACK PN)                         | 151                  |           2024 | 300mg/kg    |           |
+| BRILLIANT BLUE FCF                                 | 133                  |           2009 | 100mg/kg    |           |
+| BROWN HT                                           | 155                  |           2024 | 300mg/kg    |           |
+| CARAMEL II - SULFITE CARAMEL                       | 150b                 |           2024 | 300mg/kg    |           |
+| CARAMEL III - AMMONIA CARAMEL                      | 150c                 |           2010 | 50000mg/kg  |           |
+| CARAMEL IV - SULFITE AMMONIA CARAMEL               | 150d                 |           2011 | 50000mg/kg  |           |
+| CARMINES                                           | 120                  |           2005 | 300mg/kg    | 178       |
+| CAROTENES, BETA-                                   | 160a(i),a(iii),a(iv) |           2023 | 5mg/kg      | 341, 344  |
+| CAROTENES, BETA-, VEGETABLE                        | 160a(ii)             |           2023 | 5mg/kg      | 341, 344  |
+| CHLOROPHYLLS AND CHLOROPHYLLINS, COPPER COMPLEXES  | 141(i),(ii)          |           2009 | 500mg/kg    |           |
+| CURCUMIN                                           | 100(i)               |           2024 | 300mg/kg    |           |
+| DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL | 472e                 |           2005 | 10000mg/kg  |           |
+| ETHYLENE DIAMINE TETRA ACETATES                    | 385, 386             |           2001 | 75mg/kg     | 21        |
+| GRAPE SKIN EXTRACT                                 | 163(ii)              |           2009 | 200mg/kg    | 181       |
+| HYDROXYBENZOATES, PARA-                            | 214, 218             |           2010 | 300mg/kg    | 27        |
+| INDIGOTINE (INDIGO CARMINE)                        | 132                  |           2009 | 300mg/kg    |           |
+| NEOTAME                                            | 961                  |           2007 | 12mg/kg     | 478       |
+| PAPRIKA EXTRACT                                    | 160c(ii)             |           2024 | 70mg/kg     | 39        |
+| PONCEAU 4R (COCHINEAL RED A)                       | 124                  |           2008 | 300mg/kg    |           |
+| QUINOLINE YELLOW                                   | 104                  |           2024 | 300mg/kg    |           |
+| SACCHARINS                                         | 954(i)-(iv)          |           2007 | 320mg/kg    | 500 & 477 |

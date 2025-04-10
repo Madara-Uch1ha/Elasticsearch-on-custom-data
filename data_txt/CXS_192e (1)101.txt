@@ -1,0 +1,216 @@
+Food Category No. 15.1
+Snacks - potato, cereal, flour or starch based (from roots and tubers, pulses and legumes)
+| Additive                                           | INS                  |   Year Adopted | Max Level   | Notes     |
+|----------------------------------------------------|----------------------|----------------|-------------|-----------|
+| AZORUBINE (CARMOISINE)                             | 122                  |           2024 | 200mg/kg    |           |
+| BENZOATES                                          | 210-213              |           2004 | 1000mg/kg   | 13        |
+| BRILLIANT BLACK (BLACK PN)                         | 151                  |           2024 | 200mg/kg    |           |
+| BRILLIANT BLUE FCF                                 | 133                  |           2005 | 200mg/kg    |           |
+| BROWN HT                                           | 155                  |           2024 | 200mg/kg    |           |
+| BUTYLATED HYDROXYANISOLE                           | 320                  |           2005 | 200mg/kg    | 15 & 130  |
+| CANTHAXANTHIN                                      | 161g                 |           2011 | 45mg/kg     |           |
+| CARMINES                                           | 120                  |           2005 | 200mg/kg    | 178       |
+| CAROTENAL, BETA-APO-8'- (160e)                     | 160e                 |           2023 | 30mg/kg     |           |
+| CAROTENES, BETA-                                   | 160a(i),a(iii),a(iv) |           2023 | 30mg/kg     | 341, 344  |
+| CAROTENES, BETA-, VEGETABLE                        | 160a(ii)             |           2023 | 30mg/kg     | 341, 344  |
+| CHLOROPHYLLS AND CHLOROPHYLLINS, COPPER COMPLEXES  | 141(i),(ii)          |           2009 | 350mg/kg    |           |
+| CURCUMIN                                           | 100(i)               |           2024 | 300mg/kg    |           |
+| CYCLODEXTRIN, BETA-                                | 459                  |           2004 | 500mg/kg    |           |
+| DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL | 472e                 |           2005 | 20000mg/kg  |           |
+| GRAPE SKIN EXTRACT                                 | 163(ii)              |           2009 | 500mg/kg    | 181       |
+| HYDROXYBENZOATES, PARA-                            | 214, 218             |           2009 | 300mg/kg    | 27        |
+| INDIGOTINE (INDIGO CARMINE)                        | 132                  |           2009 | 200mg/kg    |           |
+| IRON OXIDES                                        | 172(i)-(iii)         |           2005 | 500mg/kg    |           |
+| JAGUA (GENIPIN-GLYCINE) BLUE                       | 183                  |           2024 | 600mg/kg    | 601 & 604 |
+| PAPRIKA EXTRACT                                    | 160c(ii)             |           2024 | 250mg/kg    | 39        |
+| POLYGLYCEROL ESTERS OF FATTY ACIDS                 | 475                  |           2018 | 2000mg/kg   |           |
+| PONCEAU 4R (COCHINEAL RED A)                       | 124                  |           2008 | 200mg/kg    |           |
+| PROPYL GALLATE                                     | 310                  |           2005 | 200mg/kg    | 15 & 130  |
+| PROPYLENE GLYCOL                                   | 1520                 |           2018 | 300mg/kg    |           |
+| PROPYLENE GLYCOL ALGINATE                          | 405                  |           2018 | 3000mg/kg   |           |
+| QUINOLINE YELLOW                                   | 104                  |           2024 | 200mg/kg    |           |
+| SODIUM DIACETATE                                   | 262(ii)              |           2018 | 1000mg/kg   |           |
+| SORBATES                                           | 200, 202, 203        |           2009 | 1000mg/kg   | 42        |
+| SORBITAN ESTERS OF FATTY ACIDS                     | 491-495              |           2018 | 300mg/kg    |           |
+| STEAROYL LACTYLATES                                | 481(i), 482(i)       |           2018 | 5000mg/kg   | 432       |
+| SUCROSE ESTERS                                     | 473, 473a, 474       |           2021 | 5000mg/kg   | 433       |
+| SULFITES                                           | 220-225, 539         |           2006 | 50mg/kg     | 44        |
+| SUNSET YELLOW FCF                                  | 110                  |           2008 | 200mg/kg    |           |
+| TARTRAZINE                                         | 102                  |           2024 | 300mg/kg    |           |
+Food Category No. 15.1
+Snacks - potato, cereal, flour or starch based (from roots and tubers, pulses and legumes)
+| Additive    | INS        |   Year Adopted | Max Level   | Notes   |
+|-------------|------------|----------------|-------------|---------|
+| TOCOPHEROLS | 307a, b, c |           2018 | 200mg/kg    |         |
+Food Category No.
+15.2 Processed nuts, including coated nuts and
+nut mixtures (with e.g. dried fruit)
+| Additive                                           | INS                  |   Year Adopted | Max Level   | Notes    |
+|----------------------------------------------------|----------------------|----------------|-------------|----------|
+| ALLURA RED AC                                      | 129                  |           2009 | 100mg/kg    |          |
+| ANNATTO EXTRACTS, BIXIN-BASED                      | 160b(i)              |           2024 | 10mg/kg     | 8        |
+| ANNATTO EXTRACTS, NORBIXIN- BASED                  | 160b(ii)             |           2024 | 10mg/kg     | 185      |
+| ASCORBYL ESTERS                                    | 304, 305             |           2001 | 200mg/kg    | 10       |
+| AZORUBINE (CARMOISINE)                             | 122                  |           2024 | 100mg/kg    |          |
+| BRILLIANT BLACK (BLACK PN)                         | 151                  |           2024 | 100mg/kg    |          |
+| BRILLIANT BLUE FCF                                 | 133                  |           2005 | 100mg/kg    |          |
+| BROWN HT                                           | 155                  |           2024 | 100mg/kg    |          |
+| BUTYLATED HYDROXYANISOLE                           | 320                  |           2005 | 200mg/kg    | 15 & 130 |
+| CARMINES                                           | 120                  |           2005 | 100mg/kg    | 178      |
+| CAROTENES, BETA-                                   | 160a(i),a(iii),a(iv) |           2023 | 30mg/kg     | 341, 344 |
+| CAROTENES, BETA-, VEGETABLE                        | 160a(ii)             |           2023 | 30mg/kg     | 341, 344 |
+| CHLOROPHYLLS AND CHLOROPHYLLINS, COPPER COMPLEXES  | 141(i),(ii)          |           2009 | 100mg/kg    |          |
+| CURCUMIN                                           | 100(i)               |           2024 | 100mg/kg    |          |
+| DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL | 472e                 |           2005 | 10000mg/kg  |          |
+| GRAPE SKIN EXTRACT                                 | 163(ii)              |           2009 | 300mg/kg    | 181      |
+| HYDROXYBENZOATES, PARA-                            | 214, 218             |           2010 | 300mg/kg    | 27       |
+| INDIGOTINE (INDIGO CARMINE)                        | 132                  |           2009 | 100mg/kg    |          |
+| IRON OXIDES                                        | 172(i)-(iii)         |           2005 | 400mg/kg    |          |
+| PAPRIKA EXTRACT                                    | 160c(ii)             |           2024 | 100mg/kg    | 39       |
+| PONCEAU 4R (COCHINEAL RED A)                       | 124                  |           2008 | 100mg/kg    |          |
+| PROPYL GALLATE                                     | 310                  |           2005 | 200mg/kg    | 15 & 130 |
+| SORBATES                                           | 200, 202, 203        |           2009 | 1000mg/kg   | 42       |
+| TARTRAZINE                                         | 102                  |           2024 | 120mg/kg    |          |
+| TOCOPHEROLS                                        | 307a, b, c           |           2018 | 200mg/kg    |          |
+Food Category No. 15.3
+Snacks - fish based
+| Additive                    | INS      |   Year Adopted | Max Level   |   Notes |
+|-----------------------------|----------|----------------|-------------|---------|
+| CARMINES                    | 120      |           2009 | 200mg/kg    |     178 |
+| CAROTENES, BETA-, VEGETABLE | 160a(ii) |           2023 | 4mg/kg      |     341 |
+Food Category No. 15.3
+Snacks - fish based
+| Additive                                          | INS         |   Year Adopted | Max Level   | Notes   |
+|---------------------------------------------------|-------------|----------------|-------------|---------|
+| CHLOROPHYLLS AND CHLOROPHYLLINS, COPPER COMPLEXES | 141(i),(ii) |           2009 | 350mg/kg    |         |
+| GRAPE SKIN EXTRACT                                | 163(ii)     |           2011 | 400mg/kg    |         |
+| PAPRIKA EXTRACT                                   | 160c(ii)    |           2024 | 100mg/kg    | 39      |
+Notes to the General Standard for Food Additives
+1 Note
+As adipic acid.
+2 Note
+On the dry ingredient, dry weight, dry mix or concentrate basis.
+3 Note
+For use in surface treatment only.
+4 Note
+For use in decoration, stamping, marking or branding the product only.
+5 Note
+Excluding products conforming to the Standard for Jams, Jellies and Marmalades (CODEX STAN 296-2009).
+6 Note
+As aluminium.
+7 Note
+For use in coffee substitutes only.
+8 Note
+As bixin.
+9 Note
+Except for use in ready-to-drink coffee products at 10 000 mg/kg.
+10 Note
+As ascorbyl stearate.
+11
+On the flour basis.
+Note
+12
+Except for use in products conforming to the Standard for Cream and Prepared Creams (CXS 288-1976) as an acidity regulator.
+Note
+13 Note
+As benzoic acid.
+14
+For use in hydrolyzed protein liquid formula only.
+Note
+15
+On the fat or oil basis.
+Note
+16 Note
+For use in glaze, coatings or decorations for fruit, vegetables, meat or fish only. As cyclamic acid.
+17
+Note
+18
+As added level; residue not detected in ready-to-eat food.
+Note
+19 Note
+For use in products conforming to the Standard for Quick Frozen Shrimps and Prawns (CODEX STAN 92-1981) and the Standard for Quick Frozen Lobsters (CODEX STAN 95-1981): sulfur dioxide (INS 220), sodium sulfite (INS221), sodium hydrogen sulfite (INS 222), sodium metabisulfite (INS 223), Potassium metabisulfite (INS 224), potassium sulfite (INS 225)  as preservatives at 100 mg/kg in the edible part of the raw product, or 30 mg/kg in the edible part of the cooked product.
+20 Note
+Except for use in products conforming to the Standard for Salted Fish and Dried Salted Fish of the Gadidae Family of Fishes (CODEX STAN 167-1989) and the Standard for Salted Atlantic Herring and Salted Sprat (CODEX STAN 244-2004) at 200 mg/kg, and in smoked fish and smoke-flavoured fish in products conforming to the Standard for Smoked Fish, Smoke-Flavoured Fish and Smoke-Dried Fish (CODEX STAN 311-2013) at 2000 mg/kg for reduced oxygen packaged product only.
+21 Note
+As anhydrous calcium disodium ethylenediaminetetraacetate.
+22
+For use in smoked fish paste only.
+Note
+23 Note
+As iron.
+24 Note
+As anhydrous sodium ferrocyanide.
+25
+For use at GMP in full fat soy flour only.
+Note
+26
+As steviol equivalents.
+Note
+27
+As para-hydroxybenzoic acid.
+Note
+28 Note
+Except for use in wheat flour conforming to the standard for Wheat Flour (CODEX STAN 152-1985) at 2 000 mg/kg.
+29 Note
+For use in non-standardized food.
+30 Note
+As residual NO3 ion.
+31 Note
+On the mash used basis.
+32
+As residual NO2 ion.
+Note
+33 Note
+As phosphorus.
+34 Note
+On the anhydrous basis.
+35
+For use in cloudy juices only.
+Note
+36 Note
+On the residual level basis.
+37 Note
+Except for products conforming to the Standard for Chocolate and Chocolate Products (CODEX STAN 87-1981) at 2000 mg/kg.
+Table Two
+| Note   |   38 | On the creaming mixture basis.                                                                                                                                                                                                                               |
+|--------|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Note   |   39 | On a total carotenoid basis.                                                                                                                                                                                                                                 |
+| Note   |   40 | Pentasodium triphosphate (INS 451(i)) only, to enhance the effectiveness of benzoates and sorbates.                                                                                                                                                          |
+| Note   |   41 | For use in breading or batter coatings only.                                                                                                                                                                                                                 |
+| Note   |   42 | As sorbic acid.                                                                                                                                                                                                                                              |
+| Note   |   43 | As tin.                                                                                                                                                                                                                                                      |
+| Note   |   44 | As residual SO2.                                                                                                                                                                                                                                             |
+| Note   |   45 | As tartaric acid.                                                                                                                                                                                                                                            |
+| Note   |   46 | As thiodipropionic acid.                                                                                                                                                                                                                                     |
+| Note   |   47 | On the dry egg yolk weight basis.                                                                                                                                                                                                                            |
+| Note   |   48 | For use in olives only.                                                                                                                                                                                                                                      |
+| Note   |   49 | For use as a nutrient carrier in a raw material or other ingredient used to produce the foods conforming to the Standard for Processed Cereal-Based Foods for Infants and Young Children (CXS 74-1981) at 100 mg/kg.                                         |
+| Note   |   50 | For use in fish roe only.                                                                                                                                                                                                                                    |
+| Note   |   51 | For use in herbs only.                                                                                                                                                                                                                                       |
+| Note   |   52 | Excluding chocolate milk.                                                                                                                                                                                                                                    |
+| Note   |   53 | For use in coatings only.                                                                                                                                                                                                                                    |
+| Note   |   54 | For use in cocktail cherries and candied cherries only.                                                                                                                                                                                                      |
+| Note   |   55 | Within the limits for sodium, calcium, and potassium specified in the Standard for Infant Formula and Formulas for Special Medical Purposes Intended for Infants (CXS 72-1981): singly or in combination with other sodium, calcium, and/or potassium salts. |
+| Note   |   56 | Excluding products where starch is present.                                                                                                                                                                                                                  |
+| Note   |   57 | GMP is 1 part benzoyl peroxide and not more than 6 parts of the subject additive by weight.                                                                                                                                                                  |
+| Note   |   58 | As calcium.                                                                                                                                                                                                                                                  |
+| Note   |   59 | For use as a packaging gas only.                                                                                                                                                                                                                             |
+| Note   |   60 | The CO2 content in finished still wine shall not exceed 4000 mg/kg at 20o C.                                                                                                                                                                                 |
+| Note   |   61 | For use in minced fish only.                                                                                                                                                                                                                                 |
+| Note   |   62 | As copper.                                                                                                                                                                                                                                                   |
+| Note   |   63 | For non-standardized food and for breaded or batter coatings in food conforming to the Standard for Quick Frozen Fish Sticks (Fish Fingers), Fish Portions and Fish Fillets - Breaded or in Batter (CODEX STAN 166-1989).                                    |
+| Note   |   64 | For use in dry beans.                                                                                                                                                                                                                                        |
+| Note   |   65 | For use as a nutrient carrier in coating of nutrient preparations containing polyunsaturated fatty acids used to produce the foods conforming to the Standard for Processed Cereal-Based Foods for Infants and Young Children (CXS 74-1981) at 75 mg/kg.     |
+| Note   |   66 | As formaldehyde.                                                                                                                                                                                                                                             |
+| Note   |   67 | Except for use in liquid egg whites at 8 800 mg/kg as phosphorus, and in liquid whole eggs at 14 700 mg/kg as phosphorus.                                                                                                                                    |
+| Note   |   68 | For use in flavoured and/or sweetened products only.                                                                                                                                                                                                         |
+| Note   |   69 | For use as a carbonating agent only.                                                                                                                                                                                                                         |
+| Note   |   70 | As the acid.                                                                                                                                                                                                                                                 |
+| Note   |   71 | Calcium, potassium and sodium salts only.                                                                                                                                                                                                                    |
+| Note   |   72 | On the ready-to-eat basis.                                                                                                                                                                                                                                   |
+| Note   |   73 | Excluding whole fish.                                                                                                                                                                                                                                        |
+| Note   |   74 | Excluding liquid whey and whey products used as ingredients in infant formula.                                                                                                                                                                               |
+| Note   |   75 | For use in milk powder for vending machines only.                                                                                                                                                                                                            |
+| Note   |   76 | For use in potatoes.                                                                                                                                                                                                                                         |
+| Note   |   77 | For special nutritional uses only.                                                                                                                                                                                                                           |
+| Note   |   78 | Except for use in pickling and balsamic vinegars at 50 000 mg/kg.                                                                                                                                                                                            |

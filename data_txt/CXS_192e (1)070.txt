@@ -1,0 +1,200 @@
+Food Category No.
+01.6.5 Cheese analogues
+| Additive                                           | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes         |
+|----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|---------------|
+| BRILLIANT BLACK (BLACK PN)                         | 151                                                                                                                                     |           2023 | 100mg/kg    | 3             |
+| BRILLIANT BLUE FCF                                 | 133                                                                                                                                     |           2009 | 100mg/kg    | 3             |
+| CANTHAXANTHIN                                      | 161g                                                                                                                                    |           2011 | 15mg/kg     |               |
+| CARAMEL II - SULFITE CARAMEL                       | 150b                                                                                                                                    |           2023 | 50000mg/kg  |               |
+| CARAMEL III - AMMONIA CARAMEL                      | 150c                                                                                                                                    |           2010 | 50000mg/kg  |               |
+| CARAMEL IV - SULFITE AMMONIA CARAMEL               | 150d                                                                                                                                    |           2011 | 50000mg/kg  | 201           |
+| CARMINES                                           | 120                                                                                                                                     |           2008 | 100mg/kg    | 3 & 178       |
+| CAROTENES, BETA-                                   | 160a(i),a(iii),a(iv)                                                                                                                    |           2023 | 25mg/kg     | 341, 344, 378 |
+| CAROTENES, BETA-, VEGETABLE                        | 160a(ii)                                                                                                                                |           2023 | 25mg/kg     | 341, 344, 378 |
+| CHLOROPHYLLS AND CHLOROPHYLLINS, COPPER COMPLEXES  | 141(i),(ii)                                                                                                                             |           2009 | 50mg/kg     |               |
+| CURCUMIN                                           | 100(i)                                                                                                                                  |           2023 | 100mg/kg    |               |
+| DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL | 472e                                                                                                                                    |           2005 | 10000mg/kg  |               |
+| GRAPE SKIN EXTRACT                                 | 163(ii)                                                                                                                                 |           2009 | 1000mg/kg   |               |
+| HYDROXYBENZOATES, PARA-                            | 214, 218                                                                                                                                |           2009 | 500mg/kg    | 27            |
+| INDIGOTINE (INDIGO CARMINE)                        | 132                                                                                                                                     |           2023 | 200mg/kg    | 3             |
+| LAURIC ARGINATE ETHYL ESTER                        | 243                                                                                                                                     |           2011 | 200mg/kg    |               |
+| NATAMYCIN (PIMARICIN)                              | 235                                                                                                                                     |           2006 | 40mg/kg     | 3 & 80        |
+| NISIN                                              | 234                                                                                                                                     |           2010 | 12.5 mg/kg  |               |
+| PAPRIKA EXTRACT                                    | 160c(ii)                                                                                                                                |           2023 | 70mg/kg     | 39            |
+| PHOSPHATES                                         | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2012 | 9000mg/kg   | 33            |
+| POLYGLYCEROL ESTERS OF FATTY ACIDS                 | 475                                                                                                                                     |           2016 | 5000mg/kg   |               |
+| PONCEAU 4R (COCHINEAL RED A)                       | 124                                                                                                                                     |           2008 | 100mg/kg    | 3             |
+| PROPYLENE GLYCOL ALGINATE                          | 405                                                                                                                                     |           2016 | 9000mg/kg   |               |
+| SORBATES                                           | 200, 202, 203                                                                                                                           |           2010 | 3000mg/kg   | 3 & 42        |
+| STEAROYL LACTYLATES                                | 481(i), 482(i)                                                                                                                          |           2016 | 2000mg/kg   |               |
+| SUCROSE ESTERS                                     | 473, 473a, 474                                                                                                                          |           2021 | 10000mg/kg  |               |
+| SUNSET YELLOW FCF                                  | 110                                                                                                                                     |           2008 | 300mg/kg    | 3             |
+| TARTRAZINE                                         | 102                                                                                                                                     |           2023 | 300mg/kg    | 3             |
+| TOCOPHEROLS                                        | 307a, b, c                                                                                                                              |           2016 | 400mg/kg    |               |
+Food Category No. 01.6.6
+Whey protein cheese
+| Additive             |   INS |   Year Adopted | Max Level   | Notes   |
+|----------------------|-------|----------------|-------------|---------|
+| ACETIC ACID, GLACIAL |   260 |           2006 | GMP         |         |
+| CALCIUM PROPIONATE   |   282 |           2006 | 3000mg/kg   | 70      |
+Food Category No. 01.6.6
+Whey protein cheese
+| Additive                    | INS           |   Year Adopted | Max Level   | Notes   |
+|-----------------------------|---------------|----------------|-------------|---------|
+| CITRIC ACID                 | 330           |           2006 | GMP         |         |
+| GLUCONO DELTA-LACTONE       | 575           |           2006 | GMP         |         |
+| LACTIC ACID, L-, D- and DL- | 270           |           2006 | GMP         |         |
+| MALIC ACID, DL-             | 296           |           2006 | GMP         |         |
+| NATAMYCIN (PIMARICIN)       | 235           |           2006 | 40mg/kg     | 3 & 80  |
+| NISIN                       | 234           |           2006 | 12.5 mg/kg  |         |
+| PROPIONIC ACID              | 280           |           2006 | 3000mg/kg   | 70      |
+| SODIUM PROPIONATE           | 281           |           2006 | 3000mg/kg   | 70      |
+| SORBATES                    | 200, 202, 203 |           2006 | 3000mg/kg   | 42      |
+Food Category No. 01.7
+Dairy-based desserts (e.g. pudding, fruit or flavoured yoghurt)
+| Additive                                          | INS                  |   Year Adopted | Max Level   | Notes          |
+|---------------------------------------------------|----------------------|----------------|-------------|----------------|
+| ACESULFAME POTASSIUM                              | 950                  |           2024 | 350mg/kg    | 478, 188 & 639 |
+| ADIPATES                                          | 355                  |           2024 | 1500mg/kg   | 1 & 634        |
+| ADVANTAME                                         | 969                  |           2024 | 10mg/kg     | 478 & XS243    |
+| ALLURA RED AC                                     | 129                  |           2023 | 300mg/kg    |                |
+| AMMONIUM SALTS OF PHOSPHATIDIC ACID               | 442                  |           2024 | 5000mg/kg   | 231 & XS243    |
+| ANNATTO EXTRACTS, BIXIN-BASED                     | 160b(i)              |           2023 | 100mg/kg    | 8 & 146        |
+| ANNATTO EXTRACTS, NORBIXIN- BASED                 | 160b(ii)             |           2023 | 20mg/kg     | 185            |
+| ASCORBYL ESTERS                                   | 304, 305             |           2024 | 500mg/kg    | 2, 10 & XS243  |
+| ASPARTAME                                         | 951                  |           2024 | 1000mg/kg   | 478, 191 & 639 |
+| ASPARTAME-ACESULFAME SALT                         | 962                  |           2024 | 350mg/kg    | 113, 477 & 639 |
+| AZORUBINE (CARMOISINE)                            | 122                  |           2023 | 150mg/kg    |                |
+| BENZOATES                                         | 210-213              |           2024 | 300mg/kg    | 13 & 614       |
+| BRILLIANT BLACK (BLACK PN)                        | 151                  |           2023 | 150mg/kg    |                |
+| BRILLIANT BLUE FCF                                | 133                  |           2005 | 150mg/kg    |                |
+| BROWN HT                                          | 155                  |           2023 | 150mg/kg    |                |
+| CANTHAXANTHIN                                     | 161g                 |           2024 | 15mg/kg     | XS243          |
+| CARAMEL II - SULFITE CARAMEL                      | 150b                 |           2023 | 2000mg/kg   | 400 & 209      |
+| CARAMEL III - AMMONIA CARAMEL                     | 150c                 |           1999 | 2000mg/kg   |                |
+| CARAMEL IV - SULFITE AMMONIA CARAMEL              | 150d                 |           1999 | 2000mg/kg   |                |
+| CARMINES                                          | 120                  |           2005 | 150mg/kg    | 178            |
+| CAROTENES, BETA-                                  | 160a(i),a(iii),a(iv) |           2024 | 20mg/kg     | 341, 344 & 402 |
+| CAROTENES, BETA-, VEGETABLE                       | 160a(ii)             |           2024 | 20mg/kg     | 341, 344 & 402 |
+| CHLOROPHYLLS AND CHLOROPHYLLINS, COPPER COMPLEXES | 141(i),(ii)          |           2009 | 500mg/kg    |                |
+| CURCUMIN                                          | 100(i)               |           2023 | 150mg/kg    | 402            |
+Food Category No. 01.7
+Dairy-based desserts (e.g. pudding, fruit or flavoured yoghurt)
+| Additive                                               | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes           |
+|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|-----------------|
+| CYCLAMATES                                             | 952(i), (ii), (iv)                                                                                                                      |           2024 | 250mg/kg    | 17, 477 & 639   |
+| CYCLODEXTRIN, BETA-                                    | 459                                                                                                                                     |           2024 | 5mg/kg      | 622             |
+| DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL     | 472e                                                                                                                                    |           2024 | 10000mg/kg  | 629             |
+| ETHYL MALTOL                                           | 637                                                                                                                                     |           2024 | 200mg/kg    | 616             |
+| FAST GREEN FCF                                         | 143                                                                                                                                     |           1999 | 100mg/kg    | 2               |
+| GRAPE SKIN EXTRACT                                     | 163(ii)                                                                                                                                 |           2024 | 200mg/kg    | 181 & 402       |
+| HYDROXYBENZOATES, PARA-                                | 214, 218                                                                                                                                |           2024 | 120mg/kg    | 27 & XS243      |
+| INDIGOTINE (INDIGO CARMINE)                            | 132                                                                                                                                     |           2024 | 150mg/kg    | 402             |
+| IRON OXIDES                                            | 172(i)-(iii)                                                                                                                            |           2005 | 100mg/kg    |                 |
+| JAGUA (GENIPIN-GLYCINE) BLUE                           | 183                                                                                                                                     |           2024 | 120mg/kg    | 600 & 601       |
+| LAURIC ARGINATE ETHYL ESTER                            | 243                                                                                                                                     |           2024 | 200mg/kg    | XS243           |
+| LUTEIN FROM TAGETES ERECTA                             | 161b(i)                                                                                                                                 |           2024 | 150mg/kg    | 634             |
+| MALTOL                                                 | 636                                                                                                                                     |           2024 | 200mg/kg    | 616             |
+| NEOTAME                                                | 961                                                                                                                                     |           2019 | 100mg/kg    | 478 & 639       |
+| NISIN                                                  | 234                                                                                                                                     |           2024 | 12.5 mg/kg  | 233 & 614       |
+| PAPRIKA EXTRACT                                        | 160c(ii)                                                                                                                                |           2024 | 60mg/kg     | 39 & XS243      |
+| PHOSPHATES                                             | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2024 | 1500mg/kg   | 33 & 610        |
+| POLYDIMETHYLSILOXANE                                   | 900a                                                                                                                                    |           2024 | 50mg/kg     | 618             |
+| POLYGLYCEROL ESTERS OF FATTY ACIDS                     | 475                                                                                                                                     |           2024 | 5000mg/kg   | 354 & 629       |
+| POLYGLYCEROL ESTERS OF INTERESTERIFIED RICINOLEIC ACID | 476                                                                                                                                     |           2016 | 5000mg/kg   | XS243           |
+| POLYSORBATES                                           | 432-436                                                                                                                                 |           2024 | 3000mg/kg   | 629             |
+| PONCEAU 4R (COCHINEAL RED A)                           | 124                                                                                                                                     |           2023 | 150mg/kg    |                 |
+| PROPYL GALLATE                                         | 310                                                                                                                                     |           2024 | 90mg/kg     | 2, 15 & XS243   |
+| PROPYLENE GLYCOL ALGINATE                              | 405                                                                                                                                     |           2024 | 6000mg/kg   | 616 & 623       |
+| PROPYLENE GLYCOL ESTERS OF FATTY ACIDS                 | 477                                                                                                                                     |           2001 | 5000mg/kg   |                 |
+| QUINOLINE YELLOW                                       | 104                                                                                                                                     |           2023 | 150mg/kg    |                 |
+| SACCHARINS                                             | 954(i)-(iv)                                                                                                                             |           2024 | 100mg/kg    | 477, 500 & 639  |
+| SORBATES                                               | 200, 202, 203                                                                                                                           |           2024 | 1000mg/kg   | 42 & 614        |
+| SORBITAN ESTERS OF FATTY ACIDS                         | 491-495                                                                                                                                 |           2024 | 5000mg/kg   | 629             |
+| STEAROYL LACTYLATES                                    | 481(i), 482(i)                                                                                                                          |           2024 | 5000mg/kg   | 355 & 629       |
+| STEVIOL GLYCOSIDES                                     | 960a, 960b, 960c, 960d                                                                                                                  |           2024 | 330mg/kg    | 26, 477 & XS243 |
+| SUCRALOSE (TRICHLOROGALACTOSUCROSE)                    | 955                                                                                                                                     |           2024 | 400mg/kg    | 478 & 639       |
+Food Category No. 01.7
+Dairy-based desserts (e.g. pudding, fruit or flavoured yoghurt)
+| Additive          | INS               |   Year Adopted | Max Level   | Notes    |
+|-------------------|-------------------|----------------|-------------|----------|
+| SUCROSE ESTERS    | 473, 473a, 474    |           2024 | 5000mg/kg   | 629      |
+| SUNSET YELLOW FCF | 110               |           2023 | 300mg/kg    |          |
+| TARTRATES         | 334, 335(ii), 337 |           2024 | 2000mg/kg   | 45 & 633 |
+| TARTRAZINE        | 102               |           2023 | 300mg/kg    |          |
+| TOCOPHEROLS       | 307a, b, c        |           2016 | 500mg/kg    | XS243    |
+Food Category No. 01.8
+Whey and whey products, excluding whey
+cheeses
+| Additive    | INS        |   Year Adopted | Max Level   | Notes   |
+|-------------|------------|----------------|-------------|---------|
+| TOCOPHEROLS | 307a, b, c |           2023 | 200mg/kg    | XS331   |
+Food Category No.
+01.8.1 Liquid whey and whey products, excluding
+whey cheeses
+| Additive         | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes    |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|----------|
+| BENZOYL PEROXIDE | 928                                                                                                                                     |           2007 | 100mg/kg    | 74       |
+| PHOSPHATES       | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2012 | 880mg/kg    | 33 & 228 |
+Food Category No. 01.8.2
+Dried whey and whey products, excluding whey cheeses
+| Additive                                   | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes       |
+|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|-------------|
+| BENZOYL PEROXIDE                           | 928                                                                                                                                     |           2023 | 100mg/kg    | 147 & XS331 |
+| CALCIUM CARBONATE                          | 170(i)                                                                                                                                  |           2023 | 10000mg/kg  | XS331       |
+| CALCIUM CHLORIDE                           | 509                                                                                                                                     |           2023 | GMP         | XS331       |
+| CALCIUM HYDROXIDE                          | 526                                                                                                                                     |           2023 | GMP         | XS331       |
+| CALCIUM SILICATE                           | 552                                                                                                                                     |           2023 | 10000mg/kg  | XS331       |
+| HYDROXYPROPYL DISTARCH PHOSPHATE           | 1442                                                                                                                                    |           2023 | 10000mg/kg  | XS331       |
+| LECITHIN                                   | 322(i)                                                                                                                                  |           2023 | GMP         | XS331       |
+| MAGNESIUM CARBONATE                        | 504(i)                                                                                                                                  |           2023 | 10000mg/kg  | XS331       |
+| MAGNESIUM OXIDE                            | 530                                                                                                                                     |           2023 | 10000mg/kg  | XS331       |
+| MAGNESIUM SILICATE, SYNTHETIC              | 553(i)                                                                                                                                  |           2023 | 10000mg/kg  | XS331       |
+| MICROCRYSTALLINE CELLULOSE (CELLULOSE GEL) | 460(i)                                                                                                                                  |           2023 | 10000mg/kg  | XS331       |
+| PHOSPHATES                                 | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2023 | 4400mg/kg   | 33 & XS331  |
+| POTASSIUM CARBONATE                        | 501(i)                                                                                                                                  |           2023 | GMP         | XS331       |
+Food Category No.
+01.8.2 Dried whey and whey products, excluding
+whey cheeses
+| Additive                     | INS      |   Year Adopted | Max Level   | Notes     |
+|------------------------------|----------|----------------|-------------|-----------|
+| POTASSIUM CHLORIDE           | 508      |           2023 | GMP         | XS331     |
+| POTASSIUM DIHYDROGEN CITRATE | 332(i)   |           2023 | GMP         | XS331     |
+| POTASSIUM HYDROGEN CARBONATE | 501(ii)  |           2023 | GMP         | XS331     |
+| POTASSIUM HYDROXIDE          | 525      |           2023 | GMP         | XS331     |
+| POWDERED CELLULOSE           | 460(ii)  |           2023 | 10000mg/kg  | XS331     |
+| SILICON DIOXIDE, AMORPHOUS   | 551      |           2023 | 10000mg/kg  | XS331     |
+| SODIUM ALUMINIUM SILICATE    | 554      |           2023 | 1140mg/kg   | 6 & XS331 |
+| SODIUM CARBONATE             | 500(i)   |           2023 | GMP         | XS331     |
+| SODIUM DIHYDROGEN CITRATE    | 331(i)   |           2023 | GMP         | XS331     |
+| SODIUM HYDROGEN CARBONATE    | 500(ii)  |           2023 | GMP         | XS331     |
+| SODIUM HYDROXIDE             | 524      |           2023 | GMP         | XS331     |
+| SODIUM SESQUICARBONATE       | 500(iii) |           2023 | GMP         | XS331     |
+| TALC                         | 553(iii) |           2023 | 10000mg/kg  | XS331     |
+| TRIPOTASSIUM CITRATE         | 332(ii)  |           2023 | GMP         | XS331     |
+| TRISODIUM CITRATE            | 331(iii) |           2023 | GMP         | XS331     |
+Food Category No.
+02.1.1 Butter oil, anhydrous milkfat, ghee
+| Additive                               | INS        |   Year Adopted | Max Level   | Notes             |
+|----------------------------------------|------------|----------------|-------------|-------------------|
+| ANNATTO EXTRACTS, BIXIN-BASED          | 160b(i)    |           2023 | 100mg/kg    | 8 & 240           |
+| ASCORBYL ESTERS                        | 304, 305   |           2006 | 500mg/kg    | 10 & 171          |
+| BUTYLATED HYDROXYANISOLE               | 320        |           2021 | 175mg/kg    | 15, 133, 171, 514 |
+| BUTYLATED HYDROXYTOLUENE               | 321        |           2021 | 75mg/kg     | 15, 133, 171, 514 |
+| CITRIC ACID                            | 330        |           2006 | GMP         | 171               |
+| LECITHIN                               | 322(i)     |           2021 | GMP         | 507               |
+| MONO- AND DI-GLYCERIDES OF FATTY ACIDS | 471        |           2021 | GMP         | 507               |
+| PROPYL GALLATE                         | 310        |           2021 | 100mg/kg    | 15, 133, 171, 514 |
+| SODIUM DIHYDROGEN CITRATE              | 331(i)     |           2006 | GMP         | 171               |
+| TERTIARY BUTYLHYDROQUINONE             | 319        |           2021 | 120mg/kg    | 15, 171, 514      |
+| TOCOPHEROLS                            | 307a, b, c |           2021 | 500mg/kg    | 171, 513          |
+| TRICALCIUM CITRATE                     | 333(iii)   |           2021 | GMP         | 507               |
+| TRIPOTASSIUM CITRATE                   | 332(ii)    |           2021 | GMP         | 507               |
+| TRISODIUM CITRATE                      | 331(iii)   |           2006 | GMP         | 171               |
+Food Category No. 02.1.2
+Vegetable oils and fats
+| Additive                      | INS      |   Year Adopted | Max Level   | Notes                             |
+|-------------------------------|----------|----------------|-------------|-----------------------------------|
+| ANNATTO EXTRACTS, BIXIN-BASED | 160b(i)  |           2023 | 10mg/kg     | 8, 508, 509, XS33, XS210 & XS325R |
+| ASCORBYL ESTERS               | 304, 305 |           2023 | 500mg/kg    | 10, 511, XS33 &                   |
+XS325R

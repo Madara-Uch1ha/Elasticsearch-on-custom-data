@@ -1,0 +1,152 @@
+Food Category No. 04.2.2.4
+Canned or bottled (pasteurized) or retort pouch vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), and seaweeds
+| Additive                            | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes                                               |
+|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|-----------------------------------------------------|
+| FAST GREEN FCF                      | 143                                                                                                                                     |           2024 | 200mg/kg    | XS57                                                |
+| NEOTAME                             | 961                                                                                                                                     |           2024 | 33mg/kg     | 478 & XS57                                          |
+| PHOSPHATES                          | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2024 | 2200mg/kg   | 33 & XS57                                           |
+| POLYDIMETHYLSILOXANE                | 900a                                                                                                                                    |           2024 | 10mg/kg     | XS57                                                |
+| SACCHARINS                          | 954(i)-(iv)                                                                                                                             |           2024 | 160mg/kg    | 500, 144, 477 & XS57                                |
+| STANNOUS CHLORIDE                   | 512                                                                                                                                     |           2024 | 25mg/kg     | 43 & XS57                                           |
+| STEVIOL GLYCOSIDES                  | 960a, 960b, 960c, 960d                                                                                                                  |           2024 | 70mg/kg     | 26, 477 & XS57                                      |
+| SUCRALOSE (TRICHLOROGALACTOSUCROSE) | 955                                                                                                                                     |           2024 | 580mg/kg    | 478 & XS57                                          |
+| SULFITES                            | 220-225, 539                                                                                                                            |           2024 | 50mg/kg     | 44 & XS57                                           |
+| TARTRATES                           | 334, 335(ii), 337                                                                                                                       |           2017 | 1300mg/kg   | 45, XS13, XS38, XS57, XS145, XS257R, XS259R & XS297 |
+Food Category No. 04.2.2.5
+Vegetable (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), seaweed, and nut and seed purees and spreads (e.g., peanut butter)
+| Additive                                          | INS                  |   Year Adopted | Max Level   | Notes              |
+|---------------------------------------------------|----------------------|----------------|-------------|--------------------|
+| ACESULFAME POTASSIUM                              | 950                  |           2024 | 1000mg/kg   | 188, 478 & XS57    |
+| ADVANTAME                                         | 969                  |           2024 | 10mg/kg     | 478, XS57 & XS257R |
+| ASPARTAME                                         | 951                  |           2024 | 1000mg/kg   | 191, 478 & XS57    |
+| ASPARTAME-ACESULFAME SALT                         | 962                  |           2024 | 1000mg/kg   | 119, 477 & XS57    |
+| BENZOATES                                         | 210-213              |           2001 | 1000mg/kg   | 13 & XS57          |
+| CARAMEL III - AMMONIA CARAMEL                     | 150c                 |           2024 | 50000mg/kg  | XS57               |
+| CARMINES                                          | 120                  |           2024 | 100mg/kg    | 178 & XS57         |
+| CAROTENES, BETA-                                  | 160a(i),a(iii),a(iv) |           2024 | 50mg/kg     | 341, 344 & XS57    |
+| CAROTENES, BETA-, VEGETABLE                       | 160a(ii)             |           2024 | 50mg/kg     | 341, 344 & XS57    |
+| CHLOROPHYLLS AND CHLOROPHYLLINS, COPPER COMPLEXES | 141(i),(ii)          |           2024 | 100mg/kg    | 62 & XS57          |
+| ETHYLENE DIAMINE TETRA ACETATES                   | 385, 386             |           2024 | 250mg/kg    | 21 & XS57          |
+| GRAPE SKIN EXTRACT                                | 163(ii)              |           2024 | 100mg/kg    | 179, 181 & XS57    |
+| HYDROXYBENZOATES, PARA-                           | 214, 218             |           2024 | 1000mg/kg   | 27 & XS57          |
+Food Category No. 04.2.2.5
+Vegetable (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), seaweed, and nut and seed purees and spreads (e.g., peanut butter)
+| Additive                            | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes           |
+|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|-----------------|
+| NEOTAME                             | 961                                                                                                                                     |           2024 | 33mg/kg     | 478 & XS57      |
+| PHOSPHATES                          | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2024 | 2200mg/kg   | 33, 76 & XS57   |
+| POLYDIMETHYLSILOXANE                | 900a                                                                                                                                    |           2024 | 10mg/kg     | XS57            |
+| SACCHARINS                          | 954(i)-(iv)                                                                                                                             |           2024 | 160mg/kg    | 500, 477 & XS57 |
+| SORBATES                            | 200, 202, 203                                                                                                                           |           2024 | 1000mg/kg   | 42 & XS57       |
+| STEVIOL GLYCOSIDES                  | 960a, 960b, 960c, 960d                                                                                                                  |           2024 | 330mg/kg    | 26, 477 & XS57  |
+| SUCRALOSE (TRICHLOROGALACTOSUCROSE) | 955                                                                                                                                     |           2024 | 400mg/kg    | 169, 478 & XS57 |
+| SULFITES                            | 220-225, 539                                                                                                                            |           2024 | 500mg/kg    | 44, 138 & XS57  |
+| TOCOPHEROLS                         | 307a, b, c                                                                                                                              |           2017 | 300mg/kg    | XS57            |
+Food Category No. 04.2.2.6
+Vegetable (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), seaweed, and nut and seed pulps and preparations (e.g. vegetable desserts and sauces, candied vegetables) other than food category 04.2.2.5
+| Additive                      | INS                  |   Year Adopted | Max Level   | Notes                                  |
+|-------------------------------|----------------------|----------------|-------------|----------------------------------------|
+| ACESULFAME POTASSIUM          | 950                  |           2024 | 350mg/kg    | 188, 478, XS57 & XS308R                |
+| ADVANTAME                     | 969                  |           2023 | 10mg/kg     | 478, XS38, XS57, XS259R, XS308R, XS321 |
+| ALLURA RED AC                 | 129                  |           2024 | 200mg/kg    | 92, 161, XS57 & XS308R                 |
+| ASPARTAME                     | 951                  |           2024 | 1000mg/kg   | 191, 478, XS57 & XS308R                |
+| ASPARTAME-ACESULFAME SALT     | 962                  |           2024 | 350mg/kg    | 113, 477, XS57 & XS308R                |
+| BENZOATES                     | 210-213              |           2024 | 3000mg/kg   | 13, XS57 & XS308R                      |
+| BRILLIANT BLUE FCF            | 133                  |           2024 | 100mg/kg    | 92, 161, XS57 & XS308R                 |
+| CARAMEL III - AMMONIA CARAMEL | 150c                 |           2024 | 50000mg/kg  | 161, XS57 & XS308R                     |
+| CARMINES                      | 120                  |           2024 | 200mg/kg    | 92, 178, XS57 & XS308R                 |
+| CAROTENES, BETA-              | 160a(i),a(iii),a(iv) |           2024 | 50mg/kg     | 92, 341, 344, XS57 & XS308R            |
+Food Category No. 04.2.2.6
+Vegetable (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), seaweed, and nut and seed pulps and preparations (e.g. vegetable desserts and sauces, candied vegetables) other than food category 04.2.2.5
+| Additive                                           | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes                                   |
+|----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|-----------------------------------------|
+| CAROTENES, BETA-, VEGETABLE                        | 160a(ii)                                                                                                                                |           2024 | 50mg/kg     | 92, 341, 344, XS57 & XS308R             |
+| CHLOROPHYLLS AND CHLOROPHYLLINS, COPPER COMPLEXES  | 141(i),(ii)                                                                                                                             |           2024 | 100mg/kg    | 62, 92, XS57 & XS308R                   |
+| CYCLAMATES                                         | 952(i), (ii), (iv)                                                                                                                      |           2024 | 250mg/kg    | 17, 477, XS57 & XS308R                  |
+| DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL | 472e                                                                                                                                    |           2024 | 2500mg/kg   | XS57 & XS308R                           |
+| ETHYLENE DIAMINE TETRA ACETATES                    | 385, 386                                                                                                                                |           2024 | 80mg/kg     | 21, XS57 & XS308R                       |
+| GRAPE SKIN EXTRACT                                 | 163(ii)                                                                                                                                 |           2024 | 100mg/kg    | 92, 181, XS57 & XS308R                  |
+| HYDROXYBENZOATES, PARA-                            | 214, 218                                                                                                                                |           2024 | 1000mg/kg   | 27, XS57 & XS308R                       |
+| INDIGOTINE (INDIGO CARMINE)                        | 132                                                                                                                                     |           2024 | 200mg/kg    | 92, 161, XS57 & XS308R                  |
+| NEOTAME                                            | 961                                                                                                                                     |           2024 | 33mg/kg     | 478, XS57 & XS308R                      |
+| PHOSPHATES                                         | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2024 | 2200mg/kg   | 33, XS57 & XS308R                       |
+| POLYDIMETHYLSILOXANE                               | 900a                                                                                                                                    |           2024 | 50mg/kg     | XS57 & XS308R                           |
+| POLYSORBATES                                       | 432-436                                                                                                                                 |           2024 | 3000mg/kg   | XS57 & XS308R                           |
+| PROPYLENE GLYCOL ESTERS OF FATTY ACIDS             | 477                                                                                                                                     |           2024 | 5000mg/kg   | XS57 & XS308R                           |
+| SACCHARINS                                         | 954(i)-(iv)                                                                                                                             |           2024 | 200mg/kg    | 500, 477, XS57 & XS308R                 |
+| SORBATES                                           | 200, 202, 203                                                                                                                           |           2024 | 1000mg/kg   | 42, XS57 & XS308R                       |
+| STEVIOL GLYCOSIDES                                 | 960a, 960b, 960c, 960d                                                                                                                  |           2024 | 165mg/kg    | 26, 477, XS57 & XS308R                  |
+| SUCRALOSE (TRICHLOROGALACTOSUCROSE)                | 955                                                                                                                                     |           2024 | 400mg/kg    | 478, XS57 & XS308R                      |
+| SUCROSE ESTERS                                     | 473, 473a, 474                                                                                                                          |           2021 | 5000mg/kg   | XS38, XS57, XS259R, XS308R, XS321 & 536 |
+| SULFITES                                           | 220-225, 539                                                                                                                            |           2024 | 300mg/kg    | 44, 205, XS57 & XS308R                  |
+| SUNSET YELLOW FCF                                  | 110                                                                                                                                     |           2024 | 50mg/kg     | 92, XS57 &                              |
+XS308R
+Food Category No. 04.2.2.7
+Fermented vegetable (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera) and seaweed products, excluding fermented soybean products of food categories 06.8.6, 06.8.7, 12.9.1, 12.9.2.1 and 12.9.2.3
+| Additive                                           | INS                  |   Year Adopted | Max Level   | Notes                               |
+|----------------------------------------------------|----------------------|----------------|-------------|-------------------------------------|
+| ACESULFAME POTASSIUM                               | 950                  |           2023 | 1000mg/kg   | 144, 188 & XS294                    |
+| ACETIC ACID, GLACIAL                               | 260                  |           2023 | GMP         | XS294                               |
+| ADVANTAME                                          | 969                  |           2023 | 25mg/kg     | 144                                 |
+| ALGINIC ACID                                       | 400                  |           2023 | GMP         | XS294                               |
+| ASCORBIC ACID, L-                                  | 300                  |           2023 | GMP         | XS294                               |
+| ASPARTAME                                          | 951                  |           2023 | 2500mg/kg   | 144, 191 & XS294                    |
+| ASPARTAME-ACESULFAME SALT                          | 962                  |           2023 | 1000mg/kg   | 113, 144                            |
+| BENZOATES                                          | 210-213              |           2023 | 1000mg/kg   | 13 & XS294                          |
+| BRILLIANT BLUE FCF                                 | 133                  |           2023 | 100mg/kg    | 92, 161 & XS294                     |
+| CALCIUM 5'-RIBONUCLEOTIDES                         | 634                  |           2023 | GMP         | 279 & XS294                         |
+| CALCIUM CARBONATE                                  | 170(i)               |           2023 | GMP         | XS294                               |
+| CALCIUM CHLORIDE                                   | 509                  |           2023 | GMP         | XS294                               |
+| CALCIUM LACTATE                                    | 327                  |           2023 | 10000mg/kg  | 58 & XS294                          |
+| CARAMEL III - AMMONIA CARAMEL                      | 150c                 |           2023 | 50000mg/kg  | 161 & XS294                         |
+| CAROTENES, BETA-                                   | 160a(i),a(iii),a(iv) |           2023 | 5mg/kg      | 341, 344, XS38, XS151, XS223, XS294 |
+| CAROTENES, BETA-, VEGETABLE                        | 160a(ii)             |           2023 | 5mg/kg      | 341, 344, XS38, XS151, XS223, XS294 |
+| CARRAGEENAN                                        | 407                  |           2023 | GMP         | XS294                               |
+| CHLOROPHYLLS AND CHLOROPHYLLINS, COPPER COMPLEXES  | 141(i),(ii)          |           2023 | 100mg/kg    | 62 & XS294                          |
+| CITRIC ACID                                        | 330                  |           2023 | GMP         | XS294                               |
+| CITRIC AND FATTY ACID ESTERS OF GLYCEROL           | 472c                 |           2023 | GMP         | XS294                               |
+| DEXTRINS, ROASTED STARCH                           | 1400                 |           2023 | GMP         | XS294                               |
+| DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL | 472e                 |           2023 | 2500mg/kg   | XS294                               |
+| DISODIUM 5'-GUANYLATE                              | 627                  |           2023 | GMP         | 279 & XS294                         |
+| DISODIUM 5'-INOSINATE                              | 631                  |           2023 | GMP         | 279 & XS294                         |
+| DISODIUM 5'-RIBONUCLEOTIDES                        | 635                  |           2023 | GMP         | 279 & XS294                         |
+| ERYTHROSINE                                        | 127                  |           2023 | 30mg/kg     | XS294                               |
+| ETHYLENE DIAMINE TETRA ACETATES                    | 385, 386             |           2023 | 250mg/kg    | 21 & XS294                          |
+| FAST GREEN FCF                                     | 143                  |           2023 | 100mg/kg    | 161 & XS294                         |
+| FUMARIC ACID                                       | 297                  |           2023 | GMP         | XS294                               |
+| GLYCEROL                                           | 422                  |           2024 | GMP         | XS260 & XS294                       |
+Food Category No. 04.2.2.7
+Fermented vegetable (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera) and seaweed products, excluding fermented soybean products of food categories 06.8.6, 06.8.7, 12.9.1, 12.9.2.1 and 12.9.2.3
+| Additive                                 | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes            |
+|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|------------------|
+| GRAPE SKIN EXTRACT                       | 163(ii)                                                                                                                                 |           2023 | 100mg/kg    | 161, 181 & XS294 |
+| GUAR GUM                                 | 412                                                                                                                                     |           2013 | GMP         |                  |
+| GUM ARABIC (ACACIA GUM)                  | 414                                                                                                                                     |           2023 | GMP         | 571              |
+| HYDROXYBENZOATES, PARA-                  | 214, 218                                                                                                                                |           2023 | 300mg/kg    | 27 & XS294       |
+| INDIGOTINE (INDIGO CARMINE)              | 132                                                                                                                                     |           2023 | 300mg/kg    | 161 & XS294      |
+| LACTIC ACID, L-, D- and DL-              | 270                                                                                                                                     |           2023 | GMP         | XS294            |
+| LECITHIN                                 | 322(i)                                                                                                                                  |           2023 | GMP         | XS294            |
+| MAGNESIUM CARBONATE                      | 504(i)                                                                                                                                  |           2023 | 5000mg/kg   | 36 & XS294       |
+| MALIC ACID, DL-                          | 296                                                                                                                                     |           2013 | GMP         |                  |
+| MONOSODIUM L-GLUTAMATE                   | 621                                                                                                                                     |           2014 | GMP         | 279              |
+| NEOTAME                                  | 961                                                                                                                                     |           2023 | 33mg/kg     | 144 & XS294      |
+| PECTINS                                  | 440                                                                                                                                     |           2023 | GMP         | XS294            |
+| PHOSPHATES                               | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2023 | 2200mg/kg   | 33, 572 & 636    |
+| POLYDIMETHYLSILOXANE                     | 900a                                                                                                                                    |           2023 | 10mg/kg     | XS294            |
+| PONCEAU 4R (COCHINEAL RED A)             | 124                                                                                                                                     |           2023 | 500mg/kg    | 161 & XS294      |
+| POTASSIUM CARBONATE                      | 501(i)                                                                                                                                  |           2023 | GMP         | XS294            |
+| POTASSIUM CHLORIDE                       | 508                                                                                                                                     |           2013 | GMP         |                  |
+| PROCESSED EUCHEUMA SEAWEED (PES)         | 407a                                                                                                                                    |           2023 | GMP         | XS294            |
+| PULLULAN                                 | 1204                                                                                                                                    |           2024 | GMP         | XS260 & XS294    |
+| RIBOFLAVINS                              | 101(i),(ii), (iii), (iv)                                                                                                                |           2024 | GMP         | XS294            |
+| SACCHARINS                               | 954(i)-(iv)                                                                                                                             |           2023 | 200mg/kg    | 500, 144 & XS294 |
+| SODIUM ACETATE                           | 262(i)                                                                                                                                  |           2023 | GMP         | XS294            |
+| SODIUM ASCORBATE                         | 301                                                                                                                                     |           2023 | GMP         | XS294            |
+| SODIUM CARBONATE                         | 500(i)                                                                                                                                  |           2023 | GMP         | XS294            |
+| SODIUM DL-MALATE                         | 350(ii)                                                                                                                                 |           2023 | GMP         | XS294            |
+| SODIUM ERYTHORBATE (SODIUM ISOASCORBATE) | 316                                                                                                                                     |           2023 | GMP         | 280 & XS294      |
+| SODIUM FUMARATES                         | 365                                                                                                                                     |           2023 | GMP         | XS294            |
+| SODIUM GLUCONATE                         | 576                                                                                                                                     |           2023 | GMP         | XS294            |
+| SODIUM LACTATE                           | 325                                                                                                                                     |           2013 | GMP         |                  |
+| SORBATES                                 | 200, 202, 203                                                                                                                           |           2012 | 1000mg/kg   | 42               |
+| STEVIOL GLYCOSIDES                       | 960a, 960b, 960c, 960d                                                                                                                  |           2023 | 200mg/kg    | 26, 144 & XS294  |

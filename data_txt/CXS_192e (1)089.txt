@@ -1,0 +1,115 @@
+Food Category No. 09.2.5
+Smoked, dried, fermented, and/or salted fish and fish products, including mollusks, crustaceans, and echinoderms
+| Additive                                 | INS          |   Year Adopted | Max Level   | Notes                                               |
+|------------------------------------------|--------------|----------------|-------------|-----------------------------------------------------|
+| FUMARIC ACID                             | 297          |           2018 | GMP         | XS167, XS189, XS222, XS236, XS244 & XS311           |
+| GLYCEROL                                 | 422          |           2018 | GMP         | 300, XS167, XS189, XS222, XS236, XS244 & XS311      |
+| GRAPE SKIN EXTRACT                       | 163(ii)      |           2018 | 1000mg/kg   | 22, XS167, XS189, XS222, XS236, XS244 & XS311       |
+| GUAR GUM                                 | 412          |           2018 | GMP         | 300, XS167, XS189, XS222, XS236, XS244 & XS311      |
+| GUM ARABIC (ACACIA GUM)                  | 414          |           2018 | GMP         | 300, 332, XS167, XS189, XS222, XS236, XS244 & XS311 |
+| HYDROXYPROPYL CELLULOSE                  | 463          |           2018 | GMP         | 300, 332, XS167, XS189, XS222, XS236, XS244 & XS311 |
+| HYDROXYPROPYL METHYL CELLULOSE           | 464          |           2018 | GMP         | 300, 332, XS167, XS189, XS222, XS236, XS244 & XS311 |
+| HYDROXYPROPYL STARCH                     | 1440         |           2018 | GMP         | 300, XS167, XS189, XS222, XS236, XS244 & XS311      |
+| IRON OXIDES                              | 172(i)-(iii) |           2018 | 250mg/kg    | 22, XS167, XS189, XS222, XS236, XS244 & XS311       |
+| KONJAC FLOUR                             | 425          |           2018 | GMP         | 300, 332, XS167, XS189, XS222, XS236, XS244 & XS311 |
+| LACTIC ACID, L-, D- and DL-              | 270          |           2018 | GMP         | 382, XS167, XS189, XS222, XS236 & XS244             |
+| LACTIC AND FATTY ACID ESTERS OF GLYCEROL | 472b         |           2018 | GMP         | 300, XS167, XS189, XS222, XS236, XS244 & XS311      |
+| LAURIC ARGINATE ETHYL ESTER              | 243          |           2021 | 200mg/kg    | 333, XS189, XS222 & XS236                           |
+| LECITHIN                                 | 322(i)       |           2018 | GMP         | 300, XS167, XS189, XS222, XS236, XS244 & XS311      |
+| MAGNESIUM CARBONATE                      | 504(i)       |           2018 | GMP         | XS167, XS189, XS222, XS236,                         |
+XS244 & XS311
+Food Category No. 09.2.5
+Smoked, dried, fermented, and/or salted fish and fish products, including mollusks, crustaceans, and echinoderms
+| Additive                                   | INS     |   Year Adopted | Max Level   | Notes                                               |
+|--------------------------------------------|---------|----------------|-------------|-----------------------------------------------------|
+| MAGNESIUM CHLORIDE                         | 511     |           2018 | GMP         | 300, XS167, XS189, XS222, XS236, XS244 & XS311      |
+| MAGNESIUM HYDROXIDE                        | 528     |           2018 | GMP         | XS167, XS189, XS222, XS236, XS244 & XS311           |
+| MAGNESIUM HYDROXIDE CARBONATE              | 504(ii) |           2018 | GMP         | XS167, XS189, XS222, XS236, XS244 & XS311           |
+| MALIC ACID, DL-                            | 296     |           2013 | GMP         | XS167, XS189, XS222, XS236, XS244 & XS311           |
+| MALTITOL                                   | 965(i)  |           2023 | GMP         | 489                                                 |
+| MALTITOL SYRUP                             | 965(ii) |           2023 | GMP         | 489                                                 |
+| MANNITOL                                   | 421     |           2018 | GMP         | 300, XS167, XS189, XS222, XS236, XS244 &            |
+| METHYL CELLULOSE                           | 461     |           2018 | GMP         | 300, 332, XS167, XS189, XS222, XS236, XS244 & XS311 |
+| METHYL ETHYL CELLULOSE                     | 465     |           2018 | GMP         | 300, XS167, XS189, XS222, XS236, XS244 & XS311      |
+| MICROCRYSTALLINE CELLULOSE (CELLULOSE GEL) | 460(i)  |           2018 | GMP         | 300, 332, XS167, XS189, XS222, XS236, XS244 & XS311 |
+| MONO- AND DI-GLYCERIDES OF FATTY ACIDS     | 471     |           2018 | GMP         | 300, XS167, XS189, XS222, XS236, XS244 & XS311      |
+| MONOSODIUM L-GLUTAMATE                     | 621     |           2018 | GMP         | 29, 313, XS167, XS189, XS236, XS244 & XS311         |
+| NITROGEN                                   | 941     |           2018 | GMP         | 59, 382, XS167, XS189, XS222, XS236 & XS244         |
+| OXIDIZED STARCH                            | 1404    |           2018 | GMP         | 300, XS167, XS189, XS222, XS236, XS244 & XS311      |
+| PECTINS                                    | 440     |           2018 | GMP         | 300, XS167, XS189, XS222, XS236, XS244 &            |
+XS311
+Food Category No. 09.2.5
+Smoked, dried, fermented, and/or salted fish and fish products, including mollusks, crustaceans, and echinoderms
+| Additive                                                                                  | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes                                                |
+|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|------------------------------------------------------|
+| PHOSPHATES                                                                                | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2018 | 2200mg/kg   | 33, 334, XS167, XS189, XS236, XS244, XS311, 413, 420 |
+| PONCEAU 4R (COCHINEAL RED A)                                                              | 124                                                                                                                                     |           2018 | 100mg/kg    | 22, XS167, XS189, XS222, XS236, XS244 & XS311        |
+| POTASSIUM CARBONATE                                                                       | 501(i)                                                                                                                                  |           2018 | GMP         | 230, XS167, XS189, XS222, XS236, XS244 & XS311       |
+| POTASSIUM CHLORIDE                                                                        | 508                                                                                                                                     |           2018 | GMP         | 300, XS167, XS189, XS222, XS236, XS244 & XS311       |
+| POTASSIUM LACTATE                                                                         | 326                                                                                                                                     |           2018 | GMP         | 382, XS167, XS189, XS222, XS236 & XS244              |
+| POWDERED CELLULOSE                                                                        | 460(ii)                                                                                                                                 |           2018 | GMP         | 300, 332, XS167, XS189, XS222, XS236, XS244 & XS311  |
+| PROCESSED EUCHEUMA SEAWEED (PES)                                                          | 407a                                                                                                                                    |           2018 | GMP         | 300, 332, XS167, XS189, XS222, XS236, XS244 & XS311  |
+| PROPYL GALLATE                                                                            | 310                                                                                                                                     |           2018 | 100mg/kg    | 15, 196, XS167, XS189, XS222, XS236, XS244 & XS311   |
+| PULLULAN                                                                                  | 1204                                                                                                                                    |           2018 | GMP         | 300, XS167, XS189, XS222, XS236, XS244 & XS311       |
+| RIBOFLAVINS                                                                               | 101(i),(ii), (iii), (iv)                                                                                                                |           2024 | GMP         | 22, XS167, XS189, XS222, XS236, XS244 & XS311        |
+| SALTS OF MYRISTIC, PALMITIC AND STEARIC ACIDS WITH AMMONIA, CALCIUM, POTASSIUM AND SODIUM | 470(i)                                                                                                                                  |           2018 | GMP         | 300, XS167, XS189, XS222, XS236, XS244 & XS311       |
+| SALTS OF OLEIC ACID WITH CALCIUM, POTASSIUM AND SODIUM                                    | 470(ii)                                                                                                                                 |           2018 | GMP         | 300, XS167, XS189, XS222, XS236, XS244 & XS311       |
+| SODIUM ACETATE                                                                            | 262(i)                                                                                                                                  |           2018 | GMP         | XS167, XS189, XS222, XS236, XS244 & XS311            |
+| SODIUM ALGINATE                                                                           | 401                                                                                                                                     |           2018 | GMP         | 300, 332, XS167, XS189, XS222, XS236, XS244 &        |
+XS311
+Food Category No. 09.2.5
+Smoked, dried, fermented, and/or salted fish and fish products, including mollusks, crustaceans, and echinoderms
+| Additive                                       | INS                    |   Year Adopted | Max Level   | Notes                                               |
+|------------------------------------------------|------------------------|----------------|-------------|-----------------------------------------------------|
+| SODIUM CARBONATE                               | 500(i)                 |           2018 | GMP         | XS167, XS189, XS222, XS236, XS244 & XS311           |
+| SODIUM CARBOXYMETHYL CELLULOSE (CELLULOSE GUM) | 466                    |           2018 | GMP         | 300, 332, XS167, XS189, XS222, XS236, XS244 & XS311 |
+| SODIUM DL-MALATE                               | 350(ii)                |           2018 | GMP         | XS167, XS189, XS222, XS236, XS244 & XS311           |
+| SODIUM ERYTHORBATE (SODIUM ISOASCORBATE)       | 316                    |           2018 | GMP         | 382, XS167, XS189, XS222, XS236 & XS244             |
+| SODIUM FUMARATES                               | 365                    |           2018 | GMP         | XS167, XS189, XS222, XS236, XS244 & XS311           |
+| SODIUM LACTATE                                 | 325                    |           2018 | GMP         | 437, XS167, XS189, XS222, XS236 & XS244             |
+| SORBATES                                       | 200, 202, 203          |           2018 | 1000mg/kg   | 20, 42, XS189, XS222 & XS236                        |
+| SORBITOL                                       | 420(i)                 |           2023 | GMP         |                                                     |
+| SORBITOL SYRUP                                 | 420(ii)                |           2023 | GMP         |                                                     |
+| STEVIOL GLYCOSIDES                             | 960a, 960b, 960c, 960d |           2023 | 165mg/kg    | 26, 208, 489                                        |
+| SULFITES                                       | 220-225, 539           |           2018 | 30mg/kg     | 44, XS167, XS189, XS222, XS236, XS244 & XS311       |
+| SUNSET YELLOW FCF                              | 110                    |           2018 | 100mg/kg    | 382, XS167, XS189, XS222, XS236 & XS244             |
+| TARA GUM                                       | 417                    |           2018 | GMP         | 300, XS167, XS189, XS222, XS236, XS244 & XS311      |
+| TARTRATES                                      | 334, 335(ii), 337      |           2018 | 200mg/kg    | 45, 128, 382, XS167, XS189, XS222, XS236 & XS244    |
+| TARTRAZINE                                     | 102                    |           2018 | 100mg/kg    | 382, XS167, XS189, XS222, XS236 & XS244             |
+| TRAGACANTH GUM                                 | 413                    |           2018 | GMP         | 300, XS167, XS189, XS222, XS236, XS244 & XS311      |
+| XANTHAN GUM                                    | 415                    |           2018 | GMP         | 300, XS167, XS189, XS222, XS236, XS244 &            |
+XS311
+Food Category No. 09.3
+Semi-preserved fish and fish products, including mollusks, crustaceans, and echinoderms
+| Additive                             | INS                  |   Year Adopted | Max Level   | Notes               |
+|--------------------------------------|----------------------|----------------|-------------|---------------------|
+| ACESULFAME POTASSIUM                 | 950                  |           2018 | 200mg/kg    | 144, 188 & XS291    |
+| ADVANTAME                            | 969                  |           2023 | 3mg/kg      | 144, XS291          |
+| ASPARTAME                            | 951                  |           2018 | 300mg/kg    | 144, 191 & XS291    |
+| ASPARTAME-ACESULFAME SALT            | 962                  |           2018 | 200mg/kg    | 113, 144 & XS291    |
+| BENZOATES                            | 210-213              |           2018 | 2000mg/kg   | 13, 120 & XS291     |
+| BUTYLATED HYDROXYANISOLE             | 320                  |           2018 | 200mg/kg    | 15, 180 & XS291     |
+| BUTYLATED HYDROXYTOLUENE             | 321                  |           2018 | 200mg/kg    | 15, 180 & XS291     |
+| CARAMEL III - AMMONIA CARAMEL        | 150c                 |           2018 | 30000mg/kg  | 95 & XS291          |
+| CARAMEL IV - SULFITE AMMONIA CARAMEL | 150d                 |           2018 | 30000mg/kg  | 95 & XS291          |
+| CAROTENAL, BETA-APO-8'- (160e)       | 160e                 |           2023 | 20mg/kg     | 95 & XS291          |
+| CAROTENES, BETA-                     | 160a(i),a(iii),a(iv) |           2023 | 20mg/kg     | 95, XS291, 341, 344 |
+| CAROTENES, BETA-, VEGETABLE          | 160a(ii)             |           2023 | 20mg/kg     | 95, XS291, 341, 344 |
+| HYDROXYBENZOATES, PARA-              | 214, 218             |           2018 | 1000mg/kg   | 27 & XS291          |
+| NEOTAME                              | 961                  |           2021 | 10mg/kg     | 144 & XS291         |
+| SORBATES                             | 200, 202, 203        |           2018 | 1000mg/kg   | 42 & XS291          |
+| SUCRALOSE (TRICHLOROGALACTOSUCROSE)  | 955                  |           2018 | 120mg/kg    | 144 & XS291         |
+Food Category No. 09.3.1
+Fish and fish products, including mollusks, crustaceans, and echinoderms, marinated and/or in jelly
+| Additive                                          | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes    |
+|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|----------|
+| BRILLIANT BLUE FCF                                | 133                                                                                                                                     |           2005 | 500mg/kg    | 16       |
+| CARMINES                                          | 120                                                                                                                                     |           2005 | 500mg/kg    | 16 & 178 |
+| CHLOROPHYLLS AND CHLOROPHYLLINS, COPPER COMPLEXES | 141(i),(ii)                                                                                                                             |           2009 | 40mg/kg     | 16       |
+| GRAPE SKIN EXTRACT                                | 163(ii)                                                                                                                                 |           2009 | 500mg/kg    | 16       |
+| LAURIC ARGINATE ETHYL ESTER                       | 243                                                                                                                                     |           2018 | 200mg/kg    |          |
+| PHOSPHATES                                        | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2012 | 2200mg/kg   | 33       |
+| POLYGLYCEROL ESTERS OF FATTY ACIDS                | 475                                                                                                                                     |           2018 | 1000mg/kg   | 414      |
+| SACCHARINS                                        | 954(i)-(iv)                                                                                                                             |           2007 | 160mg/kg    | 500, 144 |
+| STEVIOL GLYCOSIDES                                | 960a, 960b, 960c, 960d                                                                                                                  |           2011 | 100mg/kg    | 26 & 144 |
+| SUNSET YELLOW FCF                                 | 110                                                                                                                                     |           2008 | 300mg/kg    | 16       |

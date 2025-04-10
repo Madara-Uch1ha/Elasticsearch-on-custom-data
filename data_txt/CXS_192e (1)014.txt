@@ -1,0 +1,153 @@
+| Standard No   | Codex Standard Title                                                                                                                       | Food Cat. No.   |
+|---------------|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| 321-2015      | Ginseng Products (Ginseng Extract, Steamed Ginseng Extract)                                                                                | 04.2.2.6        |
+| 38-1981       | Edible Fungi and Fungi Products (fermented)                                                                                                | 04.2.2.7        |
+| 151-1985      | Gari                                                                                                                                       | 04.2.2.7        |
+| 223-2001      | Kimchi                                                                                                                                     | 04.2.2.7        |
+| 240-2003      | Aqueous Coconut Products (coconut milk and coconut cream)                                                                                  | 04.1.2.8        |
+| 260-2007      | Pickled Fruits and Vegetables (fermented vegetables)                                                                                       | 04.2.2.7        |
+| 294-2009      | Gochujang                                                                                                                                  | 04.2.2.7        |
+| 314R-2013     | Date Paste (Regional Standard)                                                                                                             | 04.1.2.8        |
+| 105-1981      | Cocoa Powders (Cocoa) and Dry Mixtures of Cocoa and Sugar                                                                                  | 05.1.1          |
+| 141-1983      | Cocoa (Cacao) Mass (Cocoa/Chocolate Liquor) and Cocoa Cake                                                                                 | 05.1.1          |
+| 323R-2017     | Laver Products (Roasted laver products and roasted seasoned laver products) (Regional Standard)                                            | 04.2.2.8        |
+| 334R-2020     | Fermented cooked cassava-based products (Regional Standard)                                                                                | 04.2.2.8        |
+| 86-1981       | Cocoa Butters                                                                                                                              | 05.1.3          |
+| 309R-2011     | Halwa Tehenia (Regional Standard)                                                                                                          | 05.2.2          |
+| 87-1981       | Chocolate and Chocolate Products                                                                                                           | 05.1.4          |
+| 153-1985      | Maize (Corn)                                                                                                                               | 06.1            |
+| 169-1989      | Whole and Decorticated Pearl Millet Grains                                                                                                 | 06.1            |
+| 172-1989      | Sorghum Grains                                                                                                                             | 06.1            |
+| 198-1995      | Rice                                                                                                                                       | 06.1            |
+| 199-1995      | Wheat and Durum Wheat                                                                                                                      | 06.1            |
+| 201-1995      | Oats                                                                                                                                       | 06.1            |
+| 202-1995      | Couscous                                                                                                                                   | 06.1            |
+| 333-2019      | Quinoa                                                                                                                                     | 06.1            |
+| 152-1985      | Wheat Flour                                                                                                                                | 06.2.1          |
+| 154-1985      | Whole Maize (Corn) Meal                                                                                                                    | 06.2.1          |
+| 155-1985      | Degermed Maize (Corn) Meal and Maize (Corn) Grits                                                                                          | 06.2.1          |
+| 170-1989      | Pearl Millet Flour                                                                                                                         | 06.2.1          |
+| 173-1989      | Sorghum Flour                                                                                                                              | 06.2.1          |
+| 176-1989      | Edible Cassava Flour                                                                                                                       | 06.2.1          |
+| 178-1991      | Durum Wheat Semolina and Durum Wheat Flour                                                                                                 | 06.2.1          |
+| 301R-2011     | Edible Sago Flour (Regional Standard)                                                                                                      | 06.2.1          |
+| 249-2006      | Instant Noodles                                                                                                                            | 06.4.3          |
+| 355R-2023     | Cooked Rice Wrapped in Plant Leaves                                                                                                        | 06.7            |
+| 322R-2015     | Non-fermented Soybean Products (Plain Soybean Beverage, Composite/Flavoured Soybean Beverage, Soybean-Based Beverages) (Regional Standard) | 06.8.1          |
+| 322R-2015     | Non-fermented Soybean Products (Dehydrated Soybean Curd Film) (Regional Standard)                                                          | 06.8.2          |
+| 322R-2015     | Non-fermented Soybean Products (Semisolid Soybean Curd, Soybean Curd) (Regional Standard)                                                  | 06.8.3          |
+| 322R-2015     | Non-fermented Soybean Products (Compressed Soybean Curd) (Regional Standard)                                                               | 06.8.4          |
+| 313R-2013     | Tempe (Regional Standard)                                                                                                                  | 06.8.6          |
+| Standard No   | Codex Standard Title                                                                                           | Food Cat. No.   |
+|---------------|----------------------------------------------------------------------------------------------------------------|-----------------|
+| 354R-2023     | Soybean Products Fermented with Bacillus Species                                                               | 06.8.6          |
+| 175-1989      | Soy Protein Products                                                                                           | 06.8.8          |
+| 350R-2022     | Dried Meat                                                                                                     | 08.2.           |
+| 96-1981       | Cooked Cured Ham                                                                                               | 08.2.2          |
+| 97-1981       | Cooked Cured Pork Shoulder                                                                                     | 08.2.2          |
+| 88-1981       | Canned Corned Beef                                                                                             | 08.3.2          |
+| 89-1981       | Luncheon Meat                                                                                                  | 08.3.2          |
+| 98-1981       | Cooked Cured Chopped Meat                                                                                      | 08.3.2          |
+| 36-1981       | Quick-Frozen Finfish, Uneviscerated and Eviscerated                                                            | 09.2.1          |
+| 92-1981       | Quick Frozen Shrimps or Prawns                                                                                 | 09.2.1          |
+| 95-1981       | Quick Frozen Lobsters                                                                                          | 09.2.1          |
+| 165-1989      | Quick Frozen Blocks of Fish Fillets, Minced Fish Flesh and Mixtures of Fillets and Minced Fish Flesh           | 09.2.1          |
+| 190-1995      | Quick Frozen Fish Fillets                                                                                      | 09.2.1          |
+| 191-1995      | Quick Frozen Raw Squid                                                                                         | 09.2.1          |
+| 292-2008      | Raw and Live Bivalve Molluscs (live)                                                                           | 09.1.2          |
+| 292-2008      | Raw and Live Bivalve Molluscs (raw, chilled shucked)                                                           | 09.1.2          |
+| 292-2008      | Raw and Live Bivalve Molluscs (raw, frozen)                                                                    | 09.2.1          |
+| 312-2013      | Live Abalone and Raw Fresh Chilled or Frozen Abalone for Direct Consumption or for Further Processing (fresh)  | 09.1.2          |
+| 312-2013      | Live Abalone and Raw Fresh Chilled or Frozen Abalone for Direct Consumption or for Further Processing (frozen) | 09.2.1          |
+| 315-2014      | Fresh and Quick Frozen Raw Scallop Products (fresh)                                                            | 09.1.2          |
+| 315-2014      | Fresh and Quick Frozen Raw Scallop Products (frozen)                                                           | 09.2.1          |
+| 3-1981        | Canned Salmon                                                                                                  | 09.4            |
+| 37-1981       | Canned Shrimps or Prawns                                                                                       | 09.4            |
+| 70-1981       | Canned Tuna and Bonito                                                                                         | 09.4            |
+| 90-1981       | Canned Crab Meat                                                                                               | 09.4            |
+| 94-1981       | Canned Sardines and Sardine-Type Products                                                                      | 09.4            |
+| 119-1981      | Canned Finfish                                                                                                 | 09.4            |
+| 166-1989      | Quick Frozen Fish Sticks (Fish Fingers), Fish Portions and Fish Fillets - Breaded and in Batter                | 09.2.2          |
+| 291-2010      | Sturgeon Caviar                                                                                                | 09.3.3          |
+| 167-1989      | Salted Fish and Dried Salted Fish of the Gadidae Family of Fishes                                              | 09.2.5          |
+| 189-1993      | Dried Shark Fins                                                                                               | 09.2.5          |
+| 222-2001      | Crackers from Marine and Freshwater Fish, Crustaceans and Molluscan Shellfish                                  | 09.2.5          |
+| 236-2003      | Boiled Dried Salted Anchovies                                                                                  | 09.2.5          |
+| 244-2004      | Salted Atlantic Herring and Salted Sprat                                                                       | 09.2.5          |
+| 311-2013      | Smoke Fish, Smoke-Flavoured Fish and Smoke-Dried Fish                                                          | 09.2.5          |
+| 212-1999      | Sugars (white sugar, dextrose anhydrous, dextrose monohydrate, fructose)                                       | 11.1.1          |
+| 212-1999      | Sugars (powdered sugar and powdered dextrose)                                                                  | 11.1.2          |
+| Standard No   | Codex Standard Title                                                                                                                     | Food Cat. No.   |
+|---------------|------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| 212-1999      | Sugars (glucose syrup, dried glucose, soft white sugar, brown sugar, raw cane sugar)                                                     | 11.1.3          |
+| 12-1981       | Honey                                                                                                                                    | 11.5            |
+| 212-1999      | Sugars (lactose)                                                                                                                         | 11.1.4          |
+| 212-1999      | Sugars (plantation or white mill sugar)                                                                                                  | 11.1.5          |
+| 163-1987      | Wheat Protein Products, Including Wheat Gluten                                                                                           | 12.10           |
+| 174-1989      | Vegetable Protein Products                                                                                                               | 12.10           |
+| 150-1985      | Food Grade Salt                                                                                                                          | 12.1.1          |
+| 53-1981       | Special Dietary Foods with Low-Sodium Content, including salt substitutes (salt substitutes)                                             | 12.1.2          |
+| 326-2017      | Black, White and Green Pepper                                                                                                            | 12.2.1          |
+| 327-2017      | Cumin                                                                                                                                    | 12.2.1          |
+| 328-2017      | Dried Thyme                                                                                                                              | 12.2.1          |
+| 342-2021      | Dried oregano                                                                                                                            | 12.2.1          |
+| 343-2021      | Dried or dehydrated ginger                                                                                                               | 12.2.1          |
+| 344-2021      | Cloves                                                                                                                                   | 12.2.1          |
+| 345-2021      | Dried basil                                                                                                                              | 12.2.1          |
+| 347-2019      | Dried or dehydrated garlic                                                                                                               | 12.2.1          |
+| 351-2022      | Dried Floral Parts - Saffron                                                                                                             | 12.2.1          |
+| 352-2022      | Dried Seeds - Nutmeg                                                                                                                     | 12.2.1          |
+| 353-2022      | Dried or Dehydrated Chilli Pepper and Paprika                                                                                            | 12.2.1          |
+| 357-2024      | Spices derived from dried or dehydrated fruits and berries - small cardamom                                                              | 12.2.1          |
+| 358-2024      | Spices derived from dried or dehydrated fruits and berries - allspice, juniper berry and star anise                                      | 12.2.1          |
+| 359-2024      | Spices derived from dried or dehydrated roots, rhizomes and bulbs - turmeric                                                             | 12.2.1          |
+| 117-1981      | Bouillon and Consommés                                                                                                                   | 12.5            |
+| 306-2011      | Chilli Sauce                                                                                                                             | 12.6.2          |
+| 53-1981       | Special Dietary Foods with Low-Sodium Content, including salt substitutes (special dietary foods with low sodium content)                | 13.0            |
+| 298R-2009     | Fermented Soybean Paste (Regional Standard)                                                                                              | 12.9.1          |
+| 302-2011      | Fish Sauce                                                                                                                               | 12.6.4          |
+| 72-1981       | Infant Formula and Formula for Special Dietary Purposes Intended for Infants (infant formula)                                            | 13.1.1          |
+| 73-1981       | Canned Baby Foods                                                                                                                        | 13.2            |
+| 74-1981       | Processed Cereal-Based Foods for Infants and Children                                                                                    | 13.2            |
+| 118-1981      | Foods for Special Dietary Use for Persons Intolerant to Gluten                                                                           | 13.3            |
+| 156-1987      | Follow-up Formula for Older Infants                                                                                                      | 13.1.2          |
+| 156-1987      | Product for Young Children                                                                                                               | 13.1.2          |
+| CXG 95- 2022  | Ready-to-Use Therapeutic Foods                                                                                                           | 13.3            |
+| 72-1981       | Infant formula and Formula for Special Dietary Purposes Intended for Infants (formula for special dietary purposes intended for infants) | 13.1.3          |
+| 181-1991      | Formula Foods for Use in Weight Control Diets                                                                                            | 13.4            |
+| Standard No   | Codex Standard Title                                                | Food Cat. No.   |
+|---------------|---------------------------------------------------------------------|-----------------|
+| 203-1995      | Formula Foods for Use in Very Low Energy Diets for Weight Reduction | 13.4            |
+| 108-1981      | Natural Mineral Waters                                              | 14.1.1.1        |
+| 227-2001      | Bottled/Packaged Drinking Waters (other than natural mineral water) | 14.1.1.2        |
+| 247-2005      | Fruit Juices and Nectars (fruit juices)                             | 14.1.2.1        |
+| 356R-2023     | Fermented Noni Fruit Juice                                          | 14.1.2.1        |
+| 247-2005      | Fruit Juices and Nectars (fruit nectars)                            | 14.1.3.1        |
+| 247-2005      | Fruit Juices and Nectars (concentrates for fruit juice)             | 14.1.2.3        |
+| 247-2005      | Fruit Juices and Nectars (concentrates for fruit nectars)           | 14.1.3.3        |
+GENERAL STANDARD FOR FOOD ADDITIVES
+TABLE ONE
+Additives Permitted for Use Under Specified Conditions in Certain Food Categories or Individual Food Items
+ACESULFAME POTASSIUM
+| 950 INS   | Acesulfame potassium                                                                                                                | Flavour enhancer, Sweetener Functional Class:                                                                                       | Flavour enhancer, Sweetener Functional Class:   | Flavour enhancer, Sweetener Functional Class:   | Flavour enhancer, Sweetener Functional Class:   |
+|-----------|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
+| FoodCatNo | FoodCategory                                                                                                                        | FoodCategory                                                                                                                        | MaxLevel                                        | Notes                                           | Year Adopted                                    |
+| 01.1.4    | Flavoured fluid milk drinks                                                                                                         | Flavoured fluid milk drinks                                                                                                         | 350mg/kg                                        | 188, 478 & 639                                  | 2024                                            |
+| 01.3.2    | Beverage whiteners                                                                                                                  | Beverage whiteners                                                                                                                  | 2000mg/kg                                       | 188, 201, 478, XS250, XS252                     | 2021                                            |
+| 01.4.4    | Cream analogues                                                                                                                     | Cream analogues                                                                                                                     | 1000mg/kg                                       | 188, 478 & 68                                   | 2021                                            |
+| 01.5.2    | Milk and cream powder analogues                                                                                                     | Milk and cream powder analogues                                                                                                     | 1000mg/kg                                       | 188, 478, XS251 & 408                           | 2021                                            |
+| 01.7      | Dairy-based desserts (e.g. pudding, fruit or flavoured yoghurt)                                                                     | Dairy-based desserts (e.g. pudding, fruit or flavoured yoghurt)                                                                     | 350mg/kg                                        | 478, 188 & 639                                  | 2024                                            |
+| 02.4      | Fat-based desserts excluding dairy-based dessert products of food category 01.7                                                     | Fat-based desserts excluding dairy-based dessert products of food category 01.7                                                     | 350mg/kg                                        | 188 & 478                                       | 2021                                            |
+| 03.0      | Edible ices, including sherbet and sorbet                                                                                           | Edible ices, including sherbet and sorbet                                                                                           | 800mg/kg                                        | 478 & 188                                       | 2019                                            |
+| 04.1.2.1  | Frozen fruit                                                                                                                        | Frozen fruit                                                                                                                        | 500mg/kg                                        | 188, 478 & 358                                  | 2021                                            |
+| 04.1.2.3  | Fruit in vinegar, oil, or brine                                                                                                     | Fruit in vinegar, oil, or brine                                                                                                     | 200mg/kg                                        | 144 & 188                                       | 2021                                            |
+| 04.1.2.4  | Canned or bottled (pasteurized) fruit                                                                                               | Canned or bottled (pasteurized) fruit                                                                                               | 350mg/kg                                        | 188, 478 & XS319                                | 2021                                            |
+| 04.1.2.5  | Jams, jellies, marmelades                                                                                                           | Jams, jellies, marmelades                                                                                                           | 1000mg/kg                                       | 478 & 188                                       | 2019                                            |
+| 04.1.2.6  | Fruit-based spreads (e.g. chutney) excluding products of food category 04.1.2.5                                                     | Fruit-based spreads (e.g. chutney) excluding products of food category 04.1.2.5                                                     | 1000mg/kg                                       | 188, 478 & XS160                                | 2023                                            |
+| 04.1.2.7  | Candied fruit                                                                                                                       | Candied fruit                                                                                                                       | 500mg/kg                                        | 188 & 478                                       | 2021                                            |
+| 04.1.2.8  | Fruit preparations, including pulp, purees, fruit toppings and coconut milk                                                         | Fruit preparations, including pulp, purees, fruit toppings and coconut milk                                                         | 350mg/kg                                        | 188, 478 & XS314R                               | 2024                                            |
+| 04.1.2.9  | Fruit-based desserts, including fruit-flavoured water-based desserts                                                                | Fruit-based desserts, including fruit-flavoured water-based desserts                                                                | 350mg/kg                                        | 478 & 188                                       | 2019                                            |
+| 04.1.2.10 | Fermented fruit products                                                                                                            | Fermented fruit products                                                                                                            | 350mg/kg                                        | 478 & 188                                       | 2019                                            |
+| 04.1.2.11 | Fruit fillings for pastries                                                                                                         | Fruit fillings for pastries                                                                                                         | 350mg/kg                                        | 188 & 478                                       | 2021                                            |
+| 04.1.2.12 | Cooked fruit                                                                                                                        | Cooked fruit                                                                                                                        | 500mg/kg                                        | 478 & 188                                       | 2019                                            |
+| 04.2.2.2  | Dried vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), seaweeds, and nuts and seeds | Dried vegetables (including mushrooms and fungi, roots and tubers, pulses and legumes, and aloe vera), seaweeds, and nuts and seeds | 300mg/kg                                        | 110                                             | 2024                                            |

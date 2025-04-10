@@ -1,0 +1,189 @@
+Food Category No.
+01.2.1.2 Fermented milks (plain), heat-treated after
+fermentation
+| Additive                                                          | INS     |   Year Adopted | Max Level   | Notes     |
+|-------------------------------------------------------------------|---------|----------------|-------------|-----------|
+| ACETYLATED DISTARCH ADIPATE                                       | 1422    |           2013 | GMP         | 234       |
+| ACETYLATED DISTARCH PHOSPHATE                                     | 1414    |           2013 | GMP         | 234       |
+| ACETYLATED OXIDIZED STARCH                                        | 1451    |           2024 | GMP         | 234 & 634 |
+| ACID-TREATED STARCH                                               | 1401    |           2013 | GMP         | 234       |
+| ADIPATES                                                          | 355     |           2016 | 1500mg/kg   | 1         |
+| AGAR                                                              | 406     |           2015 | GMP         | 234       |
+| ALGINIC ACID                                                      | 400     |           2013 | GMP         | 234       |
+| ALKALINE TREATED STARCH                                           | 1402    |           2013 | GMP         | 234       |
+| AMMONIUM ALGINATE                                                 | 403     |           2013 | GMP         | 234       |
+| AMMONIUM CARBONATE                                                | 503(i)  |           2024 | GMP         | 630       |
+| AMMONIUM HYDROGEN CARBONATE                                       | 503(ii) |           2024 | GMP         | 630       |
+| AMMONIUM HYDROXIDE                                                | 527     |           2013 | GMP         |           |
+| BLEACHED STARCH                                                   | 1403    |           2013 | GMP         | 234       |
+| CALCIUM ACETATE                                                   | 263     |           2024 | GMP         | 630       |
+| CALCIUM ALGINATE                                                  | 404     |           2013 | GMP         | 234       |
+| CALCIUM CARBONATE                                                 | 170(i)  |           2013 | GMP         | 625       |
+| CALCIUM CHLORIDE                                                  | 509     |           2024 | GMP         | 234 & 634 |
+| CALCIUM GLUCONATE                                                 | 578     |           2024 | GMP         | 630       |
+| CALCIUM HYDROXIDE                                                 | 526     |           2024 | GMP         | 631       |
+| CALCIUM LACTATE                                                   | 327     |           2024 | GMP         | 631       |
+| CALCIUM MALATE, D,L-                                              | 352(ii) |           2024 | GMP         | 630       |
+| CALCIUM OXIDE                                                     | 529     |           2013 | GMP         |           |
+| CALCIUM SULFATE                                                   | 516     |           2024 | GMP         | 630       |
+| CARBON DIOXIDE                                                    | 290     |           2024 | GMP         | 59 & 628  |
+| CAROB BEAN GUM                                                    | 410     |           2013 | GMP         | 234       |
+| CARRAGEENAN                                                       | 407     |           2015 | GMP         | 234       |
+| CITRIC ACID                                                       | 330     |           2024 | GMP         | 631       |
+| CITRIC AND FATTY ACID ESTERS OF GLYCEROL                          | 472c    |           2013 | GMP         | 234       |
+| CROSS-LINKED CARBOXYMETHYL CELLULOSE (CROSS-LINKED CELLULOSE GUM) | 468     |           2024 | GMP         | 634       |
+| CYCLODEXTRIN, BETA-                                               | 459     |           2024 | 5mg/kg      | 234 & 634 |
+| DEXTRINS, ROASTED STARCH                                          | 1400    |           2013 | GMP         | 234       |
+| DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL                | 472e    |           2024 | 5000mg/kg   | XS243     |
+| DISTARCH PHOSPHATE                                                | 1412    |           2013 | GMP         | 234       |
+| ETHYL HYDROXYETHYL CELLULOSE                                      | 467     |           2024 | GMP         | 234 & 634 |
+| FUMARIC ACID                                                      | 297     |           2024 | GMP         | 630       |
+Food Category No. 01.2.1.2
+Fermented milks (plain), heat-treated after fermentation
+| Additive                                   | INS     |   Year Adopted | Max Level   | Notes     |
+|--------------------------------------------|---------|----------------|-------------|-----------|
+| GELLAN GUM                                 | 418(i)  |           2013 | GMP         | 234       |
+| GLUCONO DELTA-LACTONE                      | 575     |           2024 | GMP         | 631       |
+| GUAR GUM                                   | 412     |           2013 | GMP         | 234       |
+| GUM ARABIC (ACACIA GUM)                    | 414     |           2013 | GMP         | 234       |
+| HYDROXYPROPYL CELLULOSE                    | 463     |           2013 | GMP         | 234       |
+| HYDROXYPROPYL DISTARCH PHOSPHATE           | 1442    |           2024 | GMP         | 234 & 634 |
+| HYDROXYPROPYL METHYL CELLULOSE             | 464     |           2013 | GMP         | 234       |
+| HYDROXYPROPYL STARCH                       | 1440    |           2013 | GMP         | 234       |
+| KARAYA GUM                                 | 416     |           2013 | GMP         | 234       |
+| KONJAC FLOUR                               | 425     |           2013 | GMP         | 234       |
+| LACTIC ACID, L-, D- and DL-                | 270     |           2024 | GMP         | 630       |
+| LACTIC AND FATTY ACID ESTERS OF GLYCEROL   | 472b    |           2013 | GMP         | 234       |
+| MAGNESIUM CARBONATE                        | 504(i)  |           2024 | GMP         | 631       |
+| MAGNESIUM CHLORIDE                         | 511     |           2013 | GMP         | 234       |
+| MAGNESIUM HYDROXIDE                        | 528     |           2024 | GMP         | 631       |
+| MAGNESIUM HYDROXIDE CARBONATE              | 504(ii) |           2024 | GMP         | 631       |
+| MAGNESIUM LACTATE, DL-                     | 329     |           2024 | GMP         | 631       |
+| MAGNESIUM OXIDE                            | 530     |           2024 | GMP         | 631       |
+| MALIC ACID, DL-                            | 296     |           2024 | GMP         | 631       |
+| METHYL CELLULOSE                           | 461     |           2013 | GMP         | 234       |
+| METHYL ETHYL CELLULOSE                     | 465     |           2013 | GMP         | 234       |
+| MICROCRYSTALLINE CELLULOSE (CELLULOSE GEL) | 460(i)  |           2013 | GMP         | 234       |
+| MONO- AND DI-GLYCERIDES OF FATTY ACIDS     | 471     |           2015 | GMP         | 234       |
+| MONOSTARCH PHOSPHATE                       | 1410    |           2013 | GMP         | 234       |
+| NITROGEN                                   | 941     |           2014 | GMP         | 59        |
+| NITROUS OXIDE                              | 942     |           2014 | GMP         | 59        |
+| OXIDIZED STARCH                            | 1404    |           2013 | GMP         | 234       |
+| PECTINS                                    | 440     |           2013 | GMP         | 234       |
+| PHOSPHATED DISTARCH PHOSPHATE              | 1413    |           2013 | GMP         | 234       |
+| POLYDEXTROSES                              | 1200    |           2015 | GMP         | 234       |
+| POTASSIUM ACETATE                          | 261(i)  |           2024 | GMP         | 631       |
+| POTASSIUM ALGINATE                         | 402     |           2013 | GMP         | 234       |
+| POTASSIUM CARBONATE                        | 501(i)  |           2024 | GMP         | 234 & 631 |
+| POTASSIUM CHLORIDE                         | 508     |           2024 | GMP         | 234 & 634 |
+| POTASSIUM DIHYDROGEN CITRATE               | 332(i)  |           2024 | GMP         | 631       |
+Food Category No.
+01.2.1.2 Fermented milks (plain), heat-treated after
+fermentation
+| Additive                                                                                           | INS               |   Year Adopted | Max Level   | Notes       |
+|----------------------------------------------------------------------------------------------------|-------------------|----------------|-------------|-------------|
+| POTASSIUM GLUCONATE                                                                                | 577               |           2024 | GMP         | 631         |
+| POTASSIUM HYDROGEN CARBONATE                                                                       | 501(ii)           |           2024 | GMP         | 631         |
+| POTASSIUM HYDROXIDE                                                                                | 525               |           2024 | GMP         | 630         |
+| POTASSIUM LACTATE                                                                                  | 326               |           2024 | GMP         | 631         |
+| POTASSIUM SULFATE                                                                                  | 515(i)            |           2024 | GMP         | 630         |
+| POWDERED CELLULOSE                                                                                 | 460(ii)           |           2013 | GMP         | 234         |
+| PROCESSED EUCHEUMA SEAWEED (PES)                                                                   | 407a              |           2015 | GMP         | 234         |
+| PROPYLENE GLYCOL ALGINATE                                                                          | 405               |           2024 | 5000mg/kg   | 234 & 616   |
+| SALTS OF MYRISTIC, PALMITIC AND STEARIC ACIDS WITH AMMONIA, CALCIUM, POTASSIUM AND SODIUM          | 470(i)            |           2013 | GMP         | 234         |
+| SALTS OF OLEIC ACID WITH CALCIUM, POTASSIUM AND SODIUM                                             | 470(ii)           |           2013 | GMP         | 234         |
+| SODIUM ACETATE                                                                                     | 262(i)            |           2024 | GMP         | 631         |
+| SODIUM ALGINATE                                                                                    | 401               |           2013 | GMP         | 234         |
+| SODIUM CARBONATE                                                                                   | 500(i)            |           2024 | GMP         | 631         |
+| SODIUM CARBOXYMETHYL CELLULOSE (CELLULOSE GUM)                                                     | 466               |           2013 | GMP         | 234         |
+| SODIUM CARBOXYMETHYL CELLULOSE, ENZYMATICALLY HYDROLYSED (CELLULOSE GUM, ENZYMATICALLY HYDROLYZED) | 469               |           2024 | GMP         | 234 & 634   |
+| SODIUM DIHYDROGEN CITRATE                                                                          | 331(i)            |           2024 | GMP         | 234 & M234a |
+| SODIUM FUMARATES                                                                                   | 365               |           2024 | GMP         | 630         |
+| SODIUM HYDROGEN CARBONATE                                                                          | 500(ii)           |           2024 | GMP         | 631         |
+| SODIUM HYDROGEN DL-MALATE                                                                          | 350(i)            |           2024 | GMP         | 630         |
+| SODIUM HYDROGEN SULFATE                                                                            | 514(ii)           |           2024 | GMP         | 630         |
+| SODIUM HYDROXIDE                                                                                   | 524               |           2013 | GMP         |             |
+| SODIUM LACTATE                                                                                     | 325               |           2024 | GMP         | 631         |
+| SODIUM SESQUICARBONATE                                                                             | 500(iii)          |           2024 | GMP         | 630         |
+| SODIUM SULFATE                                                                                     | 514(i)            |           2024 | GMP         | 630         |
+| STARCH ACETATE                                                                                     | 1420              |           2013 | GMP         | 234         |
+| STARCH SODIUM OCTENYL SUCCINATE                                                                    | 1450              |           2013 | GMP         | 234         |
+| STARCHES, ENZYME TREATED                                                                           | 1405              |           2013 | GMP         | 234         |
+| TAMARIND SEED POLYSACCHARIDE                                                                       | 437               |           2021 | GMP         | 234         |
+| TARA GUM                                                                                           | 417               |           2013 | GMP         | 234         |
+| TARTRATES                                                                                          | 334, 335(ii), 337 |           2016 | 2000mg/kg   | 45 & 230    |
+| TRAGACANTH GUM                                                                                     | 413               |           2013 | GMP         | 234         |
+| TRIAMMONIUM CITRATE                                                                                | 380               |           2024 | GMP         | 630         |
+Food Category No. 01.2.1.2
+Fermented milks (plain), heat-treated after fermentation
+| Additive             | INS      |   Year Adopted | Max Level   |   Notes |
+|----------------------|----------|----------------|-------------|---------|
+| TRICALCIUM CITRATE   | 333(iii) |           2024 | GMP         |     630 |
+| TRIPOTASSIUM CITRATE | 332(ii)  |           2013 | GMP         |     234 |
+| TRISODIUM CITRATE    | 331(iii) |           2024 | GMP         |     632 |
+| XANTHAN GUM          | 415      |           2013 | GMP         |     234 |
+Food Category No. 01.2.2 Renneted milk (plain)
+| Additive                                           | INS    |   Year Adopted | Max Level   | Notes   |
+|----------------------------------------------------|--------|----------------|-------------|---------|
+| ACETIC AND FATTY ACID ESTERS OF GLYCEROL           | 472a   |           2013 | GMP         |         |
+| ACETYLATED DISTARCH ADIPATE                        | 1422   |           2013 | GMP         |         |
+| ACETYLATED DISTARCH PHOSPHATE                      | 1414   |           2013 | GMP         |         |
+| ACID-TREATED STARCH                                | 1401   |           2013 | GMP         |         |
+| AGAR                                               | 406    |           2015 | GMP         |         |
+| ALKALINE TREATED STARCH                            | 1402   |           2013 | GMP         |         |
+| BLEACHED STARCH                                    | 1403   |           2013 | GMP         |         |
+| CALCIUM CARBONATE                                  | 170(i) |           2013 | GMP         |         |
+| CARAMEL IV - SULFITE AMMONIA CARAMEL               | 150d   |           1999 | GMP         |         |
+| CARBON DIOXIDE                                     | 290    |           2014 | GMP         | 59      |
+| CAROB BEAN GUM                                     | 410    |           2013 | GMP         |         |
+| CARRAGEENAN                                        | 407    |           2015 | GMP         |         |
+| CITRIC AND FATTY ACID ESTERS OF GLYCEROL           | 472c   |           2013 | GMP         |         |
+| DEXTRINS, ROASTED STARCH                           | 1400   |           2013 | GMP         |         |
+| DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL | 472e   |           2005 | 5000mg/kg   |         |
+| DISTARCH PHOSPHATE                                 | 1412   |           2013 | GMP         |         |
+| GLYCEROL                                           | 422    |           2014 | GMP         |         |
+| GUAR GUM                                           | 412    |           2013 | GMP         |         |
+| GUM ARABIC (ACACIA GUM)                            | 414    |           2013 | GMP         |         |
+| HYDROXYPROPYL CELLULOSE                            | 463    |           2013 | GMP         |         |
+| HYDROXYPROPYL DISTARCH PHOSPHATE                   | 1442   |           2013 | GMP         |         |
+| HYDROXYPROPYL METHYL CELLULOSE                     | 464    |           2013 | GMP         |         |
+| HYDROXYPROPYL STARCH                               | 1440   |           2013 | GMP         |         |
+| KONJAC FLOUR                                       | 425    |           2015 | GMP         |         |
+| LACTIC AND FATTY ACID ESTERS OF GLYCEROL           | 472b   |           2013 | GMP         |         |
+| LECITHIN                                           | 322(i) |           2013 | GMP         |         |
+| MAGNESIUM CHLORIDE                                 | 511    |           2013 | GMP         |         |
+Food Category No.
+01.2.2 Renneted milk (plain)
+| Additive                                                                                  | INS           |   Year Adopted | Max Level   | Notes   |
+|-------------------------------------------------------------------------------------------|---------------|----------------|-------------|---------|
+| MANNITOL                                                                                  | 421           |           2013 | GMP         |         |
+| METHYL CELLULOSE                                                                          | 461           |           2013 | GMP         |         |
+| METHYL ETHYL CELLULOSE                                                                    | 465           |           2013 | GMP         |         |
+| MICROCRYSTALLINE CELLULOSE (CELLULOSE GEL)                                                | 460(i)        |           2013 | GMP         |         |
+| MONO- AND DI-GLYCERIDES OF FATTY ACIDS                                                    | 471           |           2015 | GMP         |         |
+| MONOSTARCH PHOSPHATE                                                                      | 1410          |           2013 | GMP         |         |
+| NITROGEN                                                                                  | 941           |           2014 | GMP         | 59      |
+| OXIDIZED STARCH                                                                           | 1404          |           2013 | GMP         |         |
+| PECTINS                                                                                   | 440           |           2013 | GMP         |         |
+| PHOSPHATED DISTARCH PHOSPHATE                                                             | 1413          |           2013 | GMP         |         |
+| POLYDEXTROSES                                                                             | 1200          |           2015 | GMP         |         |
+| POTASSIUM DIHYDROGEN CITRATE                                                              | 332(i)        |           2013 | GMP         |         |
+| POWDERED CELLULOSE                                                                        | 460(ii)       |           2013 | GMP         |         |
+| PROCESSED EUCHEUMA SEAWEED (PES)                                                          | 407a          |           2015 | GMP         |         |
+| SALTS OF MYRISTIC, PALMITIC AND STEARIC ACIDS WITH AMMONIA, CALCIUM, POTASSIUM AND SODIUM | 470(i)        |           2013 | GMP         |         |
+| SALTS OF OLEIC ACID WITH CALCIUM, POTASSIUM AND SODIUM                                    | 470(ii)       |           2013 | GMP         |         |
+| SODIUM ALGINATE                                                                           | 401           |           2015 | GMP         |         |
+| SODIUM CARBOXYMETHYL CELLULOSE (CELLULOSE GUM)                                            | 466           |           2013 | GMP         |         |
+| SODIUM DIHYDROGEN CITRATE                                                                 | 331(i)        |           2013 | GMP         |         |
+| SORBATES                                                                                  | 200, 202, 203 |           2012 | 1000mg/kg   | 42      |
+| STARCH ACETATE                                                                            | 1420          |           2013 | GMP         |         |
+| STARCH SODIUM OCTENYL SUCCINATE                                                           | 1450          |           2013 | GMP         |         |
+| STARCHES, ENZYME TREATED                                                                  | 1405          |           2013 | GMP         |         |
+| TARA GUM                                                                                  | 417           |           2013 | GMP         |         |
+| TRAGACANTH GUM                                                                            | 413           |           2013 | GMP         |         |
+| TRIPOTASSIUM CITRATE                                                                      | 332(ii)       |           2013 | GMP         |         |
+| TRISODIUM CITRATE                                                                         | 331(iii)      |           2013 | GMP         |         |
+| XANTHAN GUM                                                                               | 415           |           2015 | GMP         |         |
+Food Category No.
+01.3.1
+Condensed milk (plain)

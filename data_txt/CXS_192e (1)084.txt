@@ -1,0 +1,177 @@
+Food Category No. 08.2.1.2
+Cured (including salted) and dried non-heat treated processed meat, poultry, and game products in whole pieces or cuts
+| Additive              | INS           |   Year Adopted | Max Level   | Notes   |
+|-----------------------|---------------|----------------|-------------|---------|
+| BENZOATES             | 210-213       |           2005 | 1000mg/kg   | 3 & 13  |
+| ISOPROPYL CITRATES    | 384           |           2001 | 200mg/kg    |         |
+| NATAMYCIN (PIMARICIN) | 235           |           2001 | 6mg/kg      |         |
+| SORBATES              | 200, 202, 203 |           2016 | 2000mg/kg   | 3 & 42  |
+Food Category No. 08.2.1.3
+Fermented non-heat treated processed meat, poultry, and game products in whole pieces or cuts
+| Additive   | INS           |   Year Adopted | Max Level   | Notes   |
+|------------|---------------|----------------|-------------|---------|
+| SORBATES   | 200, 202, 203 |           2016 | 200mg/kg    | 3 & 42  |
+Food Category No. 08.2.2
+Heat-treated processed meat, poultry, and
+game products in whole pieces or cuts
+| Additive                    | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes                 |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|-----------------------|
+| LAURIC ARGINATE ETHYL ESTER | 243                                                                                                                                     |           2019 | 200mg/kg    | 396                   |
+| NISIN                       | 234                                                                                                                                     |           2015 | 25mg/kg     | 233, 330, XS96 & XS97 |
+| NITRITES                    | 249, 250                                                                                                                                |           2014 | 80mg/kg     | 32 & 288              |
+| PHOSPHATES                  | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2014 | 1320mg/kg   | 33 & 289              |
+| SORBATES                    | 200, 202, 203                                                                                                                           |           2016 | 200mg/kg    | 3, 42, XS96 & XS97    |
+| STEAROYL LACTYLATES         | 481(i), 482(i)                                                                                                                          |           2016 | 2000mg/kg   | 373, XS96 & XS97      |
+| SUCROSE ESTERS              | 473, 473a, 474                                                                                                                          |           2021 | 5000mg/kg   | 15, XS96 & XS97       |
+Food Category No. 08.2.3
+Frozen processed meat, poultry, and game products in whole pieces or cuts
+| Additive                    | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes   |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|---------|
+| LAURIC ARGINATE ETHYL ESTER | 243                                                                                                                                     |           2016 | 200mg/kg    | 3 & 374 |
+| MINERAL OIL, HIGH VISCOSITY | 905d                                                                                                                                    |           2004 | 950mg/kg    | 3       |
+| PHOSPHATES                  | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2009 | 2200mg/kg   | 33      |
+| SORBATES                    | 200, 202, 203                                                                                                                           |           2016 | 200mg/kg    | 3 & 42  |
+Food Category No. 08.3
+Processed comminuted meat, poultry, and game products
+Food Category No.
+08.3 Processed comminuted meat, poultry, and
+game products
+| Additive                   | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes                           |
+|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|---------------------------------|
+| BUTYLATED HYDROXYANISOLE   | 320                                                                                                                                     |           2014 | 200mg/kg    | 15, 130, XS88, XS89 & XS98      |
+| BUTYLATED HYDROXYTOLUENE   | 321                                                                                                                                     |           2014 | 100mg/kg    | 15, 130, 162, XS88, XS89 & XS98 |
+| ERYTHROSINE                | 127                                                                                                                                     |           2014 | 30mg/kg     | 4, 290 & XS88                   |
+| GRAPE SKIN EXTRACT         | 163(ii)                                                                                                                                 |           2014 | 5000mg/kg   | 16, XS88, XS89 & XS98           |
+| NITRITES                   | 249, 250                                                                                                                                |           2014 | 80mg/kg     | 32, 286 & 287                   |
+| PHOSPHATES                 | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2015 | 2200mg/kg   | 33, 302 & XS88                  |
+| POLYSORBATES               | 432-436                                                                                                                                 |           2014 | 5000mg/kg   | XS88, XS89 & XS98               |
+| PROPYL GALLATE             | 310                                                                                                                                     |           2014 | 200mg/kg    | 15, 130, XS88, XS89 & XS98      |
+| PROPYLENE GLYCOL ALGINATE  | 405                                                                                                                                     |           2016 | 3000mg/kg   | XS88, XS89 & XS98               |
+| SODIUM DIACETATE           | 262(ii)                                                                                                                                 |           2016 | 1000mg/kg   | XS88, XS89 & XS98               |
+| SORBATES                   | 200, 202, 203                                                                                                                           |           2016 | 1500mg/kg   | 42, XS88, XS89 & XS98           |
+| TERTIARY BUTYLHYDROQUINONE | 319                                                                                                                                     |           2014 | 100mg/kg    | 15, 130, 162, XS88, XS89 & XS98 |
+| TOCOPHEROLS                | 307a, b, c                                                                                                                              |           2016 | 500mg/kg    | XS88, XS89 & XS98               |
+Food Category No.
+08.3.1 Non-heat treated processed comminuted
+meat, poultry, and game products
+| Additive                    | INS                  |   Year Adopted | Max Level   | Notes        |
+|-----------------------------|----------------------|----------------|-------------|--------------|
+| CAROTENES, BETA-            | 160a(i),a(iii),a(iv) |           2023 | 20mg/kg     | 16, 341, 344 |
+| CAROTENES, BETA-, VEGETABLE | 160a(ii)             |           2023 | 20mg/kg     | 16, 341, 344 |
+| LAURIC ARGINATE ETHYL ESTER | 243                  |           2016 | 315mg/kg    |              |
+| TARTRATES                   | 334, 335(ii), 337    |           2017 | 500mg/kg    | 45           |
+Food Category No. 08.3.1.1
+Cured (including salted) non-heat treated processed comminuted meat, poultry, and game products
+| Additive          | INS   |   Year Adopted | Max Level   | Notes       |
+|-------------------|-------|----------------|-------------|-------------|
+| CANTHAXANTHIN     | 161g  |           2011 | 100mg/kg    | 4, 16 & 118 |
+| CARMINES          | 120   |           2005 | 200mg/kg    | 118 & 178   |
+| SUNSET YELLOW FCF | 110   |           2008 | 300mg/kg    | 16          |
+Food Category No. 08.3.1.2
+Cured (including salted) and dried non-heat treated processed comminuted meat, poultry, and game products
+| Additive              | INS     |   Year Adopted | Max Level   | Notes   |
+|-----------------------|---------|----------------|-------------|---------|
+| BENZOATES             | 210-213 |           2005 | 1000mg/kg   | 3 & 13  |
+| CARMINES              | 120     |           2005 | 100mg/kg    | 178     |
+| ISOPROPYL CITRATES    | 384     |           2001 | 200mg/kg    |         |
+| NATAMYCIN (PIMARICIN) | 235     |           2001 | 20mg/kg     | 3 & 81  |
+| SUNSET YELLOW FCF     | 110     |           2008 | 135mg/kg    |         |
+Food Category No. 08.3.1.3
+Fermented non-heat treated processed comminuted meat, poultry, and game products
+| Additive          |   INS |   Year Adopted | Max Level   |   Notes |
+|-------------------|-------|----------------|-------------|---------|
+| CARMINES          |   120 |           2005 | 100mg/kg    |     178 |
+| SUNSET YELLOW FCF |   110 |           2008 | 300mg/kg    |      16 |
+Food Category No. 08.3.2
+Heat-treated processed comminuted meat, poultry, and game products
+| Additive                        | INS                    |   Year Adopted | Max Level   | Notes                           |
+|---------------------------------|------------------------|----------------|-------------|---------------------------------|
+| ALLURA RED AC                   | 129                    |           2014 | 25mg/kg     | 161, XS88, XS89 & XS98          |
+| CARMINES                        | 120                    |           2014 | 100mg/kg    | 178, XS88, XS89 & XS98          |
+| CAROTENES, BETA-                | 160a(i),a(iii),a(iv)   |           2023 | 20mg/kg     | 16, XS88, XS89, XS98, 341, 344  |
+| CAROTENES, BETA-, VEGETABLE     | 160a(ii)               |           2023 | 20mg/kg     | 16, XS88, XS89, XS98, 341, 344  |
+| ETHYLENE DIAMINE TETRA ACETATES | 385, 386               |           2014 | 35mg/kg     | 21, XS88, XS89 & XS98           |
+| LAURIC ARGINATE ETHYL ESTER     | 243                    |           2019 | 200mg/kg    | 377                             |
+| NISIN                           | 234                    |           2016 | 25mg/kg     | 233 & 377                       |
+| STEAROYL LACTYLATES             | 481(i), 482(i)         |           2016 | 2000mg/kg   | XS88, XS89 & XS98               |
+| STEVIOL GLYCOSIDES              | 960a, 960b, 960c, 960d |           2014 | 100mg/kg    | 26, 202, 477, XS88, XS89 & XS98 |
+| SUCROSE ESTERS                  | 473, 473a, 474         |           2021 | 5000mg/kg   | 15, 373, XS88, XS89 & XS98      |
+| SUNSET YELLOW FCF               | 110                    |           2014 | 300mg/kg    | 16, XS88, XS89 & XS98           |
+| TARTRATES                       | 334, 335(ii), 337      |           2017 | 500mg/kg    | 45, XS88, XS89 & XS98           |
+Food Category No. 08.3.3
+Frozen processed comminuted meat, poultry, and game products
+| Additive   |   INS |   Year Adopted | Max Level   | Notes    |
+|------------|-------|----------------|-------------|----------|
+| CARMINES   |   120 |           2005 | 500mg/kg    | 16 & 178 |
+Food Category No.
+08.3.3 Frozen processed comminuted meat,
+poultry, and game products
+| Additive                    | INS               |   Year Adopted | Max Level   | Notes   |
+|-----------------------------|-------------------|----------------|-------------|---------|
+| CAROTENES, BETA-, VEGETABLE | 160a(ii)          |           2023 | 15mg/kg     | 16, 341 |
+| LAURIC ARGINATE ETHYL ESTER | 243               |           2016 | 315mg/kg    | 3 & 374 |
+| MINERAL OIL, HIGH VISCOSITY | 905d              |           2004 | 950mg/kg    | 3       |
+| SUNSET YELLOW FCF           | 110               |           2008 | 300mg/kg    | 16      |
+| TARTRATES                   | 334, 335(ii), 337 |           2017 | 500mg/kg    | 45      |
+Food Category No.
+08.4 Edible casings (e.g. sausage casings)
+| Additive                                               | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes         |
+|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|---------------|
+| ALLURA RED AC                                          | 129                                                                                                                                     |           2009 | 300mg/kg    | 16            |
+| ASCORBYL ESTERS                                        | 304, 305                                                                                                                                |           2001 | 5000mg/kg   | 10            |
+| CARMINES                                               | 120                                                                                                                                     |           2005 | 500mg/kg    | 16 & 178      |
+| CAROTENAL, BETA-APO-8'- (160e)                         | 160e                                                                                                                                    |           2023 | 100mg/kg    | 304           |
+| CAROTENES, BETA-                                       | 160a(i),a(iii),a(iv)                                                                                                                    |           2023 | 50mg/kg     | 304, 341, 344 |
+| CAROTENES, BETA-, VEGETABLE                            | 160a(ii)                                                                                                                                |           2023 | 50mg/kg     | 304, 341, 344 |
+| FAST GREEN FCF                                         | 143                                                                                                                                     |           2009 | 100mg/kg    | 3 & 4         |
+| GRAPE SKIN EXTRACT                                     | 163(ii)                                                                                                                                 |           2009 | 5000mg/kg   |               |
+| HYDROXYBENZOATES, PARA-                                | 214, 218                                                                                                                                |           2010 | 36mg/kg     | 27            |
+| IRON OXIDES                                            | 172(i)-(iii)                                                                                                                            |           2005 | 1000mg/kg   | 72            |
+| NISIN                                                  | 234                                                                                                                                     |           2015 | 7mg/kg      | 233           |
+| PHOSPHATES                                             | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2010 | 1100mg/kg   | 33            |
+| POLYGLYCEROL ESTERS OF FATTY ACIDS                     | 475                                                                                                                                     |           2017 | 5000mg/kg   | 365           |
+| POLYGLYCEROL ESTERS OF INTERESTERIFIED RICINOLEIC ACID | 476                                                                                                                                     |           2017 | 5000mg/kg   | 365           |
+| POLYSORBATES                                           | 432-436                                                                                                                                 |           2007 | 1500mg/kg   |               |
+| PONCEAU 4R (COCHINEAL RED A)                           | 124                                                                                                                                     |           2008 | 500mg/kg    | 16            |
+| SORBATES                                               | 200, 202, 203                                                                                                                           |           2016 | 10000mg/kg  | 42, 222 & 365 |
+| SUNSET YELLOW FCF                                      | 110                                                                                                                                     |           2008 | 300mg/kg    | 16            |
+| TARTRATES                                              | 334, 335(ii), 337                                                                                                                       |           2017 | 2000mg/kg   | 45 & 365      |
+| TOCOPHEROLS                                            | 307a, b, c                                                                                                                              |           2016 | 5000mg/kg   | 365           |
+Food Category No. 09.1
+Fresh fish and fish products, including mollusks, crustaceans, and echinoderms
+| Additive                      | INS   |   Year Adopted | Max Level   | Notes                       |
+|-------------------------------|-------|----------------|-------------|-----------------------------|
+| CARAMEL III - AMMONIA CARAMEL | 150c  |           2017 | 30000mg/kg  | 4, 16, XS292, XS312 & XS315 |
+Food Category No.
+09.1.1 Fresh fish
+| Additive                    |   INS |   Year Adopted | Max Level   | Notes           |
+|-----------------------------|-------|----------------|-------------|-----------------|
+| BRILLIANT BLUE FCF          |   133 |           2008 | 300mg/kg    | 4, 16 & 50      |
+| CARMINES                    |   120 |           2008 | 300mg/kg    | 4, 16, 50 & 178 |
+| INDIGOTINE (INDIGO CARMINE) |   132 |           2009 | 300mg/kg    | 4, 16 & 50      |
+| SUNSET YELLOW FCF           |   110 |           2008 | 300mg/kg    | 4, 16 & 50      |
+Food Category No. 09.1.2
+Fresh mollusks, crustaceans, and echinoderms
+| Additive                                 | INS          |   Year Adopted | Max Level   | Notes                            |
+|------------------------------------------|--------------|----------------|-------------|----------------------------------|
+| ASCORBIC ACID, L-                        | 300          |           2017 | GMP         | 390, XS312 & XS315               |
+| BRILLIANT BLUE FCF                       | 133          |           2017 | 500mg/kg    | 4, 16, XS292, XS312 & XS315      |
+| CALCIUM ASCORBATE                        | 302          |           2017 | GMP         | 390, XS312 & XS315               |
+| CARMINES                                 | 120          |           2017 | 500mg/kg    | 4, 16, 178, XS292, XS312 & XS315 |
+| CITRIC ACID                              | 330          |           2017 | GMP         | 390, XS312 & XS315               |
+| CITRIC AND FATTY ACID ESTERS OF GLYCEROL | 472c         |           2017 | GMP         | 390, XS312 & XS315               |
+| ERYTHORBIC ACID (ISOASCORBIC ACID)       | 315          |           2017 | GMP         | 390, XS312 & XS315               |
+| LECITHIN                                 | 322(i)       |           2017 | GMP         | 390, XS312 & XS315               |
+| NITROUS OXIDE                            | 942          |           2017 | GMP         | 390, XS312 & XS315               |
+| SODIUM ASCORBATE                         | 301          |           2017 | GMP         | 390, XS312 & XS315               |
+| SODIUM ERYTHORBATE (SODIUM ISOASCORBATE) | 316          |           2017 | GMP         | 390, XS312 & XS315               |
+| SULFITES                                 | 220-225, 539 |           2017 | 100mg/kg    | 44, 390, XS312 & XS315           |
+| SUNSET YELLOW FCF                        | 110          |           2017 | 300mg/kg    | 4, 16, XS292, XS312 & XS315      |
+Food Category No. 09.2
+Processed fish and fish products, including mollusks, crustaceans, and echinoderms
+| Additive             | INS   | Year Adopted   | Max Level   | Notes                                                                                           |
+|----------------------|-------|----------------|-------------|-------------------------------------------------------------------------------------------------|
+| ACESULFAME POTASSIUM | 950   | 2018           | 200mg/kg    | 144, 188, 478, XS36, XS92, XS95, XS165, XS166, XS167, XS189, XS190, XS191, XS222, XS236, XS244, |
+|                      |       |                |             | XS292, XS311,                                                                                   |
+|                      |       |                |             | XS312 & XS315                                                                                   |
+| ADVANTAME            | 969   | 2023           | 3mg/kg      | 144                                                                                             |

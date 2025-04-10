@@ -1,0 +1,188 @@
+Food Category No. 09.2.2
+Frozen battered fish, fish fillets, and fish products, including mollusks, crustaceans, and echinoderms
+| Additive                                                                       | INS                      |   Year Adopted | Max Level   | Notes          |
+|--------------------------------------------------------------------------------|--------------------------|----------------|-------------|----------------|
+| PONCEAU 4R (COCHINEAL RED A)                                                   | 124                      |           2017 | 500mg/kg    | 16, 95 & XS166 |
+| POTASSIUM ALGINATE                                                             | 402                      |           2017 | GMP         | 63             |
+| POTASSIUM CARBONATE                                                            | 501(i)                   |           2013 | GMP         | 41             |
+| POTASSIUM CHLORIDE                                                             | 508                      |           2017 | GMP         | 41 & XS166     |
+| POTASSIUM HYDROGEN CARBONATE                                                   | 501(ii)                  |           2013 | GMP         | 41             |
+| POWDERED CELLULOSE                                                             | 460(ii)                  |           2017 | GMP         | 16 & XS166     |
+| PROCESSED EUCHEUMA SEAWEED (PES)                                               | 407a                     |           2015 | GMP         | 177 & 332      |
+| PULLULAN                                                                       | 1204                     |           2017 | GMP         | 41 & XS166     |
+| RIBOFLAVINS                                                                    | 101(i),(ii), (iii), (iv) |           2024 | GMP         | 16 & XS166     |
+| SALTS OF MYRISTIC, PALMITIC AND STEARIC ACIDS WITH AMMONIA, CALCIUM, POTASSIUM | 470(i)                   |           2017 | GMP         | 16, 71 & XS166 |
+| SALTS OF OLEIC ACID WITH CALCIUM, POTASSIUM AND SODIUM                         | 470(ii)                  |           2017 | GMP         | 16 & XS166     |
+| SODIUM ACETATE                                                                 | 262(i)                   |           2017 | GMP         | 41 & XS166     |
+| SODIUM ALGINATE                                                                | 401                      |           2017 | GMP         | 210 & 332      |
+| SODIUM CARBONATE                                                               | 500(i)                   |           2013 | GMP         | 41             |
+| SODIUM CARBOXYMETHYL CELLULOSE (CELLULOSE GUM)                                 | 466                      |           2015 | GMP         | 177 & 332      |
+| SODIUM DL-MALATE                                                               | 350(ii)                  |           2017 | GMP         | 41 & XS166     |
+| SODIUM FUMARATES                                                               | 365                      |           2017 | GMP         | 41 & XS166     |
+| SODIUM HYDROGEN CARBONATE                                                      | 500(ii)                  |           2013 | GMP         | 41             |
+| SODIUM LACTATE                                                                 | 325                      |           2017 | GMP         | 41 & XS166     |
+| SODIUM SESQUICARBONATE                                                         | 500(iii)                 |           2013 | GMP         | 41             |
+| STARCH ACETATE                                                                 | 1420                     |           2014 | GMP         | 63             |
+| SUNSET YELLOW FCF                                                              | 110                      |           2017 | 300mg/kg    | 16 & XS166     |
+| TARA GUM                                                                       | 417                      |           2017 | GMP         | 73 & XS166     |
+| THIODIPROPIONATES                                                              | 388, 389                 |           2017 | 200mg/kg    | 15, 46 & XS166 |
+| TOCOPHEROLS                                                                    | 307a, b, c               |           2018 | 200mg/kg    | 15, XS166      |
+| TRAGACANTH GUM                                                                 | 413                      |           2017 | GMP         | 16 & XS166     |
+| XANTHAN GUM                                                                    | 415                      |           2014 | GMP         | 177            |
+Food Category No. 09.2.3
+Frozen minced and creamed fish products, including mollusks, crustaceans, and echinoderms
+| Additive                                 | INS   |   Year Adopted | Max Level   |   Notes |
+|------------------------------------------|-------|----------------|-------------|---------|
+| ACETIC ACID, GLACIAL                     | 260   |           2015 | GMP         |      16 |
+| ACETIC AND FATTY ACID ESTERS OF GLYCEROL | 472a  |           2014 | GMP         |      16 |
+Food Category No. 09.2.3
+Frozen minced and creamed fish products, including mollusks, crustaceans, and echinoderms
+| Additive                                          | INS         |   Year Adopted | Max Level   | Notes    |
+|---------------------------------------------------|-------------|----------------|-------------|----------|
+| ACETYLATED DISTARCH PHOSPHATE                     | 1414        |           2014 | GMP         | 16       |
+| AGAR                                              | 406         |           2014 | GMP         |          |
+| ALGINIC ACID                                      | 400         |           2015 | GMP         |          |
+| ASCORBIC ACID, L-                                 | 300         |           2015 | GMP         | 16       |
+| BRILLIANT BLUE FCF                                | 133         |           2005 | 500mg/kg    | 16       |
+| CALCIUM CARBONATE                                 | 170(i)      |           2013 | GMP         | 16       |
+| CALCIUM CHLORIDE                                  | 509         |           2015 | GMP         |          |
+| CALCIUM LACTATE                                   | 327         |           2015 | GMP         | 16       |
+| CARMINES                                          | 120         |           2005 | 500mg/kg    | 16 & 178 |
+| CAROB BEAN GUM                                    | 410         |           2014 | GMP         |          |
+| CARRAGEENAN                                       | 407         |           2014 | GMP         |          |
+| CHLOROPHYLLS AND CHLOROPHYLLINS, COPPER COMPLEXES | 141(i),(ii) |           2009 | 40mg/kg     | 95       |
+| CITRIC ACID                                       | 330         |           2015 | GMP         | 16       |
+| CITRIC AND FATTY ACID ESTERS OF GLYCEROL          | 472c        |           2014 | GMP         | 16       |
+| DEXTRINS, ROASTED STARCH                          | 1400        |           2014 | GMP         |          |
+| DISODIUM 5'-GUANYLATE                             | 627         |           2015 | GMP         | 311      |
+| DISODIUM 5'-INOSINATE                             | 631         |           2015 | GMP         | 311      |
+| DISODIUM 5'-RIBONUCLEOTIDES                       | 635         |           2015 | GMP         | 311      |
+| FUMARIC ACID                                      | 297         |           2013 | GMP         | 16       |
+| GELLAN GUM                                        | 418(i)      |           2014 | GMP         |          |
+| GLYCEROL                                          | 422         |           2015 | GMP         |          |
+| GRAPE SKIN EXTRACT                                | 163(ii)     |           2009 | GMP         | 16 & 95  |
+| GUAR GUM                                          | 412         |           2014 | GMP         |          |
+| GUM ARABIC (ACACIA GUM)                           | 414         |           2014 | GMP         | 16       |
+| HYDROXYPROPYL CELLULOSE                           | 463         |           2014 | GMP         | 16       |
+| HYDROXYPROPYL METHYL CELLULOSE                    | 464         |           2014 | GMP         | 16       |
+| HYDROXYPROPYL STARCH                              | 1440        |           2014 | GMP         | 16       |
+| KARAYA GUM                                        | 416         |           2014 | GMP         |          |
+| KONJAC FLOUR                                      | 425         |           2015 | GMP         |          |
+| LACTIC AND FATTY ACID ESTERS OF GLYCEROL          | 472b        |           2014 | GMP         | 16       |
+| LECITHIN                                          | 322(i)      |           2014 | GMP         | 16       |
+| MAGNESIUM CARBONATE                               | 504(i)      |           2013 | GMP         | 16       |
+| MAGNESIUM CHLORIDE                                | 511         |           2014 | GMP         | 16       |
+| MAGNESIUM HYDROXIDE                               | 528         |           2013 | GMP         | 16       |
+Food Category No. 09.2.3
+Frozen minced and creamed fish products, including mollusks, crustaceans, and echinoderms
+| Additive                                                                                  | INS                                                                                                                                 |   Year Adopted | Max Level   | Notes   |
+|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|---------|
+| MAGNESIUM HYDROXIDE CARBONATE                                                             | 504(ii)                                                                                                                             |           2013 | GMP         | 16      |
+| MALIC ACID, DL-                                                                           | 296                                                                                                                                 |           2013 | GMP         | 16      |
+| MANNITOL                                                                                  | 421                                                                                                                                 |           2014 | GMP         |         |
+| METHYL CELLULOSE                                                                          | 461                                                                                                                                 |           2014 | GMP         | 16      |
+| METHYL ETHYL CELLULOSE                                                                    | 465                                                                                                                                 |           2014 | GMP         | 16      |
+| MICROCRYSTALLINE CELLULOSE (CELLULOSE GEL)                                                | 460(i)                                                                                                                              |           2015 | GMP         |         |
+| MONO- AND DI-GLYCERIDES OF FATTY ACIDS                                                    | 471                                                                                                                                 |           2015 | GMP         |         |
+| MONOSODIUM L-GLUTAMATE                                                                    | 621                                                                                                                                 |           2015 | GMP         | 311     |
+| OXIDIZED STARCH                                                                           | 1404                                                                                                                                |           2014 | GMP         | 16      |
+| PECTINS                                                                                   | 440                                                                                                                                 |           2014 | GMP         |         |
+| PHOSPHATES                                                                                | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); |           2012 | 2200mg/kg   | 33      |
+| PONCEAU 4R (COCHINEAL RED A)                                                              | 124                                                                                                                                 |           2008 | 500mg/kg    | 16 & 95 |
+| POTASSIUM CARBONATE                                                                       | 501(i)                                                                                                                              |           2015 | GMP         |         |
+| POTASSIUM CHLORIDE                                                                        | 508                                                                                                                                 |           2015 | GMP         |         |
+| POWDERED CELLULOSE                                                                        | 460(ii)                                                                                                                             |           2014 | GMP         | 16      |
+| PROCESSED EUCHEUMA SEAWEED (PES)                                                          | 407a                                                                                                                                |           2014 | GMP         |         |
+| PULLULAN                                                                                  | 1204                                                                                                                                |           2015 | GMP         |         |
+| RIBOFLAVINS                                                                               | 101(i),(ii), (iii), (iv)                                                                                                            |           2024 | GMP         | 16      |
+| SALTS OF MYRISTIC, PALMITIC AND STEARIC ACIDS WITH AMMONIA, CALCIUM, POTASSIUM AND SODIUM | 470(i)                                                                                                                              |           2014 | GMP         | 16      |
+| SALTS OF OLEIC ACID WITH CALCIUM, POTASSIUM AND SODIUM                                    | 470(ii)                                                                                                                             |           2014 | GMP         | 16      |
+| SODIUM ACETATE                                                                            | 262(i)                                                                                                                              |           2015 | GMP         | 16      |
+| SODIUM ALGINATE                                                                           | 401                                                                                                                                 |           2014 | GMP         |         |
+| SODIUM CARBONATE                                                                          | 500(i)                                                                                                                              |           2015 | GMP         | 16      |
+| SODIUM CARBOXYMETHYL CELLULOSE (CELLULOSE GUM)                                            | 466                                                                                                                                 |           2014 | GMP         | 16      |
+| SODIUM DL-MALATE                                                                          | 350(ii)                                                                                                                             |           2015 | GMP         | 16      |
+| SODIUM FUMARATES                                                                          | 365                                                                                                                                 |           2013 | GMP         | 16      |
+| SODIUM LACTATE                                                                            | 325                                                                                                                                 |           2015 | GMP         | 16      |
+| SORBITOL                                                                                  | 420(i)                                                                                                                              |           2023 | GMP         | 16, 241 |
+| SORBITOL SYRUP                                                                            | 420(ii)                                                                                                                             |           2023 | GMP         | 16, 241 |
+| SUNSET YELLOW FCF                                                                         | 110                                                                                                                                 |           2008 | 300mg/kg    | 16 & 95 |
+Food Category No. 09.2.3
+Frozen minced and creamed fish products, including mollusks, crustaceans, and echinoderms
+| Additive       |   INS |   Year Adopted | Max Level   | Notes   |
+|----------------|-------|----------------|-------------|---------|
+| TARA GUM       |   417 |           2014 | GMP         |         |
+| TRAGACANTH GUM |   413 |           2014 | GMP         | 16      |
+| XANTHAN GUM    |   415 |           2014 | GMP         |         |
+Food Category No. 09.2.4
+Cooked and/or fried fish and fish products, including mollusks, crustaceans, and echinoderms
+| Additive                      | INS     |   Year Adopted | Max Level   | Notes                   |
+|-------------------------------|---------|----------------|-------------|-------------------------|
+| ACETIC ACID, GLACIAL          | 260     |           2015 | GMP         |                         |
+| ASCORBIC ACID, L-             | 300     |           2013 | GMP         |                         |
+| CALCIUM CARBONATE             | 170(i)  |           2013 | GMP         |                         |
+| CALCIUM LACTATE               | 327     |           2015 | GMP         |                         |
+| CITRIC ACID                   | 330     |           2015 | GMP         |                         |
+| DISODIUM 5'-GUANYLATE         | 627     |           2015 | GMP         | 312                     |
+| DISODIUM 5'-INOSINATE         | 631     |           2015 | GMP         | 312                     |
+| DISODIUM 5'-RIBONUCLEOTIDES   | 635     |           2015 | GMP         | 312                     |
+| FUMARIC ACID                  | 297     |           2013 | GMP         |                         |
+| MAGNESIUM CARBONATE           | 504(i)  |           2013 | GMP         |                         |
+| MAGNESIUM HYDROXIDE           | 528     |           2013 | GMP         |                         |
+| MAGNESIUM HYDROXIDE CARBONATE | 504(ii) |           2013 | GMP         |                         |
+| MALIC ACID, DL-               | 296     |           2013 | GMP         |                         |
+| MONOSODIUM L-GLUTAMATE        | 621     |           2015 | GMP         | 312                     |
+| POTASSIUM CARBONATE           | 501(i)  |           2015 | GMP         |                         |
+| SODIUM ACETATE                | 262(i)  |           2015 | GMP         |                         |
+| SODIUM CARBONATE              | 500(i)  |           2015 | GMP         |                         |
+| SODIUM DL-MALATE              | 350(ii) |           2015 | GMP         |                         |
+| SODIUM FUMARATES              | 365     |           2013 | GMP         |                         |
+| SODIUM LACTATE                | 325     |           2015 | GMP         |                         |
+| SORBITOL                      | 420(i)  |           2023 | GMP         | 144, 241, 322, 474, 479 |
+Food Category No.
+09.2.4.1 Cooked fish and fish products
+| Additive                                 | INS   |   Year Adopted | Max Level   |   Notes |
+|------------------------------------------|-------|----------------|-------------|---------|
+| ACETIC AND FATTY ACID ESTERS OF GLYCEROL | 472a  |           2015 | GMP         |     241 |
+| ACETYLATED DISTARCH PHOSPHATE            | 1414  |           2014 | GMP         |     241 |
+| AGAR                                     | 406   |           2015 | GMP         |     241 |
+| ALGINIC ACID                             | 400   |           2015 | GMP         |     325 |
+Food Category No.
+09.2.4.1
+Cooked fish and fish products
+| Additive                                          | INS         |   Year Adopted | Max Level   | Notes     |
+|---------------------------------------------------|-------------|----------------|-------------|-----------|
+| ALLURA RED AC                                     | 129         |           2009 | 300mg/kg    | 95        |
+| BRILLIANT BLUE FCF                                | 133         |           2009 | 100mg/kg    | 95        |
+| CALCIUM CHLORIDE                                  | 509         |           2015 | GMP         | 241       |
+| CARMINES                                          | 120         |           2005 | 500mg/kg    | 178       |
+| CAROB BEAN GUM                                    | 410         |           2014 | GMP         | 241       |
+| CARRAGEENAN                                       | 407         |           2015 | GMP         | 16 & 325  |
+| CHLOROPHYLLS AND CHLOROPHYLLINS, COPPER COMPLEXES | 141(i),(ii) |           2009 | 30mg/kg     | 62 & 95   |
+| CITRIC AND FATTY ACID ESTERS OF GLYCEROL          | 472c        |           2015 | GMP         | 241       |
+| DEXTRINS, ROASTED STARCH                          | 1400        |           2014 | GMP         | 241       |
+| ETHYLENE DIAMINE TETRA ACETATES                   | 385, 386    |           2005 | 50mg/kg     | 21        |
+| FAST GREEN FCF                                    | 143         |           1999 | 100mg/kg    |           |
+| GELLAN GUM                                        | 418(i)      |           2014 | GMP         | 241       |
+| GLYCEROL                                          | 422         |           2015 | GMP         | 241       |
+| GRAPE SKIN EXTRACT                                | 163(ii)     |           2009 | 500mg/kg    | 95        |
+| GUAR GUM                                          | 412         |           2015 | GMP         | 241       |
+| GUM ARABIC (ACACIA GUM)                           | 414         |           2015 | GMP         | 16 & 325  |
+| HYDROXYPROPYL CELLULOSE                           | 463         |           2015 | GMP         | 16 & 325  |
+| HYDROXYPROPYL METHYL CELLULOSE                    | 464         |           2015 | GMP         | 16 & 325  |
+| HYDROXYPROPYL STARCH                              | 1440        |           2014 | GMP         | 241       |
+| INDIGOTINE (INDIGO CARMINE)                       | 132         |           2009 | 300mg/kg    | 95        |
+| ISOMALT (HYDROGENATED ISOMALTULOSE)               | 953         |           2023 | GMP         | 322 & 478 |
+| KARAYA GUM                                        | 416         |           2014 | GMP         | 241       |
+| KONJAC FLOUR                                      | 425         |           2015 | GMP         | 16 & 325  |
+| LACTIC AND FATTY ACID ESTERS OF GLYCEROL          | 472b        |           2015 | GMP         | 241       |
+| LAURIC ARGINATE ETHYL ESTER                       | 243         |           2018 | 200mg/kg    |           |
+| LECITHIN                                          | 322(i)      |           2015 | GMP         | 241       |
+| MAGNESIUM CHLORIDE                                | 511         |           2015 | GMP         | 241       |
+| MANNITOL                                          | 421         |           2015 | GMP         | 241       |
+| METHYL CELLULOSE                                  | 461         |           2015 | GMP         | 16 & 325  |
+| METHYL ETHYL CELLULOSE                            | 465         |           2015 | GMP         | 241       |
+| MICROCRYSTALLINE CELLULOSE (CELLULOSE GEL)        | 460(i)      |           2015 | GMP         | 16 & 325  |
+| MONO- AND DI-GLYCERIDES OF FATTY ACIDS            | 471         |           2015 | GMP         | 241       |
+| OXIDIZED STARCH                                   | 1404        |           2014 | GMP         | 241       |
+| PECTINS                                           | 440         |           2015 | GMP         | 241       |

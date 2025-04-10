@@ -1,0 +1,201 @@
+ANNEX C
+CROSS-REFERENCE OF CODEX STANDARDISED FOODS WITH THE FOOD CATEGORY SYSTEM USED FOR THE ELABORATION OF THE GSFA
+Annex C sorted by Codex Standard Number
+| Standard No   | Codex Standard Title                                                                                                                     | Food Cat. No.   |
+|---------------|------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| 3-1981        | Canned Salmon                                                                                                                            | 09.4            |
+| 12-1981       | Honey                                                                                                                                    | 11.5            |
+| 13-1981       | Preserved Tomatoes                                                                                                                       | 04.2.2.4        |
+| 17-1981       | Canned Applesauce                                                                                                                        | 04.1.2.4        |
+| 19-1981       | Edible Fats and Oils Not Covered by Individual Standards (General Standard)                                                              | 02.1            |
+| 33-1981       | Olive Oil, Virgin and Refined, and Refined Olive Pomace Oil, Olive Oils and Olive Pomace Oils                                            | 02.1.2          |
+| 36-1981       | Quick-Frozen Finfish, Uneviscerated and Eviscerated                                                                                      | 09.2.1          |
+| 37-1981       | Canned Shrimps or Prawns                                                                                                                 | 09.4            |
+| 38-1981       | Edible Fungi and Fungi Products (concentrate, dried concentrate or extract)                                                              | 04.2.2.6        |
+| 38-1981       | Edible Fungi and Fungi Products (edible fungi)                                                                                           | 04.2.1.1        |
+| 38-1981       | Edible Fungi and Fungi Products (fermented)                                                                                              | 04.2.2.7        |
+| 38-1981       | Edible Fungi and Fungi Products (fungus products)                                                                                        | 04.2.2          |
+| 38-1981       | Edible Fungi and Fungi Products (incl. freeze dried, fungus grits and fungus powder)                                                     | 04.2.2.2        |
+| 38-1981       | Edible Fungi and Fungi Products (quick frozen)                                                                                           | 04.2.2.1        |
+| 38-1981       | Edible Fungi and Fungi Products (salted, pickled or in vegetable oil)                                                                    | 04.2.2.3        |
+| 38-1981       | Edible Fungi and Fungi Products (sterilized)                                                                                             | 04.2.2.4        |
+| 39-1981       | Dried Edible Fungi                                                                                                                       | 04.2.2.2        |
+| 40R-1981      | Fresh Fungus 'Chanterelle' (Regional Standard)                                                                                           | 04.2.1.1        |
+| 52-1981       | Quick Frozen Strawberries                                                                                                                | 04.1.2.1        |
+| 53-1981       | Special Dietary Foods with Low-Sodium Content, including salt substitutes (salt substitutes)                                             | 12.1.2          |
+| 53-1981       | Special Dietary Foods with Low-Sodium Content, including salt substitutes (special dietary foods with low sodium content)                | 13.0            |
+| 57-1981       | Processed Tomato Concentrates (canned tomato paste)                                                                                      | 04.2.2.4        |
+| 57-1981       | Processed Tomato Concentrates (tomato puree)                                                                                             | 04.2.2.5        |
+| 57-1981       | Processed Tomato Concentrates (tomato paste)                                                                                             | 04.2.2.6        |
+| 60-1981       | Canned Raspberries                                                                                                                       | 04.1.2.4        |
+| 62-1987       | Canned Strawberries                                                                                                                      | 04.1.2.4        |
+| 66-1981       | Table Olives                                                                                                                             | 04.2.2.3        |
+| 69-1981       | Quick Frozen Raspberries                                                                                                                 | 04.1.2.1        |
+| 70-1981       | Canned Tuna and Bonito                                                                                                                   | 09.4            |
+| 72-1981       | Infant Formula and Formula for Special Dietary Purposes Intended for Infants (infant formula)                                            | 13.1.1          |
+| 72-1981       | Infant formula and Formula for Special Dietary Purposes Intended for Infants (formula for special dietary purposes intended for infants) | 13.1.3          |
+| 73-1981       | Canned Baby Foods                                                                                                                        | 13.2            |
+| Standard No       | Codex Standard Title                                                                                 | Food Cat. No.   |
+|-------------------|------------------------------------------------------------------------------------------------------|-----------------|
+| 74-1981           | Processed Cereal-Based Foods for Infants and Children                                                | 13.2            |
+| 75-1981           | Quick Frozen Peaches                                                                                 | 04.1.2.1        |
+| 76-1981           | Quick Frozen Bilberries                                                                              | 04.1.2.1        |
+| 86-1981           | Cocoa Butters                                                                                        | 05.1.3          |
+| 87-1981           | Chocolate and Chocolate Products                                                                     | 05.1.4          |
+| 88-1981           | Canned Corned Beef                                                                                   | 08.3.2          |
+| 89-1981           | Luncheon Meat                                                                                        | 08.3.2          |
+| 90-1981           | Canned Crab Meat                                                                                     | 09.4            |
+| 92-1981           | Quick Frozen Shrimps or Prawns                                                                       | 09.2.1          |
+| 94-1981           | Canned Sardines and Sardine-Type Products                                                            | 09.4            |
+| 95-1981           | Quick Frozen Lobsters                                                                                | 09.2.1          |
+| 96-1981           | Cooked Cured Ham                                                                                     | 08.2.2          |
+| 97-1981           | Cooked Cured Pork Shoulder                                                                           | 08.2.2          |
+| 98-1981           | Cooked Cured Chopped Meat                                                                            | 08.3.2          |
+| 103-1981          | Quick Frozen Blueberries                                                                             | 04.1.2.1        |
+| 105-1981          | Cocoa Powders (Cocoa) and Dry Mixtures of Cocoa and Sugar                                            | 05.1.1          |
+| 108-1981          | Natural Mineral Waters                                                                               | 14.1.1.1        |
+| 115-1981          | Pickled Cucumbers (Cucumber Pickles)                                                                 | 04.2.2.3        |
+| 117-1981          | Bouillon and Consommés                                                                               | 12.5            |
+| 118-1981          | Foods for Special Dietary Use for Persons Intolerant to Gluten                                       | 13.3            |
+| 119-1981          | Canned Finfish                                                                                       | 09.4            |
+| 131-1981          | Unshelled Pistachio Nuts                                                                             | 04.2.1.1        |
+| 141-1983          | Cocoa (Cacao) Mass (Cocoa/Chocolate Liquor) and Cocoa Cake                                           | 05.1.1          |
+| 145-1985          | Canned Chestnuts and Canned Chestnut Puree                                                           | 04.2.2.4        |
+| 150-1985          | Food Grade Salt                                                                                      | 12.1.1          |
+| 151-1985          | Gari                                                                                                 | 04.2.2.7        |
+| 152-1985          | Wheat Flour                                                                                          | 06.2.1          |
+| 153-1985          | Maize (Corn)                                                                                         | 06.1            |
+| 154-1985          | Whole Maize (Corn) Meal                                                                              | 06.2.1          |
+| 155-1985          | Degermed Maize (Corn) Meal and Maize (Corn) Grits                                                    | 06.2.1          |
+| 156-1987          | Follow-up Formula for Older Infants                                                                  | 13.1.2          |
+| 156-1987          | Product for Young Children                                                                           | 13.1.2          |
+| 160-1987          | Mango Chutney                                                                                        | 04.1.2.6        |
+| 163-1987          | Wheat Protein Products, Including Wheat Gluten                                                       | 12.10           |
+| 165-1989          | Quick Frozen Blocks of Fish Fillets, Minced Fish Flesh and Mixtures of Fillets and Minced Fish Flesh | 09.2.1          |
+| 166-1989          | Quick Frozen Fish Sticks (Fish Fingers), Fish Portions and Fish Fillets - Breaded and in Batter      | 09.2.2          |
+| 167-1989          | Salted Fish and Dried Salted Fish of the Gadidae Family of Fishes                                    | 09.2.5          |
+| 169-1989          | Whole and Decorticated Pearl Millet Grains                                                           | 06.1            |
+| 170-1989 171-1989 | Pearl Millet Flour Certain Pulses                                                                    | 06.2.1 04.2.1.1 |
+| Standard No   | Codex Standard Title                                                                 | Food Cat. No.   |
+|---------------|--------------------------------------------------------------------------------------|-----------------|
+| 172-1989      | Sorghum Grains                                                                       | 06.1            |
+| 173-1989      | Sorghum Flour                                                                        | 06.2.1          |
+| 174-1989      | Vegetable Protein Products                                                           | 12.10           |
+| 175-1989      | Soy Protein Products                                                                 | 06.8.8          |
+| 176-1989      | Edible Cassava Flour                                                                 | 06.2.1          |
+| 177-1991      | Grated Desiccated Coconut                                                            | 04.1.2.2        |
+| 178-1991      | Durum Wheat Semolina and Durum Wheat Flour                                           | 06.2.1          |
+| 181-1991      | Formula Foods for Use in Weight Control Diets                                        | 13.4            |
+| 182-1993      | Pineapple                                                                            | 04.1.1.1        |
+| 183-1993      | Papaya                                                                               | 04.1.1.1        |
+| 184-1993      | Mango                                                                                | 04.1.1.1        |
+| 185-1993      | Nopal                                                                                | 04.2.1.1        |
+| 186-1993      | Prickly pear                                                                         | 04.2.1.1        |
+| 187-1993      | Carambola                                                                            | 04.1.1.1        |
+| 188-1993      | Baby Corn                                                                            | 04.2.1.1        |
+| 189-1993      | Dried Shark Fins                                                                     | 09.2.5          |
+| 190-1995      | Quick Frozen Fish Fillets                                                            | 09.2.1          |
+| 191-1995      | Quick Frozen Raw Squid                                                               | 09.2.1          |
+| 196-1995      | Litchi                                                                               | 04.1.1.1        |
+| 197-1995      | Avocado                                                                              | 04.2.1.1        |
+| 198-1995      | Rice                                                                                 | 06.1            |
+| 199-1995      | Wheat and Durum Wheat                                                                | 06.1            |
+| 200-1995      | Peanuts                                                                              | 04.2.1.1        |
+| 201-1995      | Oats                                                                                 | 06.1            |
+| 202-1995      | Couscous                                                                             | 06.1            |
+| 203-1995      | Formula Foods for Use in Very Low Energy Diets for Weight Reduction                  | 13.4            |
+| 204-1997      | Mangosteens                                                                          | 04.1.1.1        |
+| 205-1997      | Bananas                                                                              | 04.1.1.1        |
+| 207-1999      | Milk Powders and Cream Powders                                                       | 01.5.1          |
+| 208-1999      | Cheeses in Brine                                                                     | 01.6.2.1        |
+| 210-1999      | Named Vegetable Oils                                                                 | 02.1.2          |
+| 211-1999      | Named Animal Fats                                                                    | 02.1.3          |
+| 212-1999      | Sugars (glucose syrup, dried glucose, soft white sugar, brown sugar, raw cane sugar) | 11.1.3          |
+| 212-1999      | Sugars (lactose)                                                                     | 11.1.4          |
+| 212-1999      | Sugars (plantation or white mill sugar)                                              | 11.1.5          |
+| 212-1999      | Sugars (powdered sugar and powdered dextrose)                                        | 11.1.2          |
+| 212-1999      | Sugars (white sugar, dextrose anhydrous, dextrose monohydrate, fructose)             | 11.1.1          |
+| 213-1999      | Limes                                                                                | 04.1.1.1        |
+| 214-1999      | Pumelos ( Citrus grand i)                                                            | 04.1.1.1        |
+| 215-1999      | Guavas                                                                               | 04.1.1.1        |
+| Standard No   | Codex Standard Title                                                                          | Food Cat. No.   |
+|---------------|-----------------------------------------------------------------------------------------------|-----------------|
+| 216-1999      | Chayotes                                                                                      | 04.1.1.1        |
+| 217-1999      | Mexican Limes                                                                                 | 04.1.1.1        |
+| 218-1999      | Ginger                                                                                        | 04.2.1.1        |
+| 219-1999      | Grapefruits ( Citrus paradisi )                                                               | 04.1.1.1        |
+| 220-1999      | Longans                                                                                       | 04.1.1.1        |
+| 221-2001      | Unripened Cheese, including Fresh Cheese                                                      | 01.6.1          |
+| 222-2001      | Crackers from Marine and Freshwater Fish, Crustaceans and Molluscan Shellfish                 | 09.2.5          |
+| 223-2001      | Kimchi                                                                                        | 04.2.2.7        |
+| 224-2001      | Tannia                                                                                        | 04.2.1.1        |
+| 225-2001      | Asparagus                                                                                     | 04.2.1.1        |
+| 226-2001      | Cape Gooseberry                                                                               | 04.1.1.1        |
+| 227-2001      | Bottled/Packaged Drinking Waters (other than natural mineral water)                           | 14.1.1.2        |
+| 236-2003      | Boiled Dried Salted Anchovies                                                                 | 09.2.5          |
+| 237-2003      | Pitahayas                                                                                     | 04.1.1.1        |
+| 238-2003      | Sweet Cassava                                                                                 | 04.2.1.1        |
+| 240-2003      | Aqueous Coconut Products (coconut milk and coconut cream)                                     | 04.1.2.8        |
+| 241-2003      | Canned Bamboo Shoots                                                                          | 04.2.2.4        |
+| 242-2003      | Canned Stone Fruits                                                                           | 04.1.2.4        |
+| 243-2003      | Fermented Milks (flavoured, heat treated and non-heat treated)                                | 01.7            |
+| 243-2003      | Fermented Milks (drinks based on fermented milk, flavoured, heat treated or not heat treated) | 01.1.4          |
+| 243-2003      | Fermented Milks (drinks based on fermented milk, (plain))                                     | 01.2.1          |
+| 243-2003      | Fermented Milks (drinks based on fermented milk (plain, not heat treated))                    | 01.2.1.1        |
+| 243-2003      | Fermented Milks (drinks based on fermented milk (plain, heat treated))                        | 01.2.1.2        |
+| 244-2004      | Salted Atlantic Herring and Salted Sprat                                                      | 09.2.5          |
+| 245-2004      | Oranges                                                                                       | 04.1.1.1        |
+| 246-2005      | Rambutan                                                                                      | 04.1.1.1        |
+| 247-2005      | Fruit Juices and Nectars (fruit juices)                                                       | 14.1.2.1        |
+| 247-2005      | Fruit Juices and Nectars (concentrates for fruit juice)                                       | 14.1.2.3        |
+| 247-2005      | Fruit Juices and Nectars (fruit nectars)                                                      | 14.1.3.1        |
+| 247-2005      | Fruit Juices and Nectars (concentrates for fruit nectars)                                     | 14.1.3.3        |
+| 249-2006      | Instant Noodles                                                                               | 06.4.3          |
+| 250-2006      | Blend of Evaporated Skimmed Milk and Vegetable Fat                                            | 01.3.2          |
+| 251-2006      | Blend of Skimmed Milk and Vegetable Fat in Powdered Form                                      | 01.5.2          |
+| 252-2006      | Blend of Sweetened Condensed Milk and Vegetable Fat                                           | 01.3.2          |
+| 253-2006      | Dairy Fat Spreads                                                                             | 02.2.2          |
+| 254-2007      | Certain Canned Citrus Fruits                                                                  | 04.1.2.4        |
+| 255-2007      | Table Grapes                                                                                  | 04.1.1.1        |
+| 256-2007      | Fat Spreads and Blended Spreads                                                               | 02.2.2          |
+| Standard No   | Codex Standard Title                                                                                                                                                                        | Food Cat. No.   |
+|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| 258R-2007     | Canned Foul Medames (Regional Standard)                                                                                                                                                     | 04.2.2.4        |
+| 259R-2007     | Tehena (Regional Standard)                                                                                                                                                                  | 04.2.2.6        |
+| 260-2007      | Pickled Fruits and Vegetables (pickled fruits)                                                                                                                                              | 04.1.2.3        |
+| 260-2007      | Pickled Fruits and Vegetables (fermented fruits)                                                                                                                                            | 04.1.2.10       |
+| 260-2007      | Pickled Fruits and Vegetables (pickled vegetables)                                                                                                                                          | 04.2.2.3        |
+| 260-2007      | Pickled Fruits and Vegetables (fermented vegetables)                                                                                                                                        | 04.2.2.7        |
+| 262-2006      | Mozzarella                                                                                                                                                                                  | 01.6.1          |
+| 263-1966      | Cheddar                                                                                                                                                                                     | 01.6.2.1        |
+| 264-1966      | Danbo                                                                                                                                                                                       | 01.6.2.1        |
+| 265-1966      | Edam                                                                                                                                                                                        | 01.6.2.1        |
+| 266-1966      | Gouda                                                                                                                                                                                       | 01.6.2.1        |
+| 267-1966      | Havarti                                                                                                                                                                                     | 01.6.2.1        |
+| 268-1966      | Samsoe                                                                                                                                                                                      | 01.6.2.1        |
+| 269-1967      | Emmental                                                                                                                                                                                    | 01.6.2.1        |
+| 270-1968      | Tilsiter                                                                                                                                                                                    | 01.6.2.1        |
+| 271-1968      | Saint Paulin                                                                                                                                                                                | 01.6.2.1        |
+| 272-1968      | Provolone                                                                                                                                                                                   | 01.6.2.1        |
+| 273-1968      | Cottage Cheese                                                                                                                                                                              | 01.6.1          |
+| 274-1969      | Coulommiers                                                                                                                                                                                 | 01.6.2.1        |
+| 275-1973      | Cream Cheese (Rahmfrischkäse)                                                                                                                                                               | 01.6.1          |
+| 276-1973      | Camembert                                                                                                                                                                                   | 01.6.2.1        |
+| 277-1973      | Brie                                                                                                                                                                                        | 01.6.2.1        |
+| 278-1978      | Extra Hard Grating Cheese                                                                                                                                                                   | 01.6.2.1        |
+| 279-1971      | Butter                                                                                                                                                                                      | 02.2.1          |
+| 280-1973      | Milkfat Products                                                                                                                                                                            | 02.1.1          |
+| 281-1971      | Evaporated milks                                                                                                                                                                            | 01.3.1          |
+| 282-1971      | Sweetened Condensed Milks                                                                                                                                                                   | 01.3.1          |
+| 283-1978      | Cheese (ripened, including mould ripened)                                                                                                                                                   | 01.6.2.1        |
+| 284-1971      | Whey Cheeses (whey cheese)                                                                                                                                                                  | 01.6.3          |
+| 284-1971      | Whey Cheeses (whey protein cheese)                                                                                                                                                          | 01.6.6          |
+| 288-1976      | Cream and Prepared Creams (fermented cream, acidified cream, including those made from reconstituted or recombined cream)                                                                   | 01.4.3          |
+| 288-1976      | Cream and Prepared Creams (prepackaged pasteurized liquid cream, including those made from reconstituted or recombined cream)                                                               | 01.4.1          |
+| 288-1976      | Cream and Prepared Creams (prepackaged sterilized and UHT cream, whipping cream, cream packaged under pressure, whipped cream, including those made from reconstituted or recombined cream) | 01.4.2          |
+| 289-1995      | Whey Powders                                                                                                                                                                                | 01.8.2          |
+| 290-1995      | Edible Casein Products                                                                                                                                                                      | 01.5.1          |
+| 291-2010      | Sturgeon Caviar                                                                                                                                                                             | 09.3.3          |
+| 292-2008      | Raw and Live Bivalve Molluscs (live)                                                                                                                                                        | 09.1.2          |
+| 292-2008      | Raw and Live Bivalve Molluscs (raw, chilled shucked)                                                                                                                                        | 09.1.2          |
+| 292-2008      | Raw and Live Bivalve Molluscs (raw, frozen)                                                                                                                                                 | 09.2.1          |

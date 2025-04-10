@@ -1,0 +1,186 @@
+Food Category No.
+01.1.2 Other fluid milk (plain)
+| Additive                                       | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes        |
+|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|--------------|
+| MONO- AND DI-GLYCERIDES OF FATTY ACIDS         | 471                                                                                                                                     |           2018 | GMP         | 410          |
+| NITROGEN                                       | 941                                                                                                                                     |           2018 | GMP         | 59           |
+| PECTINS                                        | 440                                                                                                                                     |           2019 | GMP         | 407 & 438    |
+| PHOSPHATES                                     | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2018 | 2200mg/kg   | 33, 364, 411 |
+| POLYDEXTROSES                                  | 1200                                                                                                                                    |           2019 | GMP         | 407 & 438    |
+| POLYGLYCEROL ESTERS OF FATTY ACIDS             | 475                                                                                                                                     |           2018 | 1000mg/kg   | 410          |
+| POTASSIUM CARBONATE                            | 501(i)                                                                                                                                  |           2019 | GMP         | 407          |
+| POTASSIUM HYDROXIDE                            | 525                                                                                                                                     |           2018 | GMP         | 410          |
+| PROPYLENE GLYCOL ALGINATE                      | 405                                                                                                                                     |           2023 | 1300mg/kg   | 407 & 438    |
+| SODIUM ASCORBATE                               | 301                                                                                                                                     |           2018 | GMP         | 410          |
+| SODIUM CARBOXYMETHYL CELLULOSE (CELLULOSE GUM) | 466                                                                                                                                     |           2019 | GMP         | 407 & 438    |
+| SODIUM HYDROXIDE                               | 524                                                                                                                                     |           2019 | GMP         | 410          |
+| SUCROSE ESTERS                                 | 473, 473a, 474                                                                                                                          |           2021 | 1000mg/kg   | 410          |
+| TOCOPHEROLS                                    | 307a, b, c                                                                                                                              |           2018 | 200mg/kg    | 410          |
+| TRISODIUM CITRATE                              | 331(iii)                                                                                                                                |           2018 | GMP         | 410          |
+| XANTHAN GUM                                    | 415                                                                                                                                     |           2019 | GMP         | 407 & 438    |
+Food Category No. 01.1.3 Fluid buttermilk (plain)
+| Additive                      | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes         |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|---------------|
+| MAGNESIUM CARBONATE           | 504(i)                                                                                                                                  |           2013 | GMP         | 261           |
+| MAGNESIUM HYDROXIDE           | 528                                                                                                                                     |           2013 | GMP         | 261           |
+| MAGNESIUM HYDROXIDE CARBONATE | 504(ii)                                                                                                                                 |           2013 | GMP         | 261           |
+| PHOSPHATES                    | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2017 | 1500mg/kg   | 33, 227 & 397 |
+| POTASSIUM DIHYDROGEN CITRATE  | 332(i)                                                                                                                                  |           2013 | GMP         | 261           |
+| POTASSIUM LACTATE             | 326                                                                                                                                     |           2013 | GMP         | 261           |
+| SODIUM DIHYDROGEN CITRATE     | 331(i)                                                                                                                                  |           2013 | GMP         | 261           |
+| SODIUM LACTATE                | 325                                                                                                                                     |           2013 | GMP         | 261           |
+| TRIPOTASSIUM CITRATE          | 332(ii)                                                                                                                                 |           2013 | GMP         | 261           |
+| TRISODIUM CITRATE             | 331(iii)                                                                                                                                |           2013 | GMP         | 261           |
+Food Category No. 01.1.4
+Flavoured fluid milk drinks
+Food Category No.
+01.1.4 Flavoured fluid milk drinks
+| Additive                                           | INS                  |   Year Adopted | Max Level   | Notes               |
+|----------------------------------------------------|----------------------|----------------|-------------|---------------------|
+| ACESULFAME POTASSIUM                               | 950                  |           2024 | 350mg/kg    | 188, 478 & 639      |
+| ADIPATES                                           | 355                  |           2024 | 1500mg/kg   | 1, 634              |
+| ADVANTAME                                          | 969                  |           2024 | 6mg/kg      | 381, 478 & XS243    |
+| ALLURA RED AC                                      | 129                  |           2023 | 100mg/kg    | 52 & 540            |
+| AMARANTH                                           | 123                  |           2024 | 50mg/kg     | 52 & XS243          |
+| ANNATTO EXTRACTS, BIXIN-BASED                      | 160b(i)              |           2017 | 20mg/kg     | 8 & 52              |
+| ANNATTO EXTRACTS, NORBIXIN- BASED                  | 160b(ii)             |           2024 | 10mg/kg     | 52, 185 & 84        |
+| ASPARTAME                                          | 951                  |           2024 | 600mg/kg    | 191, 478, 620 & 639 |
+| ASPARTAME-ACESULFAME SALT                          | 962                  |           2024 | 350mg/kg    | 113, 477 & 639      |
+| AZORUBINE (CARMOISINE)                             | 122                  |           2017 | 150mg/kg    | 52                  |
+| BENZOATES                                          | 210-213              |           2024 | 300mg/kg    | 13, 457             |
+| BRILLIANT BLACK (BLACK PN)                         | 151                  |           2017 | 150mg/kg    | 52                  |
+| BRILLIANT BLUE FCF                                 | 133                  |           2008 | 150mg/kg    | 52                  |
+| BROWN HT                                           | 155                  |           2017 | 150mg/kg    | 52                  |
+| CANTHAXANTHIN                                      | 161g                 |           2024 | 15mg/kg     | 52 & XS243          |
+| CARAMEL II - SULFITE CARAMEL                       | 150b                 |           2017 | 2000mg/kg   | 52 & 400            |
+| CARAMEL III - AMMONIA CARAMEL                      | 150c                 |           2009 | 2000mg/kg   | 52                  |
+| CARAMEL IV - SULFITE AMMONIA CARAMEL               | 150d                 |           2011 | 2000mg/kg   | 52                  |
+| CARMINES                                           | 120                  |           2008 | 150mg/kg    | 52 & 178            |
+| CAROTENAL, BETA-APO-8'- (160e)                     | 160e                 |           2024 | 10mg/kg     | 52 & XS243          |
+| CAROTENES, BETA-                                   | 160a(i),a(iii),a(iv) |           2024 | 20mg/kg     | 52, 341, 344 & 402  |
+| CAROTENES, BETA-, VEGETABLE                        | 160a(ii)             |           2024 | 20mg/kg     | 52, 341, 344 & 402  |
+| CHLOROPHYLLS AND CHLOROPHYLLINS, COPPER COMPLEXES  | 141(i),(ii)          |           2009 | 50mg/kg     | 52 & 190            |
+| CURCUMIN                                           | 100(i)               |           2017 | 150mg/kg    | 52 & 402            |
+| CYCLAMATES                                         | 952(i), (ii), (iv)   |           2024 | 250mg/kg    | 17, 477 & 639       |
+| CYCLODEXTRIN, BETA-                                | 459                  |           2024 | 5mg/kg      | 622                 |
+| DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL | 472e                 |           2024 | 5000mg/kg   | 399 & 629           |
+| ETHYL MALTOL                                       | 637                  |           2024 | GMP         | 634                 |
+| FAST GREEN FCF                                     | 143                  |           2008 | 100mg/kg    | 52                  |
+| GRAPE SKIN EXTRACT                                 | 163(ii)              |           2024 | 100mg/kg    | 52, 181             |
+| INDIGOTINE (INDIGO CARMINE)                        | 132                  |           2017 | 300mg/kg    | 52 & 402            |
+| IRON OXIDES                                        | 172(i)-(iii)         |           2017 | 20mg/kg     | 52 & 402            |
+| JAGUA (GENIPIN-GLYCINE) BLUE                       | 183                  |           2024 | 160mg/kg    | 52 & 601            |
+| LUTEIN FROM TAGETES ERECTA                         | 161b(i)              |           2017 | 100mg/kg    | 52 & 400            |
+| MALTOL                                             | 636                  |           2024 | GMP         | 634                 |
+| NEOTAME                                            | 961                  |           2024 | 20mg/kg     | 478 & 406           |
+Food Category No.
+01.1.4 Flavoured fluid milk drinks
+| Additive                               | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes           |
+|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|-----------------|
+| NISIN                                  | 234                                                                                                                                     |           2024 | 12.5 mg/kg  | 220 & 233       |
+| PAPRIKA EXTRACT                        | 160c(ii)                                                                                                                                |           2024 | 30mg/kg     | 39, 528 & XS243 |
+| PHOSPHATES                             | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2024 | 1500mg/kg   | 33, 364 & 610   |
+| POLYDIMETHYLSILOXANE                   | 900a                                                                                                                                    |           2024 | 50mg/kg     | 618             |
+| POLYGLYCEROL ESTERS OF FATTY ACIDS     | 475                                                                                                                                     |           2024 | 2000mg/kg   | 629             |
+| POLYSORBATES                           | 432-436                                                                                                                                 |           2024 | 3000mg/kg   | 629             |
+| PONCEAU 4R (COCHINEAL RED A)           | 124                                                                                                                                     |           2023 | 150mg/kg    | 52              |
+| PROPYLENE GLYCOL ALGINATE              | 405                                                                                                                                     |           2024 | 1300mg/kg   | 616 & 623       |
+| PROPYLENE GLYCOL ESTERS OF FATTY ACIDS | 477                                                                                                                                     |           2001 | 5000mg/kg   |                 |
+| QUINOLINE YELLOW                       | 104                                                                                                                                     |           2024 | 10mg/kg     | 52 & 400        |
+| SACCHARINS                             | 954(i)-(iv)                                                                                                                             |           2024 | 80mg/kg     | 500, 477 & 406  |
+| SORBATES                               | 200, 202, 203                                                                                                                           |           2012 | 1000mg/kg   | 42 & 220        |
+| SORBITAN ESTERS OF FATTY ACIDS         | 491-495                                                                                                                                 |           2024 | 5000mg/kg   | 629             |
+| STEAROYL LACTYLATES                    | 481(i), 482(i)                                                                                                                          |           2024 | 1000mg/kg   | 355 & 629       |
+| STEVIOL GLYCOSIDES                     | 960a, 960b, 960c, 960d                                                                                                                  |           2017 | 200mg/kg    | 26, 477 & XS243 |
+| SUCRALOSE (TRICHLOROGALACTOSUCROSE)    | 955                                                                                                                                     |           2024 | 300mg/kg    | 404, 478 & 639  |
+| SUCROSE ESTERS                         | 473, 473a, 474                                                                                                                          |           2024 | 5000mg/kg   | 629             |
+| SUNSET YELLOW FCF                      | 110                                                                                                                                     |           2008 | 300mg/kg    | 52              |
+| TARTRATES                              | 334, 335(ii), 337                                                                                                                       |           2024 | 2000mg/kg   | 45 & 630        |
+| TARTRAZINE                             | 102                                                                                                                                     |           2017 | 300mg/kg    | 52              |
+| TOCOPHEROLS                            | 307a, b, c                                                                                                                              |           2024 | 200mg/kg    | 15 & XS243      |
+| ZEAXANTHIN, SYNTHETIC                  | 161h(i)                                                                                                                                 |           2017 | 100mg/kg    | 52 & 400        |
+Food Category No. 01.2
+Fermented and renneted milk products (plain)
+| Additive   | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes         |
+|------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|---------------|
+| PHOSPHATES | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2024 | 1000mg/kg   | 33, 610 & 635 |
+Food Category No.
+01.2.1
+Fermented milks (plain)
+| Additive                      | INS     |   Year Adopted | Max Level   | Notes              |
+|-------------------------------|---------|----------------|-------------|--------------------|
+| ANNATTO EXTRACTS, BIXIN-BASED | 160b(i) |           2021 | 10mg/kg     | 8, 508, 509, XS33, |
+XS210
+Food Category No. 01.2.1.1
+Fermented milks (plain), not heat-treated after fermentation
+| Additive                                                          | INS    |   Year Adopted | Max Level   | Notes          |
+|-------------------------------------------------------------------|--------|----------------|-------------|----------------|
+| ACETIC AND FATTY ACID ESTERS OF GLYCEROL                          | 472a   |           2024 | GMP         | 234, 235 & 634 |
+| ACETYLATED DISTARCH ADIPATE                                       | 1422   |           2013 | GMP         | 234 & 235      |
+| ACETYLATED DISTARCH PHOSPHATE                                     | 1414   |           2013 | GMP         | 234 & 235      |
+| ACETYLATED OXIDIZED STARCH                                        | 1451   |           2024 | GMP         | 234, 235 & 634 |
+| ACID-TREATED STARCH                                               | 1401   |           2013 | GMP         | 234 & 235      |
+| AGAR                                                              | 406    |           2015 | GMP         | 234 & 235      |
+| ALGINIC ACID                                                      | 400    |           2024 | GMP         | 234, 235 & 634 |
+| ALKALINE TREATED STARCH                                           | 1402   |           2013 | GMP         | 234 & 235      |
+| AMMONIUM ALGINATE                                                 | 403    |           2024 | GMP         | 234, 235 & 634 |
+| BLEACHED STARCH                                                   | 1403   |           2013 | GMP         | 234 & 235      |
+| CALCIUM ALGINATE                                                  | 404    |           2024 | GMP         | 234, 235 & 634 |
+| CALCIUM CARBONATE                                                 | 170(i) |           2024 | GMP         | 234, 235 & 634 |
+| CALCIUM CHLORIDE                                                  | 509    |           2024 | GMP         | 234, 235 & 634 |
+| CARBON DIOXIDE                                                    | 290    |           2024 | GMP         | 628            |
+| CAROB BEAN GUM                                                    | 410    |           2013 | GMP         | 234 & 235      |
+| CARRAGEENAN                                                       | 407    |           2015 | GMP         | 234 & 235      |
+| CITRIC AND FATTY ACID ESTERS OF GLYCEROL                          | 472c   |           2024 | GMP         | 234, 235 & 634 |
+| CROSS-LINKED CARBOXYMETHYL CELLULOSE (CROSS-LINKED CELLULOSE GUM) | 468    |           2024 | GMP         | 234, 235 & 634 |
+| CYCLODEXTRIN, BETA-                                               | 459    |           2024 | 5mg/kg      | 234, 235 & 634 |
+| DEXTRINS, ROASTED STARCH                                          | 1400   |           2013 | GMP         | 234 & 235      |
+| DISTARCH PHOSPHATE                                                | 1412   |           2013 | GMP         | 234 & 235      |
+| ETHYL HYDROXYETHYL CELLULOSE                                      | 467    |           2024 | GMP         | 234, 235 & 634 |
+| GELLAN GUM                                                        | 418(i) |           2013 | GMP         | 234 & 235      |
+| GUAR GUM                                                          | 412    |           2015 | GMP         | 234 & 235      |
+| GUM ARABIC (ACACIA GUM)                                           | 414    |           2015 | GMP         | 234 & 235      |
+| HYDROXYPROPYL CELLULOSE                                           | 463    |           2024 | GMP         | 234, 235 & 634 |
+| HYDROXYPROPYL DISTARCH PHOSPHATE                                  | 1442   |           2013 | GMP         | 234 & 235      |
+| HYDROXYPROPYL METHYL CELLULOSE                                    | 464    |           2024 | GMP         | 234, 235 & 634 |
+| HYDROXYPROPYL STARCH                                              | 1440   |           2013 | GMP         | 234 & 235      |
+| KARAYA GUM                                                        | 416    |           2024 | 200mg/kg    | 234, 235 & 616 |
+| KONJAC FLOUR                                                      | 425    |           2015 | GMP         | 234 & 235      |
+| LACTIC AND FATTY ACID ESTERS OF GLYCEROL                          | 472b   |           2024 | GMP         | 234, 235 & 634 |
+| MAGNESIUM CHLORIDE                                                | 511    |           2024 | GMP         | 234, 235 & 634 |
+| METHYL CELLULOSE                                                  | 461    |           2024 | GMP         | 234, 235 & 634 |
+Food Category No. 01.2.1.1
+Fermented milks (plain), not heat-treated after fermentation
+| Additive                                                                                           | INS      |   Year Adopted | Max Level   | Notes          |
+|----------------------------------------------------------------------------------------------------|----------|----------------|-------------|----------------|
+| METHYL ETHYL CELLULOSE                                                                             | 465      |           2024 | GMP         | 234, 235 & 634 |
+| MICROCRYSTALLINE CELLULOSE (CELLULOSE GEL)                                                         | 460(i)   |           2013 | GMP         | 234 & 235      |
+| MONO- AND DI-GLYCERIDES OF FATTY ACIDS                                                             | 471      |           2015 | GMP         | 234 & 235      |
+| MONOSTARCH PHOSPHATE                                                                               | 1410     |           2013 | GMP         | 234 & 235      |
+| OXIDIZED STARCH                                                                                    | 1404     |           2013 | GMP         | 234 & 235      |
+| PECTINS                                                                                            | 440      |           2013 | GMP         | 234 & 235      |
+| PHOSPHATED DISTARCH PHOSPHATE                                                                      | 1413     |           2013 | GMP         | 234 & 235      |
+| POLYDEXTROSES                                                                                      | 1200     |           2015 | GMP         | 234 & 235      |
+| POTASSIUM ALGINATE                                                                                 | 402      |           2024 | GMP         | 234, 235 & 634 |
+| POTASSIUM CHLORIDE                                                                                 | 508      |           2024 | GMP         | 234, 235 & 634 |
+| POWDERED CELLULOSE                                                                                 | 460(ii)  |           2013 | GMP         | 234 & 235      |
+| PROCESSED EUCHEUMA SEAWEED (PES)                                                                   | 407a     |           2015 | GMP         | 234 & 235      |
+| PROPYLENE GLYCOL ALGINATE                                                                          | 405      |           2024 | 5000mg/kg   | 234, 235 & 616 |
+| SALTS OF MYRISTIC, PALMITIC AND STEARIC ACIDS WITH AMMONIA, CALCIUM, POTASSIUM AND SODIUM          | 470(i)   |           2024 | GMP         | 234, 235 & 634 |
+| SALTS OF OLEIC ACID WITH CALCIUM, POTASSIUM AND SODIUM                                             | 470(ii)  |           2024 | GMP         | 234, 235 & 634 |
+| SODIUM ALGINATE                                                                                    | 401      |           2015 | GMP         | 234 & 235      |
+| SODIUM CARBOXYMETHYL CELLULOSE (CELLULOSE GUM)                                                     | 466      |           2015 | GMP         | 234 & 235      |
+| SODIUM CARBOXYMETHYL CELLULOSE, ENZYMATICALLY HYDROLYSED (CELLULOSE GUM, ENZYMATICALLY HYDROLYZED) | 469      |           2024 | GMP         | 234, 235 & 634 |
+| STARCH ACETATE                                                                                     | 1420     |           2013 | GMP         | 234 & 235      |
+| STARCH SODIUM OCTENYL SUCCINATE                                                                    | 1450     |           2013 | GMP         | 234 & 235      |
+| STARCHES, ENZYME TREATED                                                                           | 1405     |           2013 | GMP         | 234 & 235      |
+| TAMARIND SEED POLYSACCHARIDE                                                                       | 437      |           2021 | GMP         | 234 & 235      |
+| TARA GUM                                                                                           | 417      |           2013 | GMP         | 234 & 235      |
+| TRAGACANTH GUM                                                                                     | 413      |           2024 | GMP         | 234, 235 & 634 |
+| TRISODIUM CITRATE                                                                                  | 331(iii) |           2024 | GMP         | 234, 235 & 634 |
+| XANTHAN GUM                                                                                        | 415      |           2013 | GMP         | 234 & 235      |
+Food Category No. 01.2.1.2
+Fermented milks (plain), heat-treated after fermentation
+| Additive                     | INS   |   Year Adopted | Max Level   |   Notes |
+|------------------------------|-------|----------------|-------------|---------|
+| ACETIC AND FATTY ACID ESTERS | 472a  |           2013 | GMP         |     234 |

@@ -1,0 +1,192 @@
+Food Category No. 11.4
+Other sugars and syrups (e.g. xylose, maple syrup, sugar toppings)
+| Additive                                          | INS                |   Year Adopted | Max Level   | Notes          |
+|---------------------------------------------------|--------------------|----------------|-------------|----------------|
+| ALGINIC ACID                                      | 400                |           2014 | GMP         | 258            |
+| ALKALINE TREATED STARCH                           | 1402               |           2014 | GMP         | 258            |
+| ALLURA RED AC                                     | 129                |           2009 | 300mg/kg    | 161            |
+| AMMONIUM ALGINATE                                 | 403                |           2014 | GMP         | 258            |
+| ASCORBYL ESTERS                                   | 304, 305           |           2003 | 200mg/kg    | 10             |
+| ASPARTAME                                         | 951                |           2007 | 3000mg/kg   | 159, 191 & 478 |
+| ASPARTAME-ACESULFAME SALT                         | 962                |           2023 | 1000mg/kg   | 113, 159, 477  |
+| BENZOATES                                         | 210-213            |           2003 | 1000mg/kg   | 13             |
+| BLEACHED STARCH                                   | 1403               |           2014 | GMP         | 258            |
+| CALCIUM ACETATE                                   | 263                |           2013 | GMP         | 258            |
+| CALCIUM ALGINATE                                  | 404                |           2014 | GMP         | 258            |
+| CANTHAXANTHIN                                     | 161g               |           2011 | 15mg/kg     |                |
+| CARAMEL III - AMMONIA CARAMEL                     | 150c               |           2010 | 50000mg/kg  | 100            |
+| CAROB BEAN GUM                                    | 410                |           2014 | GMP         | 258            |
+| CARRAGEENAN                                       | 407                |           2014 | GMP         | 258            |
+| CHLOROPHYLLS AND CHLOROPHYLLINS, COPPER COMPLEXES | 141(i),(ii)        |           2005 | 64mg/kg     | 62             |
+| CITRIC AND FATTY ACID ESTERS OF GLYCEROL          | 472c               |           2014 | GMP         | 258            |
+| CYCLAMATES                                        | 952(i), (ii), (iv) |           2007 | 500mg/kg    | 17, 159 & 477  |
+| DISTARCH PHOSPHATE                                | 1412               |           2014 | GMP         | 258            |
+| GELLAN GUM                                        | 418(i)             |           2014 | GMP         | 258            |
+| GLYCEROL                                          | 422                |           2015 | GMP         | 258            |
+| GUAR GUM                                          | 412                |           2014 | GMP         | 258            |
+| GUM ARABIC (ACACIA GUM)                           | 414                |           2014 | GMP         | 258            |
+| HYDROXYBENZOATES, PARA-                           | 214, 218           |           2012 | 100mg/kg    | 27             |
+| HYDROXYPROPYL CELLULOSE                           | 463                |           2014 | GMP         | 258            |
+| HYDROXYPROPYL DISTARCH PHOSPHATE                  | 1442               |           2014 | GMP         | 258            |
+| HYDROXYPROPYL METHYL CELLULOSE                    | 464                |           2014 | GMP         | 258            |
+| HYDROXYPROPYL STARCH                              | 1440               |           2014 | GMP         | 258            |
+| INDIGOTINE (INDIGO CARMINE)                       | 132                |           2009 | 300mg/kg    | 161            |
+| ISOMALT (HYDROGENATED ISOMALTULOSE)               | 953                |           2023 | GMP         | 258, 478       |
+| JAGUA (GENIPIN-GLYCINE) BLUE                      | 183                |           2024 | 120mg/kg    | 258 & 601      |
+| KARAYA GUM                                        | 416                |           2014 | GMP         | 258            |
+| KONJAC FLOUR                                      | 425                |           2014 | GMP         | 258            |
+| LACTIC AND FATTY ACID ESTERS OF GLYCEROL          | 472b               |           2014 | GMP         | 258            |
+| LACTITOL                                          | 966                |           2023 | GMP         | 258, 477       |
+Food Category No.
+11.4 Other sugars and syrups (e.g. xylose, maple
+syrup, sugar toppings)
+| Additive                                                                       | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes          |
+|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|----------------|
+| LECITHIN                                                                       | 322(i)                                                                                                                                  |           2014 | GMP         | 258            |
+| MAGNESIUM CARBONATE                                                            | 504(i)                                                                                                                                  |           2013 | GMP         | 258            |
+| MAGNESIUM CHLORIDE                                                             | 511                                                                                                                                     |           2014 | GMP         | 258            |
+| MAGNESIUM HYDROXIDE                                                            | 528                                                                                                                                     |           2013 | GMP         | 258            |
+| MAGNESIUM HYDROXIDE CARBONATE                                                  | 504(ii)                                                                                                                                 |           2013 | GMP         | 258            |
+| MALTITOL                                                                       | 965(i)                                                                                                                                  |           2023 | GMP         | 258, 477       |
+| MALTITOL SYRUP                                                                 | 965(ii)                                                                                                                                 |           2023 | GMP         | 258, 477       |
+| MANNITOL                                                                       | 421                                                                                                                                     |           2014 | GMP         | 258            |
+| METHYL CELLULOSE                                                               | 461                                                                                                                                     |           2014 | GMP         | 258            |
+| METHYL ETHYL CELLULOSE                                                         | 465                                                                                                                                     |           2014 | GMP         | 258            |
+| MICROCRYSTALLINE CELLULOSE (CELLULOSE GEL)                                     | 460(i)                                                                                                                                  |           2014 | GMP         | 258            |
+| MONO- AND DI-GLYCERIDES OF FATTY ACIDS                                         | 471                                                                                                                                     |           2014 | GMP         | 258            |
+| MONOSTARCH PHOSPHATE                                                           | 1410                                                                                                                                    |           2014 | GMP         | 258            |
+| NEOTAME                                                                        | 961                                                                                                                                     |           2007 | 70mg/kg     | 159 & 478      |
+| NITROUS OXIDE                                                                  | 942                                                                                                                                     |           2015 | GMP         |                |
+| OXIDIZED STARCH                                                                | 1404                                                                                                                                    |           2014 | GMP         | 258            |
+| PECTINS                                                                        | 440                                                                                                                                     |           2014 | GMP         | 258            |
+| PHOSPHATED DISTARCH PHOSPHATE                                                  | 1413                                                                                                                                    |           2014 | GMP         | 258            |
+| PHOSPHATES                                                                     | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2009 | 1320mg/kg   | 33             |
+| POLYDEXTROSES                                                                  | 1200                                                                                                                                    |           2014 | GMP         | 258            |
+| PONCEAU 4R (COCHINEAL RED A)                                                   | 124                                                                                                                                     |           2008 | 300mg/kg    | 159            |
+| POTASSIUM ALGINATE                                                             | 402                                                                                                                                     |           2014 | GMP         | 258            |
+| POTASSIUM DIHYDROGEN CITRATE                                                   | 332(i)                                                                                                                                  |           2013 | GMP         | 258            |
+| POWDERED CELLULOSE                                                             | 460(ii)                                                                                                                                 |           2014 | GMP         | 258            |
+| PROCESSED EUCHEUMA SEAWEED (PES)                                               | 407a                                                                                                                                    |           2014 | GMP         | 258            |
+| PROPYLENE GLYCOL ALGINATE                                                      | 405                                                                                                                                     |           2018 | 10000mg/kg  | 258            |
+| PROPYLENE GLYCOL ESTERS OF FATTY ACIDS                                         | 477                                                                                                                                     |           2001 | 5000mg/kg   |                |
+| PULLULAN                                                                       | 1204                                                                                                                                    |           2015 | GMP         | 258            |
+| RIBOFLAVINS                                                                    | 101(i),(ii), (iii), (iv)                                                                                                                |           2024 | GMP         |                |
+| SACCHARINS                                                                     | 954(i)-(iv)                                                                                                                             |           2008 | 300mg/kg    | 500, 159 & 477 |
+| SALTS OF MYRISTIC, PALMITIC AND STEARIC ACIDS WITH AMMONIA, CALCIUM, POTASSIUM | 470(i)                                                                                                                                  |           2014 | GMP         | 71 & 258       |
+Food Category No.
+11.4 Other sugars and syrups (e.g. xylose, maple
+syrup, sugar toppings)
+| Additive                                               | INS           |   Year Adopted | Max Level   | Notes     |
+|--------------------------------------------------------|---------------|----------------|-------------|-----------|
+| SALTS OF OLEIC ACID WITH CALCIUM, POTASSIUM AND SODIUM | 470(ii)       |           2014 | GMP         | 258       |
+| SODIUM ALGINATE                                        | 401           |           2014 | GMP         | 258       |
+| SODIUM CARBOXYMETHYL CELLULOSE (CELLULOSE GUM)         | 466           |           2014 | GMP         | 258       |
+| SODIUM DIHYDROGEN CITRATE                              | 331(i)        |           2013 | GMP         | 258       |
+| SORBATES                                               | 200, 202, 203 |           2009 | 1000mg/kg   | 42        |
+| SORBITOL                                               | 420(i)        |           2023 | GMP         | 258, 477  |
+| SORBITOL SYRUP                                         | 420(ii)       |           2023 | GMP         | 258, 477  |
+| STARCHES, ENZYME TREATED                               | 1405          |           2014 | GMP         | 258       |
+| SUCRALOSE (TRICHLOROGALACTOSUCROSE)                    | 955           |           2021 | 1500mg/kg   | 159 & 478 |
+| SULFITES                                               | 220-225, 539  |           2006 | 40mg/kg     | 44        |
+| TAMARIND SEED POLYSACCHARIDE                           | 437           |           2021 | GMP         | 258       |
+| THAUMATIN                                              | 957           |           2023 | GMP         | 258, 478  |
+| TRAGACANTH GUM                                         | 413           |           2014 | GMP         | 258       |
+| TRIPOTASSIUM CITRATE                                   | 332(ii)       |           2013 | GMP         | 258       |
+| TRISODIUM CITRATE                                      | 331(iii)      |           2013 | GMP         | 258       |
+| XANTHAN GUM                                            | 415           |           2014 | GMP         | 258       |
+| XYLITOL                                                | 967           |           2023 | GMP         | 258, 477  |
+Food Category No. 11.6
+Table-top sweeteners, including those containing high-intensity sweeteners
+| Additive                             | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes   |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|---------|
+| ACESULFAME POTASSIUM                 | 950                                                                                                                                     |           2023 | GMP         |         |
+| ADVANTAME                            | 969                                                                                                                                     |           2023 | GMP         |         |
+| ALITAME                              | 956                                                                                                                                     |           2007 | GMP         |         |
+| ASPARTAME                            | 951                                                                                                                                     |           2023 | GMP         |         |
+| ASPARTAME-ACESULFAME SALT            | 962                                                                                                                                     |           2012 | GMP         |         |
+| BENZOATES                            | 210-213                                                                                                                                 |           2003 | 2000mg/kg   | 13      |
+| CARAMEL IV - SULFITE AMMONIA CARAMEL | 150d                                                                                                                                    |           2011 | 1200mg/kg   | 213     |
+| CYCLAMATES                           | 952(i), (ii), (iv)                                                                                                                      |           2007 | GMP         | 17      |
+| ETHYLENE DIAMINE TETRA ACETATES      | 385, 386                                                                                                                                |           2005 | 1000mg/kg   | 21 & 96 |
+| NEOTAME                              | 961                                                                                                                                     |           2007 | GMP         |         |
+| PHOSPHATES                           | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2009 | 1000mg/kg   | 33      |
+| POLYETHYLENE GLYCOL                  | 1521                                                                                                                                    |           2001 | 10000mg/kg  |         |
+Food Category No. 11.6
+Table-top sweeteners, including those containing high-intensity sweeteners
+| Additive                            | INS                    |   Year Adopted | Max Level   | Notes    |
+|-------------------------------------|------------------------|----------------|-------------|----------|
+| POLYVINYLPYRROLIDONE                | 1201                   |           1999 | 3000mg/kg   |          |
+| SACCHARINS                          | 954(i)-(iv)            |           2007 | GMP         |          |
+| SORBATES                            | 200, 202, 203          |           2010 | 1000mg/kg   | 42 & 192 |
+| STEVIOL GLYCOSIDES                  | 960a, 960b, 960c, 960d |           2011 | GMP         | 26       |
+| SUCRALOSE (TRICHLOROGALACTOSUCROSE) | 955                    |           2007 | GMP         |          |
+| TARTRATES                           | 334, 335(ii), 337      |           2018 | 2000mg/kg   | 45       |
+Food Category No.
+12.1.1 Salt
+| Additive                                                                                  | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes    |
+|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|----------|
+| CALCIUM CARBONATE                                                                         | 170(i)                                                                                                                                  |           2006 | GMP         |          |
+| CALCIUM SILICATE                                                                          | 552                                                                                                                                     |           2006 | GMP         |          |
+| FERROCYANIDES                                                                             | 535, 536, 538                                                                                                                           |           2006 | 14mg/kg     | 24 & 107 |
+| MAGNESIUM CARBONATE                                                                       | 504(i)                                                                                                                                  |           2006 | GMP         |          |
+| MAGNESIUM OXIDE                                                                           | 530                                                                                                                                     |           2006 | GMP         |          |
+| MAGNESIUM SILICATE, SYNTHETIC                                                             | 553(i)                                                                                                                                  |           2006 | GMP         |          |
+| METHACRYLATE COPOLYMER, BASIC (BMC)                                                       | 1205                                                                                                                                    |           2021 | GMP         |          |
+| PHOSPHATES                                                                                | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2006 | 8800mg/kg   | 33       |
+| POLYSORBATES                                                                              | 432-436                                                                                                                                 |           2006 | 10mg/kg     |          |
+| SALTS OF MYRISTIC, PALMITIC AND STEARIC ACIDS WITH AMMONIA, CALCIUM, POTASSIUM AND SODIUM | 470(i)                                                                                                                                  |           2006 | GMP         | 71       |
+| SILICON DIOXIDE, AMORPHOUS                                                                | 551                                                                                                                                     |           2006 | GMP         |          |
+| SODIUM ALUMINIUM SILICATE                                                                 | 554                                                                                                                                     |           2013 | 1000mg/kg   | 6 & 254  |
+Food Category No.
+12.1.2 Salt Substitutes
+| Additive                                 | INS   |   Year Adopted | Max Level   | Notes   |
+|------------------------------------------|-------|----------------|-------------|---------|
+| ACETIC ACID, GLACIAL                     | 260   |           2013 | GMP         |         |
+| ACETIC AND FATTY ACID ESTERS OF GLYCEROL | 472a  |           2014 | GMP         |         |
+| ACETYLATED DISTARCH PHOSPHATE            | 1414  |           2014 | GMP         |         |
+| AGAR                                     | 406   |           2014 | GMP         |         |
+| ALGINIC ACID                             | 400   |           2014 | GMP         |         |
+| ASCORBIC ACID, L-                        | 300   |           2013 | GMP         |         |
+| CALCIUM 5'-GUANYLATE                     | 629   |           2015 | GMP         |         |
+| CALCIUM 5'-INOSINATE                     | 633   |           2015 | GMP         |         |
+Food Category No.
+12.1.2 Salt Substitutes
+| Additive                                           | INS           |   Year Adopted | Max Level   | Notes   |
+|----------------------------------------------------|---------------|----------------|-------------|---------|
+| CALCIUM 5'-RIBONUCLEOTIDES                         | 634           |           2015 | GMP         |         |
+| CALCIUM CARBONATE                                  | 170(i)        |           2013 | GMP         |         |
+| CALCIUM CHLORIDE                                   | 509           |           2014 | GMP         | 58      |
+| CALCIUM DI-L-GLUTAMATE                             | 623           |           2015 | GMP         |         |
+| CALCIUM LACTATE                                    | 327           |           2013 | GMP         |         |
+| CALCIUM SILICATE                                   | 552           |           2015 | GMP         |         |
+| CARRAGEENAN                                        | 407           |           2014 | GMP         |         |
+| CITRIC ACID                                        | 330           |           2013 | GMP         |         |
+| CITRIC AND FATTY ACID ESTERS OF GLYCEROL           | 472c          |           2014 | GMP         |         |
+| DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL | 472e          |           2006 | 16000mg/kg  |         |
+| DIPOTASSIUM 5'-GUANYLATE                           | 628           |           2015 | GMP         |         |
+| DISODIUM 5'-GUANYLATE                              | 627           |           2015 | GMP         |         |
+| DISODIUM 5'-INOSINATE                              | 631           |           2015 | GMP         |         |
+| DISODIUM 5'-RIBONUCLEOTIDES                        | 635           |           2015 | GMP         |         |
+| FERROCYANIDES                                      | 535, 536, 538 |           1999 | 20mg/kg     | 24      |
+| FUMARIC ACID                                       | 297           |           2013 | GMP         |         |
+| GELLAN GUM                                         | 418(i)        |           2014 | GMP         |         |
+| GLUTAMIC ACID, L(+)-                               | 620           |           2015 | GMP         |         |
+| GLYCEROL                                           | 422           |           2015 | GMP         |         |
+| GUANYLIC ACID, 5'-                                 | 626           |           2015 | GMP         |         |
+| GUAR GUM                                           | 412           |           2014 | GMP         |         |
+| GUM ARABIC (ACACIA GUM)                            | 414           |           2014 | GMP         |         |
+| HYDROXYPROPYL CELLULOSE                            | 463           |           2014 | GMP         |         |
+| HYDROXYPROPYL METHYL CELLULOSE                     | 464           |           2014 | GMP         |         |
+| HYDROXYPROPYL STARCH                               | 1440          |           2014 | GMP         |         |
+| INOSINIC ACID, 5'-                                 | 630           |           2015 | GMP         |         |
+| KARAYA GUM                                         | 416           |           2014 | GMP         |         |
+| KONJAC FLOUR                                       | 425           |           2014 | GMP         |         |
+| LACTIC ACID, L-, D- and DL-                        | 270           |           2013 | GMP         |         |
+| LACTIC AND FATTY ACID ESTERS OF GLYCEROL           | 472b          |           2014 | GMP         |         |
+| LECITHIN                                           | 322(i)        |           2014 | GMP         |         |
+| MAGNESIUM CARBONATE                                | 504(i)        |           2013 | GMP         |         |
+| MAGNESIUM CHLORIDE                                 | 511           |           2014 | GMP         |         |
+| MAGNESIUM DI-L-GLUTAMATE                           | 625           |           2015 | GMP         |         |
+| MAGNESIUM HYDROXIDE                                | 528           |           2013 | GMP         |         |
+| MAGNESIUM HYDROXIDE CARBONATE                      | 504(ii)       |           2013 | GMP         |         |
+| MAGNESIUM SILICATE, SYNTHETIC                      | 553(i)        |           2015 | GMP         |         |

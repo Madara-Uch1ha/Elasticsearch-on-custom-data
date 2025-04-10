@@ -1,0 +1,186 @@
+Food Category No. 07.2.1
+Cakes, cookies and pies (e.g. fruit-filled or custard types)
+| Additive                           | INS               |   Year Adopted | Max Level   | Notes     |
+|------------------------------------|-------------------|----------------|-------------|-----------|
+| ANNATTO EXTRACTS, NORBIXIN- BASED  | 160b(ii)          |           2024 | 10mg/kg     | 185 & 405 |
+| POLYGLYCEROL ESTERS OF FATTY ACIDS | 475               |           2016 | 10000mg/kg  |           |
+| PROPYLENE GLYCOL ALGINATE          | 405               |           2017 | 3000mg/kg   |           |
+| TARTRATES                          | 334, 335(ii), 337 |           2017 | 5000mg/kg   | 45        |
+| TOCOPHEROLS                        | 307a, b, c        |           2017 | 200mg/kg    | 389       |
+Food Category No. 07.2.2
+Other fine bakery products (e.g. doughnuts, sweet rolls, scones, and muffins)
+| Additive                           | INS               |   Year Adopted | Max Level   | Notes     |
+|------------------------------------|-------------------|----------------|-------------|-----------|
+| ANNATTO EXTRACTS, NORBIXIN- BASED  | 160b(ii)          |           2024 | 10mg/kg     | 185 & 449 |
+| POLYGLYCEROL ESTERS OF FATTY ACIDS | 475               |           2016 | 10000mg/kg  |           |
+| PROPYLENE GLYCOL ALGINATE          | 405               |           2017 | 2000mg/kg   |           |
+| TARTRATES                          | 334, 335(ii), 337 |           2017 | 500mg/kg    | 45        |
+| TOCOPHEROLS                        | 307a, b, c        |           2017 | 200mg/kg    |           |
+Food Category No. 07.2.3
+Mixes for fine bakery wares (e.g. cakes, pancakes)
+| Additive                           | INS               |   Year Adopted | Max Level   | Notes     |
+|------------------------------------|-------------------|----------------|-------------|-----------|
+| ANNATTO EXTRACTS, NORBIXIN- BASED  | 160b(ii)          |           2024 | 25mg/kg     | 185 & 405 |
+| POLYGLYCEROL ESTERS OF FATTY ACIDS | 475               |           2019 | 16000mg/kg  | 451       |
+| PROPYL GALLATE                     | 310               |           2001 | 200mg/kg    | 15 & 196  |
+| PROPYLENE GLYCOL ALGINATE          | 405               |           2017 | 10000mg/kg  | 11        |
+| TARTRATES                          | 334, 335(ii), 337 |           2017 | 8000mg/kg   | 11 & 45   |
+| TOCOPHEROLS                        | 307a, b, c        |           2017 | 200mg/kg    | 11        |
+Food Category No. 08.0
+Meat and meat products, including poultry and game
+| Additive                             | INS   |   Year Adopted | Max Level   | Notes                                   |
+|--------------------------------------|-------|----------------|-------------|-----------------------------------------|
+| BRILLIANT BLUE FCF                   | 133   |           2014 | 100mg/kg    | 4, 16, XS88, XS89, XS96, XS97 & XS98    |
+| CARAMEL III - AMMONIA CARAMEL        | 150c  |           2014 | GMP         | 3, 4, 16, XS88, XS89, XS96, XS97 & XS98 |
+| CARAMEL IV - SULFITE AMMONIA CARAMEL | 150d  |           2014 | GMP         | 3, 4, 16, XS88, XS89, XS96, XS97 & XS98 |
+Food Category No. 08.1 Fresh meat, poultry, and game
+Food Category No. 08.1
+Fresh meat, poultry, and game
+| Additive                 |   INS |   Year Adopted | Max Level   | Notes     |
+|--------------------------|-------|----------------|-------------|-----------|
+| DISODIUM 5'-GUANYLATE    |   627 |           2014 | GMP         | 16        |
+| DISODIUM 5'-INOSINATE    |   631 |           2014 | GMP         | 16        |
+| FAST GREEN FCF           |   143 |           2009 | 100mg/kg    | 3, 4 & 16 |
+| MONOAMMONIUM L-GLUTAMATE |   624 |           2014 | GMP         | 16        |
+| MONOSODIUM L-GLUTAMATE   |   621 |           2014 | GMP         | 16        |
+| SUNSET YELLOW FCF        |   110 |           2008 | 300mg/kg    | 4 & 16    |
+Food Category No. 08.1.1
+Fresh meat, poultry, and game, whole pieces
+or cuts
+| Additive                                   | INS       |   Year Adopted | Max Level   | Notes       |
+|--------------------------------------------|-----------|----------------|-------------|-------------|
+| ACETIC AND FATTY ACID ESTERS OF GLYCEROL   | 472a      |           2015 | GMP         | 16 & 326    |
+| ACETYLATED DISTARCH PHOSPHATE              | 1414      |           2015 | GMP         | 16 & 326    |
+| AGAR                                       | 406       |           2015 | GMP         | 16 & 326    |
+| BROMELAIN                                  | 1101(iii) |           2015 | GMP         | 16 & 326    |
+| CALCIUM CARBONATE                          | 170(i)    |           2015 | GMP         | 4, 16 & 326 |
+| CALCIUM CHLORIDE                           | 509       |           2015 | GMP         | 16 & 326    |
+| CARMINES                                   | 120       |           2008 | 500mg/kg    | 4, 16 & 178 |
+| CARRAGEENAN                                | 407       |           2015 | GMP         | 16 & 326    |
+| CITRIC AND FATTY ACID ESTERS OF GLYCEROL   | 472c      |           2015 | GMP         | 16 & 326    |
+| GELLAN GUM                                 | 418(i)    |           2015 | GMP         | 16 & 326    |
+| GLYCEROL                                   | 422       |           2015 | GMP         | 16 & 326    |
+| GUM ARABIC (ACACIA GUM)                    | 414       |           2015 | GMP         | 16 & 326    |
+| HYDROXYPROPYL CELLULOSE                    | 463       |           2015 | GMP         | 16 & 326    |
+| HYDROXYPROPYL METHYL CELLULOSE             | 464       |           2015 | GMP         | 16 & 326    |
+| HYDROXYPROPYL STARCH                       | 1440      |           2015 | GMP         | 16 & 326    |
+| KARAYA GUM                                 | 416       |           2015 | GMP         | 16 & 326    |
+| KONJAC FLOUR                               | 425       |           2015 | GMP         | 16 & 326    |
+| LACTIC AND FATTY ACID ESTERS OF GLYCEROL   | 472b      |           2015 | GMP         | 16 & 326    |
+| LECITHIN                                   | 322(i)    |           2015 | GMP         | 16 & 326    |
+| MAGNESIUM CHLORIDE                         | 511       |           2015 | GMP         | 16 & 326    |
+| MANNITOL                                   | 421       |           2015 | GMP         | 16 & 326    |
+| METHYL CELLULOSE                           | 461       |           2015 | GMP         | 16 & 326    |
+| METHYL ETHYL CELLULOSE                     | 465       |           2015 | GMP         | 16 & 326    |
+| MICROCRYSTALLINE CELLULOSE (CELLULOSE GEL) | 460(i)    |           2015 | GMP         | 16 & 326    |
+| MONO- AND DI-GLYCERIDES OF FATTY ACIDS     | 471       |           2015 | GMP         | 16 & 326    |
+| OXIDIZED STARCH                            | 1404      |           2015 | GMP         | 16 & 326    |
+Food Category No. 08.1.1
+Fresh meat, poultry, and game, whole pieces or cuts
+| Additive                                                                                  | INS      |   Year Adopted | Max Level   | Notes        |
+|-------------------------------------------------------------------------------------------|----------|----------------|-------------|--------------|
+| PECTINS                                                                                   | 440      |           2015 | GMP         | 16 & 326     |
+| POTASSIUM CHLORIDE                                                                        | 508      |           2015 | GMP         | 16 & 326     |
+| POTASSIUM DIHYDROGEN CITRATE                                                              | 332(i)   |           2015 | GMP         | 16 & 326     |
+| POWDERED CELLULOSE                                                                        | 460(ii)  |           2015 | GMP         | 16 & 326     |
+| PROCESSED EUCHEUMA SEAWEED (PES)                                                          | 407a     |           2015 | GMP         | 16 & 326     |
+| SALTS OF MYRISTIC, PALMITIC AND STEARIC ACIDS WITH AMMONIA, CALCIUM, POTASSIUM AND SODIUM | 470(i)   |           2015 | GMP         | 16, 71 & 326 |
+| SALTS OF OLEIC ACID WITH CALCIUM, POTASSIUM AND SODIUM                                    | 470(ii)  |           2015 | GMP         | 16 & 326     |
+| SODIUM ALGINATE                                                                           | 401      |           2015 | GMP         | 16 & 326     |
+| SODIUM CARBOXYMETHYL CELLULOSE (CELLULOSE GUM)                                            | 466      |           2015 | GMP         | 16 & 326     |
+| SODIUM DIHYDROGEN CITRATE                                                                 | 331(i)   |           2015 | GMP         | 16 & 326     |
+| TARA GUM                                                                                  | 417      |           2015 | GMP         | 16 & 326     |
+| TRAGACANTH GUM                                                                            | 413      |           2015 | GMP         | 16 & 326     |
+| TRIPOTASSIUM CITRATE                                                                      | 332(ii)  |           2015 | GMP         | 16 & 326     |
+| TRISODIUM CITRATE                                                                         | 331(iii) |           2015 | GMP         | 16 & 326     |
+| XANTHAN GUM                                                                               | 415      |           2015 | GMP         | 16 & 326     |
+Food Category No. 08.1.2
+Fresh meat, poultry, and game, comminuted
+| Additive                                 | INS    |   Year Adopted | Max Level   | Notes            |
+|------------------------------------------|--------|----------------|-------------|------------------|
+| ACETIC AND FATTY ACID ESTERS OF GLYCEROL | 472a   |           2014 | GMP         | 281              |
+| ACETYLATED DISTARCH PHOSPHATE            | 1414   |           2014 | GMP         | 281              |
+| AGAR                                     | 406    |           2015 | GMP         | 281              |
+| ASCORBIC ACID, L-                        | 300    |           2014 | GMP         | 281              |
+| CALCIUM ASCORBATE                        | 302    |           2014 | GMP         | 281              |
+| CALCIUM CARBONATE                        | 170(i) |           2014 | GMP         | 4, 16 & 281      |
+| CALCIUM LACTATE                          | 327    |           2014 | GMP         | 281              |
+| CARMINES                                 | 120    |           2008 | 100mg/kg    | 4, 16, 117 & 178 |
+| CAROB BEAN GUM                           | 410    |           2014 | GMP         | 281              |
+| CARRAGEENAN                              | 407    |           2015 | GMP         | 281              |
+| CITRIC ACID                              | 330    |           2014 | GMP         | 15 & 281         |
+| CITRIC AND FATTY ACID ESTERS OF GLYCEROL | 472c   |           2014 | GMP         | 281              |
+| ERYTHORBIC ACID (ISOASCORBIC ACID)       | 315    |           2014 | GMP         | 281              |
+| GELLAN GUM                               | 418(i) |           2014 | GMP         | 281              |
+| GLYCEROL                                 | 422    |           2014 | GMP         |                  |
+Food Category No.
+08.1.2 Fresh meat, poultry, and game, comminuted
+| Additive                                                                                  | INS        |   Year Adopted | Max Level   | Notes      |
+|-------------------------------------------------------------------------------------------|------------|----------------|-------------|------------|
+| GRAPE SKIN EXTRACT                                                                        | 163(ii)    |           2010 | 1000mg/kg   | 4, 16 & 94 |
+| GUAR GUM                                                                                  | 412        |           2014 | GMP         | 281        |
+| GUM ARABIC (ACACIA GUM)                                                                   | 414        |           2014 | GMP         | 281        |
+| HYDROXYPROPYL CELLULOSE                                                                   | 463        |           2014 | GMP         | 281        |
+| HYDROXYPROPYL METHYL CELLULOSE                                                            | 464        |           2014 | GMP         | 281        |
+| HYDROXYPROPYL STARCH                                                                      | 1440       |           2014 | GMP         | 281        |
+| ISOPROPYL CITRATES                                                                        | 384        |           2001 | 200mg/kg    |            |
+| KARAYA GUM                                                                                | 416        |           2014 | GMP         | 281        |
+| KONJAC FLOUR                                                                              | 425        |           2015 | GMP         | 281        |
+| LACTIC AND FATTY ACID ESTERS OF GLYCEROL                                                  | 472b       |           2014 | GMP         | 281        |
+| LECITHIN                                                                                  | 322(i)     |           2014 | GMP         | 281        |
+| MAGNESIUM CHLORIDE                                                                        | 511        |           2014 | GMP         | 281        |
+| MANNITOL                                                                                  | 421        |           2015 | GMP         | 281        |
+| METHYL CELLULOSE                                                                          | 461        |           2014 | GMP         | 281        |
+| METHYL ETHYL CELLULOSE                                                                    | 465        |           2014 | GMP         | 281        |
+| MICROCRYSTALLINE CELLULOSE (CELLULOSE GEL)                                                | 460(i)     |           2014 | GMP         | 281        |
+| MONO- AND DI-GLYCERIDES OF FATTY ACIDS                                                    | 471        |           2014 | GMP         | 281        |
+| OXIDIZED STARCH                                                                           | 1404       |           2014 | GMP         | 281        |
+| PECTINS                                                                                   | 440        |           2015 | GMP         | 281        |
+| POTASSIUM DIHYDROGEN CITRATE                                                              | 332(i)     |           2014 | GMP         | 281        |
+| POWDERED CELLULOSE                                                                        | 460(ii)    |           2014 | GMP         | 281        |
+| PROCESSED EUCHEUMA SEAWEED (PES)                                                          | 407a       |           2015 | GMP         | 281        |
+| SALTS OF MYRISTIC, PALMITIC AND STEARIC ACIDS WITH AMMONIA, CALCIUM, POTASSIUM AND SODIUM | 470(i)     |           2014 | GMP         | 71 & 281   |
+| SALTS OF OLEIC ACID WITH CALCIUM, POTASSIUM AND SODIUM                                    | 470(ii)    |           2014 | GMP         | 281        |
+| SODIUM ALGINATE                                                                           | 401        |           2014 | GMP         | 281        |
+| SODIUM ASCORBATE                                                                          | 301        |           2014 | GMP         | 281        |
+| SODIUM CARBOXYMETHYL CELLULOSE (CELLULOSE GUM)                                            | 466        |           2014 | GMP         | 281        |
+| SODIUM DIHYDROGEN CITRATE                                                                 | 331(i)     |           2014 | GMP         | 281        |
+| TARA GUM                                                                                  | 417        |           2015 | GMP         | 281        |
+| TOCOPHEROLS                                                                               | 307a, b, c |           2017 | 300mg/kg    | 15 & 281   |
+| TRAGACANTH GUM                                                                            | 413        |           2014 | GMP         | 281        |
+| TRICALCIUM CITRATE                                                                        | 333(iii)   |           2014 | GMP         | 281        |
+| TRIPOTASSIUM CITRATE                                                                      | 332(ii)    |           2014 | GMP         | 281        |
+| TRISODIUM CITRATE                                                                         | 331(iii)   |           2014 | GMP         | 281        |
+| Food Category No.   | 08.1.2   | Fresh meat, poultry, and game, comminuted   | Fresh meat, poultry, and game, comminuted   | Fresh meat, poultry, and game, comminuted   |
+|---------------------|----------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
+| Additive            | INS      | Year Adopted                                | Max Level                                   | Notes                                       |
+| XANTHAN GUM         | 415      | 2015                                        | GMP                                         | 281                                         |
+Food Category No. 08.2
+Processed meat, poultry, and game products in whole pieces or cuts
+| Additive                    | INS                    |   Year Adopted | Max Level   | Notes                     |
+|-----------------------------|------------------------|----------------|-------------|---------------------------|
+| BUTYLATED HYDROXYANISOLE    | 320                    |           2014 | 200mg/kg    | 15, 130, XS96 & XS97      |
+| BUTYLATED HYDROXYTOLUENE    | 321                    |           2014 | 100mg/kg    | 15, 130, 167, XS96 & XS97 |
+| CARMINES                    | 120                    |           2014 | 500mg/kg    | 16, 178, XS96 & XS97      |
+| CAROTENES, BETA-, VEGETABLE | 160a(ii)               |           2023 | 20mg/kg     | 16, XS96, XS97, 341       |
+| ERYTHROSINE                 | 127                    |           2014 | 30mg/kg     | 4, 16, XS96 & XS97        |
+| FAST GREEN FCF              | 143                    |           2014 | 100mg/kg    | 3, 4, XS96 & XS97         |
+| GRAPE SKIN EXTRACT          | 163(ii)                |           2014 | 5000mg/kg   | 16, XS96 & XS97           |
+| POLYSORBATES                | 432-436                |           2014 | 5000mg/kg   | XS96 & XS97               |
+| PROPYL GALLATE              | 310                    |           2014 | 200mg/kg    | 15, 130, XS96 & XS97      |
+| SODIUM DIACETATE            | 262(ii)                |           2016 | 1000mg/kg   | XS96 & XS97               |
+| STEVIOL GLYCOSIDES          | 960a, 960b, 960c, 960d |           2023 | 80mg/kg     | 26 & 200                  |
+| SUNSET YELLOW FCF           | 110                    |           2014 | 300mg/kg    | 16, XS96 & XS97           |
+| TERTIARY BUTYLHYDROQUINONE  | 319                    |           2014 | 100mg/kg    | 15, 130, 167, XS96 & XS97 |
+| TOCOPHEROLS                 | 307a, b, c             |           2016 | 500mg/kg    | XS96 & XS97               |
+Food Category No. 08.2.1
+Non-heat treated processed meat, poultry, and game products in whole pieces or cuts
+| Additive                    | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes   |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|---------|
+| LAURIC ARGINATE ETHYL ESTER | 243                                                                                                                                     |           2016 | 200mg/kg    |         |
+| PHOSPHATES                  | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2012 | 2200mg/kg   | 33      |
+Food Category No. 08.2.1.1
+Cured (including salted) non-heat treated processed meat, poultry, and game products in whole pieces or cuts
+| Additive   | INS           |   Year Adopted | Max Level   | Notes   |
+|------------|---------------|----------------|-------------|---------|
+| SORBATES   | 200, 202, 203 |           2016 | 200mg/kg    | 3 & 42  |

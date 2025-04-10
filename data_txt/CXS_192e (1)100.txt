@@ -1,0 +1,199 @@
+Food Category No.
+14.2.3 Grape wines
+| Additive                                       | INS               |   Year Adopted | Max Level   | Notes    |
+|------------------------------------------------|-------------------|----------------|-------------|----------|
+| CITRIC ACID                                    | 330               |           2023 | GMP         | 517      |
+| DIMETHYL DICARBONATE                           | 242               |           2004 | 200mg/kg    | 18       |
+| ERYTHORBIC ACID (ISOASCORBIC ACID)             | 315               |           2023 | GMP         | 517      |
+| FUMARIC ACID                                   | 297               |           2023 | GMP         | 517      |
+| GUM ARABIC (ACACIA GUM)                        | 414               |           2023 | GMP         | 517      |
+| LACTIC ACID, L-, D- and DL-                    | 270               |           2023 | GMP         | 517      |
+| LYSOZYME                                       | 1105              |           2004 | 500mg/kg    |          |
+| MALIC ACID, DL-                                | 296               |           2023 | GMP         | 517, 510 |
+| NITROGEN                                       | 941               |           2024 | GMP         | 59       |
+| POTASSIUM POLYASPARTATE                        | 456               |           2024 | 100mg/kg    |          |
+| SODIUM CARBOXYMETHYL CELLULOSE (CELLULOSE GUM) | 466               |           2023 | GMP         | 517      |
+| SORBATES                                       | 200, 202, 203     |           2012 | 200mg/kg    | 42       |
+| SULFITES                                       | 220-225, 539      |           2006 | 350mg/kg    | 44 & 103 |
+| TARTRATES                                      | 334, 335(ii), 337 |           2023 | GMP         | 517      |
+Food Category No.
+14.2.3.3 Fortified grape wine, grape liquor wine, and
+sweet grape wine
+| Additive                             | INS   |   Year Adopted | Max Level   | Notes   |
+|--------------------------------------|-------|----------------|-------------|---------|
+| CALCIUM SULFATE                      | 516   |           2023 | GMP         | 517     |
+| CARAMEL I - PLAIN CARAMEL            | 150a  |           2024 | GMP         |         |
+| CARAMEL II - SULFITE CARAMEL         | 150b  |           2024 | 50000mg/kg  |         |
+| CARAMEL III - AMMONIA CARAMEL        | 150c  |           2010 | 50000mg/kg  |         |
+| CARAMEL IV - SULFITE AMMONIA CARAMEL | 150d  |           2011 | 50000mg/kg  |         |
+Food Category No. 14.2.4
+Wines (other than grape)
+| Additive                             | INS                  |   Year Adopted | Max Level   | Notes    |
+|--------------------------------------|----------------------|----------------|-------------|----------|
+| ALLURA RED AC                        | 129                  |           2009 | 200mg/kg    |          |
+| ANNATTO EXTRACTS, BIXIN-BASED        | 160b(i)              |           2021 | 20mg/kg     | 8        |
+| BENZOATES                            | 210-213              |           2003 | 1000mg/kg   | 13       |
+| BRILLIANT BLUE FCF                   | 133                  |           2005 | 200mg/kg    |          |
+| BROWN HT                             | 155                  |           2021 | 200mg/kg    |          |
+| CARAMEL II - SULFITE CARAMEL         | 150b                 |           2021 | 1000mg/kg   |          |
+| CARAMEL III - AMMONIA CARAMEL        | 150c                 |           2010 | 1000mg/kg   |          |
+| CARAMEL IV - SULFITE AMMONIA CARAMEL | 150d                 |           2009 | 1000mg/kg   |          |
+| CARMINES                             | 120                  |           2005 | 200mg/kg    | 178      |
+| CAROTENES, BETA-                     | 160a(i),a(iii),a(iv) |           2023 | 3mg/kg      | 341, 344 |
+| CAROTENES, BETA-, VEGETABLE          | 160a(ii)             |           2023 | 3mg/kg      | 341, 344 |
+| CURCUMIN                             | 100(i)               |           2021 | 200mg/kg    |          |
+Food Category No. 14.2.4
+Wines (other than grape)
+| Additive                                           | INS                    |   Year Adopted | Max Level   | Notes   |
+|----------------------------------------------------|------------------------|----------------|-------------|---------|
+| DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL | 472e                   |           2005 | 5000mg/kg   |         |
+| DIMETHYL DICARBONATE                               | 242                    |           2004 | 250mg/kg    | 18      |
+| GRAPE SKIN EXTRACT                                 | 163(ii)                |           2009 | 300mg/kg    | 181     |
+| HYDROXYBENZOATES, PARA-                            | 214, 218               |           2012 | 200mg/kg    | 27      |
+| INDIGOTINE (INDIGO CARMINE)                        | 132                    |           2009 | 200mg/kg    |         |
+| PAPRIKA EXTRACT                                    | 160c(ii)               |           2021 | 10mg/kg     | 39      |
+| SORBATES                                           | 200, 202, 203          |           2012 | 500mg/kg    | 42      |
+| STEVIOL GLYCOSIDES                                 | 960a, 960b, 960c, 960d |           2023 | 160mg/kg    | 26      |
+| SULFITES                                           | 220-225, 539           |           2006 | 200mg/kg    | 44      |
+| TARTRATES                                          | 334, 335(ii), 337      |           2018 | 4000mg/kg   | 45      |
+| TARTRAZINE                                         | 102                    |           2021 | 200mg/kg    |         |
+Food Category No. 14.2.5
+Mead
+| Additive                             | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes   |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|---------|
+| BENZOATES                            | 210-213                                                                                                                                 |           2004 | 1000mg/kg   | 13      |
+| CARAMEL II - SULFITE CARAMEL         | 150b                                                                                                                                    |           2021 | 5000mg/kg   |         |
+| CARAMEL III - AMMONIA CARAMEL        | 150c                                                                                                                                    |           2010 | 1000mg/kg   |         |
+| CARAMEL IV - SULFITE AMMONIA CARAMEL | 150d                                                                                                                                    |           2009 | 1000mg/kg   |         |
+| DIMETHYL DICARBONATE                 | 242                                                                                                                                     |           2004 | 200mg/kg    | 18      |
+| HYDROXYBENZOATES, PARA-              | 214, 218                                                                                                                                |           2010 | 200mg/kg    | 27      |
+| PHOSPHATES                           | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2009 | 440mg/kg    | 33 & 88 |
+| SORBATES                             | 200, 202, 203                                                                                                                           |           2012 | 200mg/kg    | 42      |
+| STEVIOL GLYCOSIDES                   | 960a, 960b, 960c, 960d                                                                                                                  |           2023 | 160mg/kg    | 26      |
+| SULFITES                             | 220-225, 539                                                                                                                            |           2006 | 200mg/kg    | 44      |
+Food Category No. 14.2.6
+Distilled spirituous beverages containing more than 15% alcohol
+| Additive                          | INS      |   Year Adopted | Max Level   | Notes   |
+|-----------------------------------|----------|----------------|-------------|---------|
+| ALLURA RED AC                     | 129      |           2009 | 300mg/kg    |         |
+| ANNATTO EXTRACTS, BIXIN-BASED     | 160b(i)  |           2021 | 30mg/kg     | 8       |
+| ANNATTO EXTRACTS, NORBIXIN- BASED | 160b(ii) |           2021 | 10mg/kg     | 185     |
+| AZORUBINE (CARMOISINE)            | 122      |           2021 | 200mg/kg    |         |
+| BRILLIANT BLACK (BLACK PN)        | 151      |           2021 | 200mg/kg    |         |
+| BRILLIANT BLUE FCF                | 133      |           2005 | 200mg/kg    |         |
+| CANTHAXANTHIN                     | 161g     |           2011 | 5mg/kg      |         |
+| CARAMEL II - SULFITE CARAMEL      | 150b     |           2021 | 5000mg/kg   |         |
+Food Category No. 14.2.6
+Distilled spirituous beverages containing more than 15% alcohol
+| Additive                                           | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes    |
+|----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|----------|
+| CARAMEL III - AMMONIA CARAMEL                      | 150c                                                                                                                                    |           2010 | 50000mg/kg  |          |
+| CARAMEL IV - SULFITE AMMONIA CARAMEL               | 150d                                                                                                                                    |           2011 | 50000mg/kg  |          |
+| CARMINES                                           | 120                                                                                                                                     |           2005 | 200mg/kg    | 178      |
+| CAROTENES, BETA-                                   | 160a(i),a(iii),a(iv)                                                                                                                    |           2023 | 3mg/kg      | 341, 344 |
+| CAROTENES, BETA-, VEGETABLE                        | 160a(ii)                                                                                                                                |           2023 | 3mg/kg      | 341, 344 |
+| CURCUMIN                                           | 100(i)                                                                                                                                  |           2021 | 100mg/kg    |          |
+| DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL | 472e                                                                                                                                    |           2005 | 5000mg/kg   |          |
+| ETHYLENE DIAMINE TETRA ACETATES                    | 385, 386                                                                                                                                |           2005 | 25mg/kg     | 21       |
+| FAST GREEN FCF                                     | 143                                                                                                                                     |           1999 | 100mg/kg    |          |
+| GRAPE SKIN EXTRACT                                 | 163(ii)                                                                                                                                 |           2010 | 300mg/kg    | 181      |
+| INDIGOTINE (INDIGO CARMINE)                        | 132                                                                                                                                     |           2009 | 300mg/kg    |          |
+| PHOSPHATES                                         | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2009 | 440mg/kg    | 33 & 88  |
+| POLYSORBATES                                       | 432-436                                                                                                                                 |           2007 | 120mg/kg    |          |
+| PONCEAU 4R (COCHINEAL RED A)                       | 124                                                                                                                                     |           2008 | 200mg/kg    |          |
+| STEAROYL LACTYLATES                                | 481(i), 482(i)                                                                                                                          |           2018 | 8000mg/kg   | 430      |
+| STEVIOL GLYCOSIDES                                 | 960a, 960b, 960c, 960d                                                                                                                  |           2023 | 160mg/kg    | 26, 477  |
+| SUCROSE ESTERS                                     | 473, 473a, 474                                                                                                                          |           2021 | 5000mg/kg   | 431      |
+| SULFITES                                           | 220-225, 539                                                                                                                            |           2006 | 200mg/kg    | 44       |
+| SUNSET YELLOW FCF                                  | 110                                                                                                                                     |           2008 | 200mg/kg    |          |
+| TARTRATES                                          | 334, 335(ii), 337                                                                                                                       |           2018 | 3000mg/kg   | 45, 431  |
+| TARTRAZINE                                         | 102                                                                                                                                     |           2021 | 200mg/kg    |          |
+Food Category No. 14.2.7
+Aromatized alcoholic beverages (e.g. beer, wine and spirituous cooler-type beverages, low alcoholic refreshers)
+| Additive                          | INS      |   Year Adopted | Max Level   | Notes     |
+|-----------------------------------|----------|----------------|-------------|-----------|
+| ACESULFAME POTASSIUM              | 950      |           2007 | 350mg/kg    | 188 & 478 |
+| ADVANTAME                         | 969      |           2023 | 6mg/kg      | 478       |
+| ALLURA RED AC                     | 129      |           2009 | 200mg/kg    |           |
+| AMARANTH                          | 123      |           2021 | 100mg/kg    |           |
+| ANNATTO EXTRACTS, BIXIN-BASED     | 160b(i)  |           2021 | 30mg/kg     | 8         |
+| ANNATTO EXTRACTS, NORBIXIN- BASED | 160b(ii) |           2021 | 10mg/kg     | 185       |
+| ASPARTAME                         | 951      |           2007 | 600mg/kg    | 191 & 478 |
+| ASPARTAME-ACESULFAME SALT         | 962      |           2010 | 350mg/kg    | 113 & 477 |
+Food Category No. 14.2.7
+Aromatized alcoholic beverages (e.g. beer, wine and spirituous cooler-type beverages, low alcoholic refreshers)
+| Additive                                           | INS                    |   Year Adopted | Max Level   | Notes     |
+|----------------------------------------------------|------------------------|----------------|-------------|-----------|
+| AZORUBINE (CARMOISINE)                             | 122                    |           2021 | 100mg/kg    |           |
+| BENZOATES                                          | 210-213                |           2003 | 1000mg/kg   | 13        |
+| BRILLIANT BLACK (BLACK PN)                         | 151                    |           2021 | 30mg/kg     |           |
+| BRILLIANT BLUE FCF                                 | 133                    |           2005 | 200mg/kg    |           |
+| BROWN HT                                           | 155                    |           2021 | 200mg/kg    |           |
+| CANTHAXANTHIN                                      | 161g                   |           2011 | 5mg/kg      |           |
+| CARAMEL II - SULFITE CARAMEL                       | 150b                   |           2021 | 4000mg/kg   |           |
+| CARAMEL III - AMMONIA CARAMEL                      | 150c                   |           2010 | 50000mg/kg  |           |
+| CARAMEL IV - SULFITE AMMONIA CARAMEL               | 150d                   |           2011 | 50000mg/kg  |           |
+| CARMINES                                           | 120                    |           2008 | 200mg/kg    | 178       |
+| CAROTENES, BETA-                                   | 160a(i),a(iii),a(iv)   |           2023 | 15mg/kg     | 341, 344  |
+| CAROTENES, BETA-, VEGETABLE                        | 160a(ii)               |           2023 | 15mg/kg     | 341, 344  |
+| CURCUMIN                                           | 100(i)                 |           2021 | 100mg/kg    |           |
+| CYCLAMATES                                         | 952(i), (ii), (iv)     |           2007 | 250mg/kg    | 17 & 477  |
+| DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL | 472e                   |           2005 | 10000mg/kg  |           |
+| ETHYLENE DIAMINE TETRA ACETATES                    | 385, 386               |           2007 | 25mg/kg     | 21        |
+| FAST GREEN FCF                                     | 143                    |           1999 | 100mg/kg    |           |
+| GRAPE SKIN EXTRACT                                 | 163(ii)                |           2009 | 300mg/kg    | 181       |
+| HYDROXYBENZOATES, PARA-                            | 214, 218               |           2012 | 1000mg/kg   | 27 & 224  |
+| INDIGOTINE (INDIGO CARMINE)                        | 132                    |           2009 | 200mg/kg    |           |
+| NEOTAME                                            | 961                    |           2007 | 33mg/kg     | 478       |
+| PAPRIKA EXTRACT                                    | 160c(ii)               |           2021 | 10mg/kg     | 39        |
+| POLYDIMETHYLSILOXANE                               | 900a                   |           1999 | 10mg/kg     |           |
+| POLYGLYCEROL ESTERS OF FATTY ACIDS                 | 475                    |           2018 | 20mg/kg     |           |
+| POLYSORBATES                                       | 432-436                |           2007 | 120mg/kg    |           |
+| PONCEAU 4R (COCHINEAL RED A)                       | 124                    |           2008 | 200mg/kg    |           |
+| QUINOLINE YELLOW                                   | 104                    |           2021 | 70mg/kg     |           |
+| SACCHARINS                                         | 954(i)-(iv)            |           2007 | 80mg/kg     | 500 & 477 |
+| SORBATES                                           | 200, 202, 203          |           2012 | 500mg/kg    | 42 & 224  |
+| STEVIOL GLYCOSIDES                                 | 960a, 960b, 960c, 960d |           2011 | 200mg/kg    | 26 & 477  |
+| SUCRALOSE (TRICHLOROGALACTOSUCROSE)                | 955                    |           2021 | 700mg/kg    | 478       |
+| SUCROSE ESTERS                                     | 473, 473a, 474         |           2021 | 5000mg/kg   | 536       |
+| SULFITES                                           | 220-225, 539           |           2011 | 250mg/kg    | 44        |
+| SUNSET YELLOW FCF                                  | 110                    |           2008 | 200mg/kg    |           |
+| TARTRATES                                          | 334, 335(ii), 337      |           2018 | 4000mg/kg   | 45        |
+Food Category No. 14.2.7
+Aromatized alcoholic beverages (e.g. beer, wine and spirituous cooler-type beverages, low alcoholic refreshers)
+| Additive    | INS        |   Year Adopted | Max Level   | Notes   |
+|-------------|------------|----------------|-------------|---------|
+| TARTRAZINE  | 102        |           2021 | 200mg/kg    |         |
+| TOCOPHEROLS | 307a, b, c |           2018 | 5mg/kg      |         |
+Food Category No. 15.0
+Ready-to-eat savouries
+| Additive                             | INS                                                                                                                                     |   Year Adopted | Max Level   | Notes     |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|-------------|-----------|
+| ACESULFAME POTASSIUM                 | 950                                                                                                                                     |           2007 | 350mg/kg    | 188 & 478 |
+| ADVANTAME                            | 969                                                                                                                                     |           2023 | 5mg/kg      | 478       |
+| ASPARTAME                            | 951                                                                                                                                     |           2008 | 500mg/kg    | 191 & 478 |
+| ASPARTAME-ACESULFAME SALT            | 962                                                                                                                                     |           2023 | 500mg/kg    | 119 & 144 |
+| BEESWAX                              | 901                                                                                                                                     |           2001 | GMP         | 3         |
+| BUTYLATED HYDROXYTOLUENE             | 321                                                                                                                                     |           2006 | 200mg/kg    | 15 & 130  |
+| CANDELILLA WAX                       | 902                                                                                                                                     |           2001 | GMP         | 3         |
+| CARAMEL II - SULFITE CARAMEL         | 150b                                                                                                                                    |           2024 | 1000mg/kg   |           |
+| CARAMEL III - AMMONIA CARAMEL        | 150c                                                                                                                                    |           2009 | 10000mg/kg  |           |
+| CARAMEL IV - SULFITE AMMONIA CARAMEL | 150d                                                                                                                                    |           2009 | 10000mg/kg  |           |
+| CARNAUBA WAX                         | 903                                                                                                                                     |           2006 | 200mg/kg    | 3         |
+| NEOTAME                              | 961                                                                                                                                     |           2007 | 32mg/kg     | 478       |
+| PHOSPHATES                           | 338; 339(i)-(iii); 340(i)- (iii); 341(i)-(iii); 342(i)- (ii); 343(i)-(iii); 450(i)- (iii),(v)-(vii), (ix); 451(i),(ii); 452(i)-(v); 542 |           2009 | 2200mg/kg   | 33        |
+| SACCHARINS                           | 954(i)-(iv)                                                                                                                             |           2007 | 100mg/kg    | 500 & 477 |
+| SHELLAC, BLEACHED                    | 904                                                                                                                                     |           2001 | GMP         | 3         |
+| STEVIOL GLYCOSIDES                   | 960a, 960b, 960c, 960d                                                                                                                  |           2011 | 170mg/kg    | 26 & 477  |
+| SUCRALOSE (TRICHLOROGALACTOSUCROSE)  | 955                                                                                                                                     |           2021 | 1000mg/kg   | 478       |
+| TARTRATES                            | 334, 335(ii), 337                                                                                                                       |           2018 | 2000mg/kg   | 45        |
+| TERTIARY BUTYLHYDROQUINONE           | 319                                                                                                                                     |           2005 | 200mg/kg    | 15 & 130  |
+| THIODIPROPIONATES                    | 388, 389                                                                                                                                |           1999 | 200mg/kg    | 46        |
+Food Category No. 15.1
+Snacks - potato, cereal, flour or starch based (from roots and tubers, pulses and legumes)
+| Additive                          | INS      |   Year Adopted | Max Level   | Notes     |
+|-----------------------------------|----------|----------------|-------------|-----------|
+| ALLURA RED AC                     | 129      |           2024 | 200mg/kg    |           |
+| ANNATTO EXTRACTS, BIXIN-BASED     | 160b(i)  |           2024 | 20mg/kg     | 8 & 603   |
+| ANNATTO EXTRACTS, NORBIXIN- BASED | 160b(ii) |           2024 | 20mg/kg     | 185 & 603 |
+| ASCORBYL ESTERS                   | 304, 305 |           2001 | 200mg/kg    | 10        |
