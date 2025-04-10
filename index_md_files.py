@@ -1,6 +1,6 @@
 import os
 import glob
-import markdown  # Optional: for converting markdown to HTML
+# import markdown  # Optional: for converting markdown to HTML
 from elasticsearch import Elasticsearch
 from dotenv import load_dotenv
 
