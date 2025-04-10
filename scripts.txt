@@ -1,9 +1,6 @@
 ## Im forgetful hence:
 .\env\Scripts\Activate.ps1
 
-packages:
-pip install elasticsearch markdown
-
 elastic: http://localhost:9200
 kibana: http://localhost:5601
 
